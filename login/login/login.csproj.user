@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CreateDiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateExcercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateMeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateWorkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExcerciseDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MealDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MemberD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MemberReviewTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OwnerD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewDiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewWorkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

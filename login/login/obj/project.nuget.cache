@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXPSM4i/vk1h/remR+6Cux+HijM1rVkLKZmrka1RgDNhbCaVjGLVyCuKX5k54TN8Tw3arcsOLCKnS4ikjJK9Hw==",
+  "success": true,
+  "projectFilePath": "D:\\dbproject\\login\\login\\login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saffi\\.nuget\\packages\\guna.charts.winforms\\1.0.9\\guna.charts.winforms.1.0.9.nupkg.sha512",
+    "C:\\Users\\saffi\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\saffi\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\saffi\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

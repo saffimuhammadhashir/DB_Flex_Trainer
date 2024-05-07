@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "login", "login\login.csproj", "{16EA43E9-D1E4-4EC3-90DA-771564018B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_base_spring_2024", "..\Data_base_spring_2024\Data_base_spring_2024.csproj", "{DD6270DD-EED6-4BAA-A9D4-01CDA6F48F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16EA43E9-D1E4-4EC3-90DA-771564018B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EA43E9-D1E4-4EC3-90DA-771564018B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EA43E9-D1E4-4EC3-90DA-771564018B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EA43E9-D1E4-4EC3-90DA-771564018B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6270DD-EED6-4BAA-A9D4-01CDA6F48F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6270DD-EED6-4BAA-A9D4-01CDA6F48F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6270DD-EED6-4BAA-A9D4-01CDA6F48F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6270DD-EED6-4BAA-A9D4-01CDA6F48F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC7F7A05-4CFB-447C-80B2-1A88395BAB78}
+	EndGlobalSection
+EndGlobal
