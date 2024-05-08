@@ -7693,7 +7693,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightCyan;
-            ClientSize = new Size(923, 566);
+            ClientSize = new Size(923, 621);
             Controls.Add(guna2Panel1);
             Controls.Add(guna2TabControl1);
             FormBorderStyle = FormBorderStyle.FixedSingle;

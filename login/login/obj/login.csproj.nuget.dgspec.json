@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dbproject\\login\\login\\login.csproj": {}
+    "E:\\github\\DB_Flex_Trainer\\login\\login\\login.csproj": {}
   },
   "projects": {
-    "D:\\dbproject\\Data_base_spring_2024\\Data_base_spring_2024.csproj": {
+    "E:\\github\\DB_Flex_Trainer\\Data_base_spring_2024\\Data_base_spring_2024.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\dbproject\\Data_base_spring_2024\\Data_base_spring_2024.csproj",
+        "projectUniqueName": "E:\\github\\DB_Flex_Trainer\\Data_base_spring_2024\\Data_base_spring_2024.csproj",
         "projectName": "Data_base_spring_2024",
-        "projectPath": "D:\\dbproject\\Data_base_spring_2024\\Data_base_spring_2024.csproj",
+        "projectPath": "E:\\github\\DB_Flex_Trainer\\Data_base_spring_2024\\Data_base_spring_2024.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,21 +19,17 @@
         "net472": {}
       }
     },
-    "D:\\dbproject\\login\\login\\login.csproj": {
+    "E:\\github\\DB_Flex_Trainer\\login\\login\\login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dbproject\\login\\login\\login.csproj",
+        "projectUniqueName": "E:\\github\\DB_Flex_Trainer\\login\\login\\login.csproj",
         "projectName": "login",
-        "projectPath": "D:\\dbproject\\login\\login\\login.csproj",
-        "packagesPath": "C:\\Users\\saffi\\.nuget\\packages\\",
-        "outputPath": "D:\\dbproject\\login\\login\\obj\\",
+        "projectPath": "E:\\github\\DB_Flex_Trainer\\login\\login\\login.csproj",
+        "packagesPath": "C:\\Users\\MADINA\\.nuget\\packages\\",
+        "outputPath": "E:\\github\\DB_Flex_Trainer\\login\\login\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\saffi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MADINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,15 +37,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\dbproject\\Data_base_spring_2024\\Data_base_spring_2024.csproj": {
-                "projectPath": "D:\\dbproject\\Data_base_spring_2024\\Data_base_spring_2024.csproj"
+              "E:\\github\\DB_Flex_Trainer\\Data_base_spring_2024\\Data_base_spring_2024.csproj": {
+                "projectPath": "E:\\github\\DB_Flex_Trainer\\Data_base_spring_2024\\Data_base_spring_2024.csproj"
               }
             }
           }
@@ -71,6 +66,10 @@
             "Guna.UI2.WinForms": {
               "target": "Package",
               "version": "[2.0.4.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
@@ -92,7 +91,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

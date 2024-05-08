@@ -12,9 +12,11 @@ namespace login
 {
     public partial class MemberD : Form
     {
-        public MemberD()
+        private string loggedInEmail;
+        public MemberD(string email)
         {
             InitializeComponent();
+            this.loggedInEmail = email;
         }
 
         private void guna2Button3_Click(object sender, EventArgs e)
@@ -50,6 +52,7 @@ namespace login
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
+
             guna2Button1.BorderThickness = 0;
             guna2Button2.BorderThickness = 1;
             guna2Button3.BorderThickness = 0;
@@ -59,6 +62,9 @@ namespace login
             {
                 guna2TabControl1.SelectedIndex = 1; // Select the first tab
             }
+            Login EL = new Login();
+            label32.Text = loggedInEmail;
+
         }
 
         private void guna2Button4_Click(object sender, EventArgs e)
