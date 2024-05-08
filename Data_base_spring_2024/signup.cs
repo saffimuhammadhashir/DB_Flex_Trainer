@@ -474,8 +474,7 @@ namespace Data_base_spring_2024
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-            TrainerDashboard obj = new TrainerDashboard();
-            obj.Show();
+            this.Hide();
         }
     }
 }

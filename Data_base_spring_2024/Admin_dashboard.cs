@@ -12,11 +12,14 @@ namespace Data_base_spring_2024
 {
     public partial class Admin_dashboard : Form
     {
-        public Admin_dashboard()
+        private string userEmail;
+
+        public Admin_dashboard(string email)
         {
             InitializeComponent();
+            this.userEmail = email;
+            label4.Text = userEmail;
         }
-
         private void guna2Panel1_Paint(object sender, PaintEventArgs e)
         {
 

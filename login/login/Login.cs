@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Collections;
+using Data_base_spring_2024;
 
 
 
@@ -43,17 +44,17 @@ namespace login
 
         private void label8_Click(object sender, EventArgs e)
         {
-            Data_base_spring_2024.Form1 obj = new Data_base_spring_2024.Form1();
+            Data_base_spring_2024.Form1 obj = new Form1();
             obj.Show();
-            this.Hide();
+            
         }
         private void guna2Button1_Click(object sender, EventArgs e)
         {
 
-            string connectionString = "Data Source=ABDULLAHS-PC\\SQLEXPRESS;Initial Catalog=FlexTrainer;Integrated Security=True";
-            string email = guna2TextBox1.Text;
+         string connectionString = "Data Source=SAFFI-MUHAMMAD-;Initial Catalog=FlexTrainer;Integrated Security=True;Encrypt=False";
+        string email = guna2TextBox1.Text;
             string pass = guna2TextBox2.Text;
-
+            string username = " ";
             SqlConnection connection = new SqlConnection(connectionString);
             string query = "select * from USERS where email = '" + email + "' AND password = '" + pass+"'";
             SqlCommand command = new SqlCommand(query, connection);
@@ -62,16 +63,34 @@ namespace login
             SqlDataReader reader = command.ExecuteReader();
             if (reader.Read())
             {
+                
+                username =  reader["username"].ToString();
                 reader.Close();
+
                 string queryM = "select * from member where email = '" + email+"'";
                 SqlCommand commandM = new SqlCommand(queryM, connection);
+                
                 SqlDataReader readerM = commandM.ExecuteReader();
+
                 if (readerM.Read())
                 {
                     MemberD objM = new MemberD(email);
                     objM.Show();
                     this.Hide();
                 }
+                readerM.Close();
+
+                string queryA = "select * from Admin where email = '" + email + "'";
+                SqlCommand commandA = new SqlCommand(queryA, connection);
+                SqlDataReader readerA = commandA.ExecuteReader();
+                if (readerA.Read())
+                {
+
+                    Admin_dashboard obj = new Admin_dashboard(username);
+                    obj.Show();
+                    this.Hide();
+                }
+
             }
             else
             {
