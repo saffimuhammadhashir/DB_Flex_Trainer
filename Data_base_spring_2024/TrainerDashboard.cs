@@ -571,5 +571,10 @@ namespace Data_base_spring_2024
         {
             guna2TabControl1.SelectedIndex = 8;
         }
+
+        private void label3_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
