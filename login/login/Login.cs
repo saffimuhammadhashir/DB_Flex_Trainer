@@ -51,7 +51,7 @@ namespace login
         private void guna2Button1_Click(object sender, EventArgs e)
         {
 
-         string connectionString = "Data Source=SAFFI-MUHAMMAD-;Initial Catalog=FlexTrainer;Integrated Security=True;Encrypt=False";
+         string connectionString = "Data Source=ABDULLAHS-PC\\SQLEXPRESS;Initial Catalog=FlexTrainer;Integrated Security=True; MultipleActiveResultSets=true";
         string email = guna2TextBox1.Text;
             string pass = guna2TextBox2.Text;
             string username = " ";
@@ -74,7 +74,7 @@ namespace login
 
                 if (readerM.Read())
                 {
-                    MemberD objM = new MemberD(email);
+                    MemberD objM = new MemberD(email,connectionString);
                     objM.Show();
 
                 }

@@ -1,35 +1,20 @@
-﻿using Guna.UI2.WinForms;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
-using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
-using System.Web.UI.WebControls;
 using System.Windows.Forms;
 
 namespace Data_base_spring_2024
 {
-
     public partial class TrainerDashboard : Form
     {
-
-        private string userEmail, username, firstName, lastName, gender, membershipStatus, gymlocation,info,street,city,country;
-        private DateTime registrationDate;
-        private int gymId, trainerid, performancescore, appointments;
-        private float attendance;
-        private string connectionString = "Data Source=SAFFI-MUHAMMAD-;Initial Catalog=FlexTrainer;Integrated Security=True;Encrypt=False";
-
-        public TrainerDashboard(string passingemail)
+        public TrainerDashboard()
         {
             InitializeComponent();
-            userEmail = passingemail;
-            label8.Text = userEmail;
-
             guna2Button40.Visible = false;
             guna2Button41.Visible = false;
             guna2Shapes42.Visible = true;
@@ -63,219 +48,13 @@ namespace Data_base_spring_2024
             guna2TextBox15.Visible = false;
             guna2TextBox16.Visible = false;
             guna2Button36.Visible = true;
-
-
-
-            // Email to search for
-            string emailToSearch = userEmail;
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                // SQL command to select data against the email
-                string query = "SELECT * FROM USERS WHERE email = @Email";
-
-                SqlCommand command = new SqlCommand(query, connection);
-                command.Parameters.AddWithValue("@Email", emailToSearch);
-
-                try
-                {
-                    connection.Open();
-                    SqlDataReader reader = command.ExecuteReader();
-
-                    if (reader.HasRows)
-                    {
-                        while (reader.Read())
-                        {
-
-                            username = reader["username"].ToString();
-                            firstName = reader["firstName"].ToString();
-                            lastName = reader["lastName"].ToString();
-                            registrationDate = Convert.ToDateTime(reader["registration_date"]);
-                            gender = reader["gender"].ToString();
-                            membershipStatus = reader["membership_status"].ToString();
-                            street = reader["streetaddress"].ToString() ;
-                            city = reader["cityaddress"].ToString();
-                            country = reader["countryaddress"].ToString();
-                            label6.Text = username;
-                            label11.Text = firstName;
-                            label12.Text = lastName;
-                            label16.Text = street;
-                            label21.Text = city;
-                            label20.Text = country;
-
-                        }
-                    }
-                    else
-                    {
-                        Console.WriteLine("No rows found.");
-                    }
-                    reader.Close();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
-            }
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-
-                string query = "SELECT * FROM Trainer WHERE email = @Email";
-
-
-                SqlCommand command = new SqlCommand(query, connection);
-                command.Parameters.AddWithValue("@Email", emailToSearch);
-
-                try
-                {
-                    connection.Open();
-                    SqlDataReader reader = command.ExecuteReader();
-
-                    if (reader.HasRows)
-                    {
-                        while (reader.Read())
-                        {
-
-                            trainerid = reader.GetInt32(reader.GetOrdinal("Trainer_id"));
-                            performancescore = reader.GetInt32(reader.GetOrdinal("performance"));
-                            attendance = reader.GetInt32(reader.GetOrdinal("attendance"));
-                            attendance = (attendance / 30) * 100;
-                            int val = (int)attendance;
-                            info = reader["personal_info"].ToString();
-                            label201.Text = info;
-                            guna2ProgressBar1.Value = val;
-                            guna2CircleProgressBar1.Value = performancescore;
-
-                        }
-                    }
-                    else
-                    {
-                        Console.WriteLine("No rows found.");
-                        MessageBox.Show("error");
-                    }
-                    reader.Close();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                    MessageBox.Show("error");
-                }
-            }
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                string query = "SELECT COUNT(*) FROM Appointment WHERE trainer_id = @trainerid";
-
-
-                SqlCommand command = new SqlCommand(query, connection);
-                command.Parameters.AddWithValue("@trainerid", trainerid); // Assuming trainerId is the parameter for the trainer's ID
-
-                try
-                {
-                    connection.Open();
-                    int count = (int)command.ExecuteScalar();
-                    appointments = count;
-                    guna2ProgressBar2.Value = appointments;
-                    Console.WriteLine("Number of appointments: " + count);
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
-            }
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                string query = @"SELECT Gym.Gym_id
-                    FROM Gym_hired_trainers
-                    JOIN Trainer ON Trainer.Trainer_id = Gym_hired_trainers.trainer_id
-                    JOIN Gym ON Gym.Gym_id = Gym_hired_trainers.Gym_id
-                    WHERE Trainer.email = @Email";
-
-                SqlCommand command = new SqlCommand(query, connection);
-                command.Parameters.AddWithValue("@Email", emailToSearch);
-
-                try
-                {
-                    connection.Open();
-                    SqlDataReader reader = command.ExecuteReader();
-
-                    if (reader.HasRows)
-                    {
-                        while (reader.Read())
-                        {
-
-                            gymId = reader.GetInt32(reader.GetOrdinal("Gym_id"));
-
-                        }
-                    }
-                    else
-                    {
-                        Console.WriteLine("No rows found.");
-                     
-                    }
-                    reader.Close();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
-            }
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                // SQL command to retrieve gym location based on gymId
-                string query = "SELECT * FROM Gym_location WHERE Gym_id = @id";
-
-
-                SqlCommand command = new SqlCommand(query, connection);
-                command.Parameters.AddWithValue("@id", gymId);
-
-                try
-                {
-                    connection.Open();
-                    SqlDataReader reader = command.ExecuteReader();
-
-                    if (reader.HasRows)
-                    {
-                        while (reader.Read())
-                        {
-                            gymlocation = reader["Gym_id"].ToString();
-                            label62.Text = gymlocation;
-
-                        }
-                    }
-                    else
-                    {
-                        Console.WriteLine("No rows found.");
-                    }
-                    reader.Close();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
-            }
-            for (int i = 0; i < 10; i++)
-            {
-                var item = new guna2Panel12();
-                label+=label85
-                    item+=
-                item.ItemText = "Item " + i; // Set any properties or data for each item
-                // Attach event handlers or configure the item as needed
-                // item.SomeEvent += Item_SomeEvent;
-                flowLayoutPanel1.Controls.Add(item);
-            }
-
+            //guna2ProgressIndicator1.Visible = false;
 
         }
-
-
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
             guna2TabControl1.SelectedIndex = 0;
-
         }
 
         private void guna2Panel1_Paint(object sender, PaintEventArgs e)
@@ -573,43 +352,9 @@ namespace Data_base_spring_2024
         private void guna2Button3_Click(object sender, EventArgs e)
         {
             guna2Button3.Visible = false;
-            guna2Button6.Visible = true;
+            guna2Button2.Visible = true;
             guna2TextBox1.Visible = false;
 
-
-            string usernameToUpdate = userEmail;
-
-            string newFirstName = guna2TextBox1.Text;
-            label11.Text = newFirstName;
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                string query = "UPDATE USERS SET firstName = @NewFirstName WHERE email = @Username";
-
-                SqlCommand command = new SqlCommand(query, connection);
-                command.Parameters.AddWithValue("@NewFirstName", newFirstName);
-                command.Parameters.AddWithValue("@Username", userEmail);
-
-                try
-                {
-                    connection.Open();
-                    int rowsAffected = command.ExecuteNonQuery();
-
-                    if (rowsAffected > 0)
-                    {
-                        MessageBox.Show("Updated");
-                    }
-                    else
-                    {
-                        MessageBox.Show("No rows updated");
-                    }
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show($"Exception occurred: {ex.Message}");
-                    // Consider logging the exception for debugging purposes
-                }
-            }
         }
 
         private void guna2Button6_Click(object sender, EventArgs e)
@@ -629,40 +374,6 @@ namespace Data_base_spring_2024
             guna2Button4.Visible = false;
             guna2Button5.Visible = true;
             guna2TextBox2.Visible = false;
-
-            string usernameToUpdate = userEmail;
-
-            string newFirstName = guna2TextBox2.Text;
-            label12.Text = newFirstName;
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                string query = "UPDATE USERS SET lastname = @NewFirstName WHERE email = @Username";
-
-                SqlCommand command = new SqlCommand(query, connection);
-                command.Parameters.AddWithValue("@NewFirstName", newFirstName);
-                command.Parameters.AddWithValue("@Username", userEmail);
-
-                try
-                {
-                    connection.Open();
-                    int rowsAffected = command.ExecuteNonQuery();
-
-                    if (rowsAffected > 0)
-                    {
-                        MessageBox.Show("Updated");
-                    }
-                    else
-                    {
-                        MessageBox.Show("No rows updated");
-                    }
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show($"Exception occurred: {ex.Message}");
-                    // Consider logging the exception for debugging purposes
-                }
-            }
         }
 
         private void guna2Button5_Click(object sender, EventArgs e)
@@ -689,42 +400,6 @@ namespace Data_base_spring_2024
             guna2Button10.Visible = false;
             guna2Button15.Visible = true;
             guna2TextBox5.Visible = false;
-            string usernameToUpdate = userEmail;
-
-            if (guna2TextBox5.Text != "")
-            {
-                string newFirstName = guna2TextBox5.Text;
-                label16.Text = newFirstName;
-
-                using (SqlConnection connection = new SqlConnection(connectionString))
-                {
-                    string query = "UPDATE USERS SET streetaddress = @NewFirstName WHERE email = @Username";
-
-                    SqlCommand command = new SqlCommand(query, connection);
-                    command.Parameters.AddWithValue("@NewFirstName", newFirstName);
-                    command.Parameters.AddWithValue("@Username", userEmail);
-
-                    try
-                    {
-                        connection.Open();
-                        int rowsAffected = command.ExecuteNonQuery();
-
-                        if (rowsAffected > 0)
-                        {
-                            MessageBox.Show("Updated");
-                        }
-                        else
-                        {
-                            MessageBox.Show("No rows updated");
-                        }
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show($"Exception occurred: {ex.Message}");
-                        // Consider logging the exception for debugging purposes
-                    }
-                }
-            }
         }
 
         private void guna2Button14_Click(object sender, EventArgs e)
@@ -739,41 +414,6 @@ namespace Data_base_spring_2024
             guna2Button14.Visible = true;
             guna2Button12.Visible = false;
             guna2TextBox8.Visible = false;
-            if (guna2TextBox8.Text != "")
-            {
-                string newFirstName = guna2TextBox8.Text;
-                label21.Text = newFirstName;
-
-                using (SqlConnection connection = new SqlConnection(connectionString))
-                {
-                    string query = "UPDATE USERS SET cityaddress = @NewFirstName WHERE email = @Username";
-
-                    SqlCommand command = new SqlCommand(query, connection);
-                    command.Parameters.AddWithValue("@NewFirstName", newFirstName);
-                    command.Parameters.AddWithValue("@Username", userEmail);
-
-                    try
-                    {
-                        connection.Open();
-                        int rowsAffected = command.ExecuteNonQuery();
-
-                        if (rowsAffected > 0)
-                        {
-                            MessageBox.Show("Updated");
-                        }
-                        else
-                        {
-                            MessageBox.Show("No rows updated");
-                        }
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show($"Exception occurred: {ex.Message}");
-                        // Consider logging the exception for debugging purposes
-                    }
-                }
-            }
-
         }
 
         private void guna2TextBox8_TextChanged(object sender, EventArgs e)
@@ -794,40 +434,6 @@ namespace Data_base_spring_2024
             guna2Button13.Visible = true;
             guna2Button11.Visible = false;
             guna2TextBox7.Visible = false;
-            if (guna2TextBox7.Text != "")
-            {
-                string newFirstName = guna2TextBox7.Text;
-                label20.Text = newFirstName;
-
-                using (SqlConnection connection = new SqlConnection(connectionString))
-                {
-                    string query = "UPDATE USERS SET countryaddress = @NewFirstName WHERE email = @Username";
-
-                    SqlCommand command = new SqlCommand(query, connection);
-                    command.Parameters.AddWithValue("@NewFirstName", newFirstName);
-                    command.Parameters.AddWithValue("@Username", userEmail);
-
-                    try
-                    {
-                        connection.Open();
-                        int rowsAffected = command.ExecuteNonQuery();
-
-                        if (rowsAffected > 0)
-                        {
-                            MessageBox.Show("Updated");
-                        }
-                        else
-                        {
-                            MessageBox.Show("No rows updated");
-                        }
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show($"Exception occurred: {ex.Message}");
-                        // Consider logging the exception for debugging purposes
-                    }
-                }
-            }
         }
 
         private void guna2TextBox7_TextChanged(object sender, EventArgs e)
@@ -847,51 +453,10 @@ namespace Data_base_spring_2024
 
         private void guna2Button35_Click(object sender, EventArgs e)
         {
-
-            if (guna2TextBox15.Text == guna2TextBox16.Text && guna2TextBox16.Text != "")
-            {
-
-                guna2Button35.Visible = false;
-                guna2TextBox15.Visible = false;
-                guna2TextBox16.Visible = false;
-                guna2Button36.Visible = true;
-
-
-
-                string usernameToUpdate = userEmail;
-
-                string newFirstName = guna2TextBox16.Text;
-                label12.Text = guna2TextBox16.Text;
-
-                using (SqlConnection connection = new SqlConnection(connectionString))
-                {
-                    string query = "UPDATE USERS SET password = @NewFirstName WHERE email = @Username";
-
-                    SqlCommand command = new SqlCommand(query, connection);
-                    command.Parameters.AddWithValue("@NewFirstName", newFirstName);
-                    command.Parameters.AddWithValue("@Username", userEmail);
-
-                    try
-                    {
-                        connection.Open();
-                        int rowsAffected = command.ExecuteNonQuery();
-
-                        if (rowsAffected > 0)
-                        {
-                            MessageBox.Show("Updated");
-                        }
-                        else
-                        {
-                            MessageBox.Show("No rows updated");
-                        }
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show($"Exception occurred: {ex.Message}");
-                        // Consider logging the exception for debugging purposes
-                    }
-                }
-            }
+            guna2Button35.Visible = false;
+            guna2TextBox15.Visible = false;
+            guna2TextBox16.Visible = false;
+            guna2Button36.Visible = true;
 
         }
 
@@ -900,7 +465,7 @@ namespace Data_base_spring_2024
             guna2Button35.Visible = true;
             guna2TextBox15.Visible = true;
             guna2TextBox16.Visible = true;
-            guna2Button36.Visible = false;
+            guna2Button36.Visible =false;
         }
 
         private void guna2Button77_Click(object sender, EventArgs e)
@@ -992,61 +557,6 @@ namespace Data_base_spring_2024
             guna2TabControl1.SelectedIndex = 3;
         }
 
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label11_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label12_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2TextBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2TextBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2Button16_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label201_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label62_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void TrainerDashboard_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2Panel43_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void label64_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void guna2CirclePictureBox10_Click(object sender, EventArgs e)
         {
             guna2TabControl1.SelectedIndex = 7;
@@ -1062,13 +572,7 @@ namespace Data_base_spring_2024
             guna2TabControl1.SelectedIndex = 8;
         }
 
-        private void guna2Button78_Click(object sender, EventArgs e)
-        {
-
-            this.Hide();
-        }
-
-        private void label8_Click(object sender, EventArgs e)
+        private void label3_Click_1(object sender, EventArgs e)
         {
 
         }
