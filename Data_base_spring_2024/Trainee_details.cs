@@ -39,9 +39,7 @@ namespace Data_base_spring_2024
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            Form next = new TrainerDashboard();
-            next.Show();
-            this.Hide();
+
         }
     }
 }

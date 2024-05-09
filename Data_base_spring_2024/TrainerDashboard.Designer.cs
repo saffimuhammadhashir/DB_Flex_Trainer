@@ -94,6 +94,7 @@
             this.guna2Shapes6 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label17 = new System.Windows.Forms.Label();
             this.guna2Panel5 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2Button16 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2TextBox4 = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2TextBox3 = new Guna.UI2.WinForms.Guna2TextBox();
@@ -109,8 +110,8 @@
             this.label30 = new System.Windows.Forms.Label();
             this.guna2CircleProgressBar1 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
             this.guna2Panel9 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label201 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
-            this.guna2ProgressBar3 = new Guna.UI2.WinForms.Guna2ProgressBar();
             this.guna2Panel8 = new Guna.UI2.WinForms.Guna2Panel();
             this.label28 = new System.Windows.Forms.Label();
             this.guna2ProgressBar2 = new Guna.UI2.WinForms.Guna2ProgressBar();
@@ -133,6 +134,7 @@
             this.guna2Shapes32 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label66 = new System.Windows.Forms.Label();
             this.guna2Panel20 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2Button35 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2TextBox15 = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2TextBox16 = new Guna.UI2.WinForms.Guna2TextBox();
@@ -170,101 +172,6 @@
             this.label85 = new System.Windows.Forms.Label();
             this.guna2Button26 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Shapes35 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Panel17 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label106 = new System.Windows.Forms.Label();
-            this.label107 = new System.Windows.Forms.Label();
-            this.label108 = new System.Windows.Forms.Label();
-            this.label109 = new System.Windows.Forms.Label();
-            this.label110 = new System.Windows.Forms.Label();
-            this.label111 = new System.Windows.Forms.Label();
-            this.label112 = new System.Windows.Forms.Label();
-            this.label113 = new System.Windows.Forms.Label();
-            this.label114 = new System.Windows.Forms.Label();
-            this.label115 = new System.Windows.Forms.Label();
-            this.guna2Shapes36 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label116 = new System.Windows.Forms.Label();
-            this.label117 = new System.Windows.Forms.Label();
-            this.label118 = new System.Windows.Forms.Label();
-            this.label119 = new System.Windows.Forms.Label();
-            this.label120 = new System.Windows.Forms.Label();
-            this.guna2Button38 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Shapes39 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Panel11 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
-            this.label37 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
-            this.label39 = new System.Windows.Forms.Label();
-            this.label40 = new System.Windows.Forms.Label();
-            this.label41 = new System.Windows.Forms.Label();
-            this.label42 = new System.Windows.Forms.Label();
-            this.guna2Shapes14 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label43 = new System.Windows.Forms.Label();
-            this.label44 = new System.Windows.Forms.Label();
-            this.label45 = new System.Windows.Forms.Label();
-            this.label58 = new System.Windows.Forms.Label();
-            this.label59 = new System.Windows.Forms.Label();
-            this.guna2Button21 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Shapes15 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Panel16 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label60 = new System.Windows.Forms.Label();
-            this.label71 = new System.Windows.Forms.Label();
-            this.label72 = new System.Windows.Forms.Label();
-            this.label92 = new System.Windows.Forms.Label();
-            this.label93 = new System.Windows.Forms.Label();
-            this.label94 = new System.Windows.Forms.Label();
-            this.label95 = new System.Windows.Forms.Label();
-            this.label96 = new System.Windows.Forms.Label();
-            this.label97 = new System.Windows.Forms.Label();
-            this.label100 = new System.Windows.Forms.Label();
-            this.guna2Shapes24 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label101 = new System.Windows.Forms.Label();
-            this.label102 = new System.Windows.Forms.Label();
-            this.label103 = new System.Windows.Forms.Label();
-            this.label104 = new System.Windows.Forms.Label();
-            this.label105 = new System.Windows.Forms.Label();
-            this.guna2Button22 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Shapes25 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Panel73 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label304 = new System.Windows.Forms.Label();
-            this.label305 = new System.Windows.Forms.Label();
-            this.label306 = new System.Windows.Forms.Label();
-            this.label307 = new System.Windows.Forms.Label();
-            this.label308 = new System.Windows.Forms.Label();
-            this.label309 = new System.Windows.Forms.Label();
-            this.label310 = new System.Windows.Forms.Label();
-            this.label311 = new System.Windows.Forms.Label();
-            this.label312 = new System.Windows.Forms.Label();
-            this.label313 = new System.Windows.Forms.Label();
-            this.guna2Shapes93 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label314 = new System.Windows.Forms.Label();
-            this.label315 = new System.Windows.Forms.Label();
-            this.label316 = new System.Windows.Forms.Label();
-            this.label317 = new System.Windows.Forms.Label();
-            this.label318 = new System.Windows.Forms.Label();
-            this.guna2Button23 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Shapes94 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Panel74 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label319 = new System.Windows.Forms.Label();
-            this.label320 = new System.Windows.Forms.Label();
-            this.label321 = new System.Windows.Forms.Label();
-            this.label322 = new System.Windows.Forms.Label();
-            this.label323 = new System.Windows.Forms.Label();
-            this.label324 = new System.Windows.Forms.Label();
-            this.label325 = new System.Windows.Forms.Label();
-            this.label326 = new System.Windows.Forms.Label();
-            this.label327 = new System.Windows.Forms.Label();
-            this.label328 = new System.Windows.Forms.Label();
-            this.guna2Shapes95 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label329 = new System.Windows.Forms.Label();
-            this.label330 = new System.Windows.Forms.Label();
-            this.label331 = new System.Windows.Forms.Label();
-            this.label332 = new System.Windows.Forms.Label();
-            this.label333 = new System.Windows.Forms.Label();
-            this.guna2Button24 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Shapes96 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label46 = new System.Windows.Forms.Label();
             this.label69 = new System.Windows.Forms.Label();
             this.guna2Shapes16 = new Guna.UI2.WinForms.Guna2Shapes();
@@ -278,24 +185,6 @@
             this.label90 = new System.Windows.Forms.Label();
             this.label91 = new System.Windows.Forms.Label();
             this.guna2Shapes22 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Panel14 = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2CircleButton3 = new Guna.UI2.WinForms.Guna2CircleButton();
-            this.label86 = new System.Windows.Forms.Label();
-            this.label87 = new System.Windows.Forms.Label();
-            this.label88 = new System.Windows.Forms.Label();
-            this.guna2Shapes21 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Panel21 = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2CircleButton1 = new Guna.UI2.WinForms.Guna2CircleButton();
-            this.label51 = new System.Windows.Forms.Label();
-            this.label50 = new System.Windows.Forms.Label();
-            this.label49 = new System.Windows.Forms.Label();
-            this.guna2Shapes19 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Panel13 = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2CircleButton2 = new Guna.UI2.WinForms.Guna2CircleButton();
-            this.label52 = new System.Windows.Forms.Label();
-            this.label53 = new System.Windows.Forms.Label();
-            this.label54 = new System.Windows.Forms.Label();
-            this.guna2Shapes20 = new Guna.UI2.WinForms.Guna2Shapes();
             this.guna2Button27 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Shapes18 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label48 = new System.Windows.Forms.Label();
@@ -414,6 +303,7 @@
             this.guna2Shapes76 = new Guna.UI2.WinForms.Guna2Shapes();
             this.flowLayoutPanel10 = new System.Windows.Forms.FlowLayoutPanel();
             this.guna2Panel44 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2CirclePictureBox9 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.label226 = new System.Windows.Forms.Label();
             this.label227 = new System.Windows.Forms.Label();
             this.label228 = new System.Windows.Forms.Label();
@@ -446,102 +336,55 @@
             this.guna2Shapes77 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label250 = new System.Windows.Forms.Label();
             this.label251 = new System.Windows.Forms.Label();
-            this.guna2Panel36 = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2Shapes62 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label188 = new System.Windows.Forms.Label();
-            this.guna2Shapes63 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Shapes64 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label189 = new System.Windows.Forms.Label();
-            this.guna2Shapes65 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label190 = new System.Windows.Forms.Label();
-            this.label191 = new System.Windows.Forms.Label();
-            this.guna2Shapes66 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Shapes67 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label192 = new System.Windows.Forms.Label();
-            this.label193 = new System.Windows.Forms.Label();
-            this.guna2Shapes68 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.flowLayoutPanel7 = new System.Windows.Forms.FlowLayoutPanel();
-            this.guna2Panel37 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label194 = new System.Windows.Forms.Label();
-            this.label195 = new System.Windows.Forms.Label();
-            this.label196 = new System.Windows.Forms.Label();
-            this.label197 = new System.Windows.Forms.Label();
-            this.guna2Panel38 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label198 = new System.Windows.Forms.Label();
-            this.label199 = new System.Windows.Forms.Label();
-            this.label200 = new System.Windows.Forms.Label();
-            this.label201 = new System.Windows.Forms.Label();
-            this.guna2Panel39 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label202 = new System.Windows.Forms.Label();
-            this.label203 = new System.Windows.Forms.Label();
-            this.label204 = new System.Windows.Forms.Label();
-            this.label205 = new System.Windows.Forms.Label();
-            this.guna2Panel40 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label206 = new System.Windows.Forms.Label();
-            this.label207 = new System.Windows.Forms.Label();
-            this.label208 = new System.Windows.Forms.Label();
-            this.label209 = new System.Windows.Forms.Label();
-            this.guna2Panel41 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label210 = new System.Windows.Forms.Label();
-            this.label211 = new System.Windows.Forms.Label();
-            this.label212 = new System.Windows.Forms.Label();
-            this.label213 = new System.Windows.Forms.Label();
-            this.guna2Panel42 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label214 = new System.Windows.Forms.Label();
-            this.label215 = new System.Windows.Forms.Label();
-            this.label216 = new System.Windows.Forms.Label();
-            this.label217 = new System.Windows.Forms.Label();
-            this.guna2Shapes69 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label218 = new System.Windows.Forms.Label();
-            this.label219 = new System.Windows.Forms.Label();
-            this.guna2Panel34 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2Panel29 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2Shapes54 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.label155 = new System.Windows.Forms.Label();
+            this.guna2Shapes55 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.guna2Shapes56 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.label156 = new System.Windows.Forms.Label();
             this.guna2Shapes57 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label157 = new System.Windows.Forms.Label();
-            this.guna2Shapes56 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Shapes55 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label155 = new System.Windows.Forms.Label();
-            this.guna2Shapes54 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label180 = new System.Windows.Forms.Label();
-            this.label179 = new System.Windows.Forms.Label();
+            this.label158 = new System.Windows.Forms.Label();
             this.guna2Shapes58 = new Guna.UI2.WinForms.Guna2Shapes();
             this.guna2Shapes59 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label167 = new System.Windows.Forms.Label();
-            this.label168 = new System.Windows.Forms.Label();
-            this.guna2Shapes60 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.flowLayoutPanel9 = new System.Windows.Forms.FlowLayoutPanel();
-            this.guna2Panel35 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label158 = new System.Windows.Forms.Label();
-            this.label156 = new System.Windows.Forms.Label();
-            this.label169 = new System.Windows.Forms.Label();
-            this.label170 = new System.Windows.Forms.Label();
-            this.guna2Panel29 = new Guna.UI2.WinForms.Guna2Panel();
             this.label159 = new System.Windows.Forms.Label();
             this.label160 = new System.Windows.Forms.Label();
+            this.guna2Shapes60 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.flowLayoutPanel7 = new System.Windows.Forms.FlowLayoutPanel();
+            this.guna2Panel30 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2CirclePictureBox12 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.label161 = new System.Windows.Forms.Label();
             this.label162 = new System.Windows.Forms.Label();
-            this.guna2Panel30 = new Guna.UI2.WinForms.Guna2Panel();
             this.label163 = new System.Windows.Forms.Label();
             this.label164 = new System.Windows.Forms.Label();
+            this.guna2Panel31 = new Guna.UI2.WinForms.Guna2Panel();
             this.label165 = new System.Windows.Forms.Label();
             this.label166 = new System.Windows.Forms.Label();
-            this.guna2Panel31 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label167 = new System.Windows.Forms.Label();
+            this.label168 = new System.Windows.Forms.Label();
+            this.guna2Panel32 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label169 = new System.Windows.Forms.Label();
+            this.label170 = new System.Windows.Forms.Label();
             this.label171 = new System.Windows.Forms.Label();
             this.label172 = new System.Windows.Forms.Label();
+            this.guna2Panel33 = new Guna.UI2.WinForms.Guna2Panel();
             this.label173 = new System.Windows.Forms.Label();
             this.label174 = new System.Windows.Forms.Label();
-            this.guna2Panel32 = new Guna.UI2.WinForms.Guna2Panel();
             this.label175 = new System.Windows.Forms.Label();
             this.label176 = new System.Windows.Forms.Label();
-            this.label182 = new System.Windows.Forms.Label();
-            this.label183 = new System.Windows.Forms.Label();
-            this.guna2Panel33 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label184 = new System.Windows.Forms.Label();
-            this.label185 = new System.Windows.Forms.Label();
-            this.label186 = new System.Windows.Forms.Label();
-            this.label187 = new System.Windows.Forms.Label();
-            this.guna2Shapes61 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.guna2Panel34 = new Guna.UI2.WinForms.Guna2Panel();
             this.label177 = new System.Windows.Forms.Label();
             this.label178 = new System.Windows.Forms.Label();
+            this.label179 = new System.Windows.Forms.Label();
+            this.label180 = new System.Windows.Forms.Label();
+            this.guna2Panel35 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label182 = new System.Windows.Forms.Label();
+            this.label183 = new System.Windows.Forms.Label();
+            this.label184 = new System.Windows.Forms.Label();
+            this.label185 = new System.Windows.Forms.Label();
+            this.guna2Shapes61 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.label186 = new System.Windows.Forms.Label();
+            this.label187 = new System.Windows.Forms.Label();
             this.guna2Shapes48 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label141 = new System.Windows.Forms.Label();
             this.tabPage4 = new System.Windows.Forms.TabPage();
@@ -555,6 +398,7 @@
             this.guna2Shapes50 = new Guna.UI2.WinForms.Guna2Shapes();
             this.flowLayoutPanel6 = new System.Windows.Forms.FlowLayoutPanel();
             this.guna2Panel28 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2CirclePictureBox10 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.label153 = new System.Windows.Forms.Label();
             this.label154 = new System.Windows.Forms.Label();
             this.guna2Panel27 = new Guna.UI2.WinForms.Guna2Panel();
@@ -569,52 +413,30 @@
             this.guna2Shapes51 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label144 = new System.Windows.Forms.Label();
             this.label143 = new System.Windows.Forms.Label();
-            this.guna2Panel55 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label265 = new System.Windows.Forms.Label();
-            this.guna2Shapes82 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Shapes83 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label266 = new System.Windows.Forms.Label();
-            this.label267 = new System.Windows.Forms.Label();
-            this.guna2Shapes84 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.flowLayoutPanel12 = new System.Windows.Forms.FlowLayoutPanel();
-            this.guna2Panel56 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label268 = new System.Windows.Forms.Label();
-            this.label269 = new System.Windows.Forms.Label();
-            this.guna2Panel57 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label270 = new System.Windows.Forms.Label();
-            this.label271 = new System.Windows.Forms.Label();
-            this.guna2Panel58 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label272 = new System.Windows.Forms.Label();
-            this.label273 = new System.Windows.Forms.Label();
-            this.guna2Panel59 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label274 = new System.Windows.Forms.Label();
-            this.label275 = new System.Windows.Forms.Label();
-            this.guna2Shapes85 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label276 = new System.Windows.Forms.Label();
-            this.label277 = new System.Windows.Forms.Label();
-            this.guna2Panel50 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label252 = new System.Windows.Forms.Label();
-            this.guna2Shapes78 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2Shapes79 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label253 = new System.Windows.Forms.Label();
-            this.label254 = new System.Windows.Forms.Label();
-            this.guna2Shapes80 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.flowLayoutPanel11 = new System.Windows.Forms.FlowLayoutPanel();
-            this.guna2Panel51 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label255 = new System.Windows.Forms.Label();
-            this.label256 = new System.Windows.Forms.Label();
-            this.guna2Panel52 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label257 = new System.Windows.Forms.Label();
-            this.label258 = new System.Windows.Forms.Label();
-            this.guna2Panel53 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label259 = new System.Windows.Forms.Label();
-            this.label260 = new System.Windows.Forms.Label();
-            this.guna2Panel54 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label261 = new System.Windows.Forms.Label();
-            this.label262 = new System.Windows.Forms.Label();
-            this.guna2Shapes81 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.label263 = new System.Windows.Forms.Label();
-            this.label264 = new System.Windows.Forms.Label();
+            this.guna2Panel36 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label188 = new System.Windows.Forms.Label();
+            this.guna2Shapes62 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.guna2Shapes63 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.label189 = new System.Windows.Forms.Label();
+            this.label190 = new System.Windows.Forms.Label();
+            this.guna2Shapes64 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.flowLayoutPanel9 = new System.Windows.Forms.FlowLayoutPanel();
+            this.guna2Panel37 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2CirclePictureBox13 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.label191 = new System.Windows.Forms.Label();
+            this.label192 = new System.Windows.Forms.Label();
+            this.guna2Panel38 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label193 = new System.Windows.Forms.Label();
+            this.label194 = new System.Windows.Forms.Label();
+            this.guna2Panel39 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label195 = new System.Windows.Forms.Label();
+            this.label196 = new System.Windows.Forms.Label();
+            this.guna2Panel40 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label197 = new System.Windows.Forms.Label();
+            this.label198 = new System.Windows.Forms.Label();
+            this.guna2Shapes65 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.label199 = new System.Windows.Forms.Label();
+            this.label200 = new System.Windows.Forms.Label();
             this.guna2Shapes49 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label142 = new System.Windows.Forms.Label();
             this.tabPage12 = new System.Windows.Forms.TabPage();
@@ -779,17 +601,10 @@
             this.label388 = new System.Windows.Forms.Label();
             this.guna2Shapes107 = new Guna.UI2.WinForms.Guna2Shapes();
             this.label389 = new System.Windows.Forms.Label();
-            this.guna2Button33 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Button34 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Button44 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Button77 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Button78 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Button32 = new Guna.UI2.WinForms.Guna2Button();
             this.tabPage21 = new System.Windows.Forms.TabPage();
             this.guna2Panel83 = new Guna.UI2.WinForms.Guna2Panel();
-            this.flowLayoutPanel19 = new System.Windows.Forms.FlowLayoutPanel();
             this.label397 = new System.Windows.Forms.Label();
-            this.guna2Shapes110 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.flowLayoutPanel19 = new System.Windows.Forms.FlowLayoutPanel();
             this.guna2Panel87 = new Guna.UI2.WinForms.Guna2Panel();
             this.label401 = new System.Windows.Forms.Label();
             this.guna2Button94 = new Guna.UI2.WinForms.Guna2Button();
@@ -811,6 +626,13 @@
             this.guna2Panel90 = new Guna.UI2.WinForms.Guna2Panel();
             this.label404 = new System.Windows.Forms.Label();
             this.guna2Button97 = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Shapes110 = new Guna.UI2.WinForms.Guna2Shapes();
+            this.guna2Button33 = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Button34 = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Button44 = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Button77 = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Button78 = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Button32 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2CirclePictureBox11 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2CirclePictureBox8 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2CirclePictureBox7 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
@@ -820,10 +642,6 @@
             this.guna2CirclePictureBox3 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2CirclePictureBox2 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2CirclePictureBox9 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.guna2CirclePictureBox10 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2TabControl1.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.guna2Panel1.SuspendLayout();
@@ -834,6 +652,7 @@
             this.tabPage6.SuspendLayout();
             this.guna2Panel6.SuspendLayout();
             this.guna2Panel5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.tabPage7.SuspendLayout();
             this.guna2Panel10.SuspendLayout();
             this.guna2Panel9.SuspendLayout();
@@ -842,23 +661,16 @@
             this.tabPage11.SuspendLayout();
             this.guna2Panel19.SuspendLayout();
             this.guna2Panel20.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).BeginInit();
             this.tabPage1.SuspendLayout();
             this.guna2Panel2.SuspendLayout();
             this.guna2TabControl3.SuspendLayout();
             this.tabPage8.SuspendLayout();
             this.flowLayoutPanel3.SuspendLayout();
             this.guna2Panel12.SuspendLayout();
-            this.guna2Panel17.SuspendLayout();
-            this.guna2Panel11.SuspendLayout();
-            this.guna2Panel16.SuspendLayout();
-            this.guna2Panel73.SuspendLayout();
-            this.guna2Panel74.SuspendLayout();
             this.tabPage9.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
             this.guna2Panel22.SuspendLayout();
-            this.guna2Panel14.SuspendLayout();
-            this.guna2Panel21.SuspendLayout();
-            this.guna2Panel13.SuspendLayout();
             this.tabPage10.SuspendLayout();
             this.flowLayoutPanel2.SuspendLayout();
             this.guna2Panel18.SuspendLayout();
@@ -875,47 +687,37 @@
             this.guna2Panel43.SuspendLayout();
             this.flowLayoutPanel10.SuspendLayout();
             this.guna2Panel44.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox9)).BeginInit();
             this.guna2Panel45.SuspendLayout();
             this.guna2Panel46.SuspendLayout();
             this.guna2Panel47.SuspendLayout();
             this.guna2Panel48.SuspendLayout();
             this.guna2Panel49.SuspendLayout();
-            this.guna2Panel36.SuspendLayout();
-            this.flowLayoutPanel7.SuspendLayout();
-            this.guna2Panel37.SuspendLayout();
-            this.guna2Panel38.SuspendLayout();
-            this.guna2Panel39.SuspendLayout();
-            this.guna2Panel40.SuspendLayout();
-            this.guna2Panel41.SuspendLayout();
-            this.guna2Panel42.SuspendLayout();
-            this.guna2Panel34.SuspendLayout();
-            this.flowLayoutPanel9.SuspendLayout();
-            this.guna2Panel35.SuspendLayout();
             this.guna2Panel29.SuspendLayout();
+            this.flowLayoutPanel7.SuspendLayout();
             this.guna2Panel30.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox12)).BeginInit();
             this.guna2Panel31.SuspendLayout();
             this.guna2Panel32.SuspendLayout();
             this.guna2Panel33.SuspendLayout();
+            this.guna2Panel34.SuspendLayout();
+            this.guna2Panel35.SuspendLayout();
             this.tabPage4.SuspendLayout();
             this.flowLayoutPanel5.SuspendLayout();
             this.guna2Panel24.SuspendLayout();
             this.flowLayoutPanel6.SuspendLayout();
             this.guna2Panel28.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox10)).BeginInit();
             this.guna2Panel27.SuspendLayout();
             this.guna2Panel26.SuspendLayout();
             this.guna2Panel25.SuspendLayout();
-            this.guna2Panel55.SuspendLayout();
-            this.flowLayoutPanel12.SuspendLayout();
-            this.guna2Panel56.SuspendLayout();
-            this.guna2Panel57.SuspendLayout();
-            this.guna2Panel58.SuspendLayout();
-            this.guna2Panel59.SuspendLayout();
-            this.guna2Panel50.SuspendLayout();
-            this.flowLayoutPanel11.SuspendLayout();
-            this.guna2Panel51.SuspendLayout();
-            this.guna2Panel52.SuspendLayout();
-            this.guna2Panel53.SuspendLayout();
-            this.guna2Panel54.SuspendLayout();
+            this.guna2Panel36.SuspendLayout();
+            this.flowLayoutPanel9.SuspendLayout();
+            this.guna2Panel37.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox13)).BeginInit();
+            this.guna2Panel38.SuspendLayout();
+            this.guna2Panel39.SuspendLayout();
+            this.guna2Panel40.SuspendLayout();
             this.tabPage12.SuspendLayout();
             this.guna2Panel60.SuspendLayout();
             this.guna2TabControl4.SuspendLayout();
@@ -967,10 +769,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox10)).BeginInit();
             this.SuspendLayout();
             // 
             // guna2Shapes1
@@ -1030,7 +828,7 @@
             this.guna2Button2.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
             this.guna2Button2.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button2.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
-            this.guna2Button2.Location = new System.Drawing.Point(119, 316);
+            this.guna2Button2.Location = new System.Drawing.Point(119, 306);
             this.guna2Button2.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
             this.guna2Button2.Name = "guna2Button2";
             this.guna2Button2.Size = new System.Drawing.Size(189, 36);
@@ -1244,7 +1042,6 @@
             this.guna2TabControl2.TabIndex = 0;
             this.guna2TabControl2.TabMenuBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(42)))), ((int)(((byte)(57)))));
             this.guna2TabControl2.TabMenuOrientation = Guna.UI2.WinForms.TabMenuOrientation.HorizontalTop;
-            this.guna2TabControl2.TabMenuVisible = false;
             // 
             // tabPage5
             // 
@@ -1254,10 +1051,10 @@
             this.tabPage5.Controls.Add(this.guna2Panel3);
             this.tabPage5.Controls.Add(this.label3);
             this.tabPage5.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage5.Location = new System.Drawing.Point(4, 5);
+            this.tabPage5.Location = new System.Drawing.Point(4, 44);
             this.tabPage5.Name = "tabPage5";
             this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage5.Size = new System.Drawing.Size(1135, 719);
+            this.tabPage5.Size = new System.Drawing.Size(1135, 680);
             this.tabPage5.TabIndex = 0;
             this.tabPage5.Tag = "1";
             this.tabPage5.Text = "tabPage5";
@@ -1285,9 +1082,9 @@
             this.guna2Panel4.Controls.Add(this.label18);
             this.guna2Panel4.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2Panel4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(247)))), ((int)(((byte)(245)))));
-            this.guna2Panel4.Location = new System.Drawing.Point(19, 343);
+            this.guna2Panel4.Location = new System.Drawing.Point(19, 331);
             this.guna2Panel4.Name = "guna2Panel4";
-            this.guna2Panel4.Size = new System.Drawing.Size(1090, 344);
+            this.guna2Panel4.Size = new System.Drawing.Size(1090, 323);
             this.guna2Panel4.TabIndex = 55;
             this.guna2Panel4.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel4_Paint);
             // 
@@ -1303,7 +1100,7 @@
             this.guna2Button14.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(96)))), ((int)(((byte)(125)))));
             this.guna2Button14.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button14.ForeColor = System.Drawing.Color.White;
-            this.guna2Button14.Location = new System.Drawing.Point(966, 134);
+            this.guna2Button14.Location = new System.Drawing.Point(966, 110);
             this.guna2Button14.Name = "guna2Button14";
             this.guna2Button14.Size = new System.Drawing.Size(94, 36);
             this.guna2Button14.TabIndex = 55;
@@ -1322,7 +1119,7 @@
             this.guna2Button13.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(96)))), ((int)(((byte)(125)))));
             this.guna2Button13.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button13.ForeColor = System.Drawing.Color.White;
-            this.guna2Button13.Location = new System.Drawing.Point(966, 249);
+            this.guna2Button13.Location = new System.Drawing.Point(966, 222);
             this.guna2Button13.Name = "guna2Button13";
             this.guna2Button13.Size = new System.Drawing.Size(94, 36);
             this.guna2Button13.TabIndex = 56;
@@ -1335,7 +1132,7 @@
             this.guna2Shapes5.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2Shapes5.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
             this.guna2Shapes5.LineThickness = 1;
-            this.guna2Shapes5.Location = new System.Drawing.Point(12, 225);
+            this.guna2Shapes5.Location = new System.Drawing.Point(13, 194);
             this.guna2Shapes5.Name = "guna2Shapes5";
             this.guna2Shapes5.PolygonSkip = 1;
             this.guna2Shapes5.Rotate = 0F;
@@ -1351,7 +1148,7 @@
             this.guna2Shapes4.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2Shapes4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
             this.guna2Shapes4.LineThickness = 1;
-            this.guna2Shapes4.Location = new System.Drawing.Point(16, 104);
+            this.guna2Shapes4.Location = new System.Drawing.Point(13, 94);
             this.guna2Shapes4.Name = "guna2Shapes4";
             this.guna2Shapes4.PolygonSkip = 1;
             this.guna2Shapes4.Rotate = 0F;
@@ -1375,7 +1172,7 @@
             this.guna2TextBox7.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2TextBox7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(62)))), ((int)(((byte)(62)))));
             this.guna2TextBox7.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox7.Location = new System.Drawing.Point(95, 291);
+            this.guna2TextBox7.Location = new System.Drawing.Point(95, 264);
             this.guna2TextBox7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.guna2TextBox7.Name = "guna2TextBox7";
             this.guna2TextBox7.PasswordChar = '\0';
@@ -1399,7 +1196,7 @@
             this.guna2TextBox8.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2TextBox8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(62)))), ((int)(((byte)(62)))));
             this.guna2TextBox8.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox8.Location = new System.Drawing.Point(91, 176);
+            this.guna2TextBox8.Location = new System.Drawing.Point(91, 152);
             this.guna2TextBox8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.guna2TextBox8.Name = "guna2TextBox8";
             this.guna2TextBox8.PasswordChar = '\0';
@@ -1420,7 +1217,7 @@
             this.guna2Button11.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.guna2Button11.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button11.ForeColor = System.Drawing.Color.White;
-            this.guna2Button11.Location = new System.Drawing.Point(966, 291);
+            this.guna2Button11.Location = new System.Drawing.Point(966, 264);
             this.guna2Button11.Name = "guna2Button11";
             this.guna2Button11.Size = new System.Drawing.Size(94, 36);
             this.guna2Button11.TabIndex = 58;
@@ -1438,7 +1235,7 @@
             this.guna2Button12.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.guna2Button12.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2Button12.ForeColor = System.Drawing.Color.White;
-            this.guna2Button12.Location = new System.Drawing.Point(966, 176);
+            this.guna2Button12.Location = new System.Drawing.Point(966, 152);
             this.guna2Button12.Name = "guna2Button12";
             this.guna2Button12.Size = new System.Drawing.Size(94, 36);
             this.guna2Button12.TabIndex = 57;
@@ -1452,7 +1249,7 @@
             this.label20.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label20.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(89)))), ((int)(((byte)(85)))));
-            this.label20.Location = new System.Drawing.Point(284, 251);
+            this.label20.Location = new System.Drawing.Point(284, 224);
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(190, 36);
             this.label20.TabIndex = 54;
@@ -1465,7 +1262,7 @@
             this.label21.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label21.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(89)))), ((int)(((byte)(85)))));
-            this.label21.Location = new System.Drawing.Point(233, 141);
+            this.label21.Location = new System.Drawing.Point(233, 117);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(146, 36);
             this.label21.TabIndex = 53;
@@ -1478,7 +1275,7 @@
             this.label22.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label22.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(89)))), ((int)(((byte)(85)))));
-            this.label22.Location = new System.Drawing.Point(89, 251);
+            this.label22.Location = new System.Drawing.Point(89, 224);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(183, 36);
             this.label22.TabIndex = 52;
@@ -1491,7 +1288,7 @@
             this.label23.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label23.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(89)))), ((int)(((byte)(85)))));
-            this.label23.Location = new System.Drawing.Point(85, 141);
+            this.label23.Location = new System.Drawing.Point(85, 117);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(142, 36);
             this.label23.TabIndex = 51;
@@ -1880,10 +1677,10 @@
             this.tabPage6.Controls.Add(this.guna2Panel6);
             this.tabPage6.Controls.Add(this.guna2Panel5);
             this.tabPage6.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage6.Location = new System.Drawing.Point(4, 5);
+            this.tabPage6.Location = new System.Drawing.Point(4, 44);
             this.tabPage6.Name = "tabPage6";
             this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage6.Size = new System.Drawing.Size(1135, 719);
+            this.tabPage6.Size = new System.Drawing.Size(1135, 680);
             this.tabPage6.TabIndex = 1;
             this.tabPage6.Tag = "2";
             this.tabPage6.Text = "tabPage6";
@@ -2111,6 +1908,19 @@
             this.guna2Panel5.TabIndex = 0;
             this.guna2Panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel5_Paint);
             // 
+            // guna2PictureBox1
+            // 
+            this.guna2PictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(247)))), ((int)(((byte)(245)))));
+            this.guna2PictureBox1.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2PictureBox1.Image = global::Data_base_spring_2024.Properties.Resources.Dispelling_myths_around_AI_within_cyber_security___Information_Age_removebg_preview;
+            this.guna2PictureBox1.ImageRotate = 0F;
+            this.guna2PictureBox1.Location = new System.Drawing.Point(263, 378);
+            this.guna2PictureBox1.Name = "guna2PictureBox1";
+            this.guna2PictureBox1.Size = new System.Drawing.Size(448, 249);
+            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2PictureBox1.TabIndex = 34;
+            this.guna2PictureBox1.TabStop = false;
+            // 
             // guna2Button16
             // 
             this.guna2Button16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(247)))), ((int)(((byte)(245)))));
@@ -2248,9 +2058,9 @@
             this.tabPage7.Controls.Add(this.guna2Panel8);
             this.tabPage7.Controls.Add(this.guna2Panel7);
             this.tabPage7.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage7.Location = new System.Drawing.Point(4, 5);
+            this.tabPage7.Location = new System.Drawing.Point(4, 44);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(1135, 719);
+            this.tabPage7.Size = new System.Drawing.Size(1135, 680);
             this.tabPage7.TabIndex = 2;
             this.tabPage7.Tag = "3";
             this.tabPage7.Text = "tabPage7";
@@ -2304,9 +2114,10 @@
             this.label31.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label31.Location = new System.Drawing.Point(65, 78);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(338, 129);
+            this.label31.Size = new System.Drawing.Size(338, 142);
             this.label31.TabIndex = 46;
-            this.label31.Text = "Your score for the month of September is Satisfactory, needs improvement";
+            this.label31.Text = "Your score for the month of September is summarized above to help you improve you" +
+    "r performance.\r\n\r\n";
             // 
             // label30
             // 
@@ -2347,8 +2158,8 @@
             // guna2Panel9
             // 
             this.guna2Panel9.BorderRadius = 15;
+            this.guna2Panel9.Controls.Add(this.label201);
             this.guna2Panel9.Controls.Add(this.label29);
-            this.guna2Panel9.Controls.Add(this.guna2ProgressBar3);
             this.guna2Panel9.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2Panel9.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(247)))), ((int)(((byte)(245)))));
             this.guna2Panel9.Location = new System.Drawing.Point(53, 481);
@@ -2356,6 +2167,20 @@
             this.guna2Panel9.Size = new System.Drawing.Size(551, 138);
             this.guna2Panel9.TabIndex = 46;
             this.guna2Panel9.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel9_Paint);
+            // 
+            // label201
+            // 
+            this.label201.AutoSize = true;
+            this.label201.BackColor = System.Drawing.Color.Transparent;
+            this.label201.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.label201.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label201.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(71)))), ((int)(((byte)(71)))));
+            this.label201.Location = new System.Drawing.Point(36, 57);
+            this.label201.Name = "label201";
+            this.label201.Size = new System.Drawing.Size(53, 36);
+            this.label201.TabIndex = 46;
+            this.label201.Text = "info";
+            this.label201.Click += new System.EventHandler(this.label201_Click);
             // 
             // label29
             // 
@@ -2366,27 +2191,9 @@
             this.label29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(71)))), ((int)(((byte)(71)))));
             this.label29.Location = new System.Drawing.Point(24, 7);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(158, 50);
+            this.label29.Size = new System.Drawing.Size(201, 50);
             this.label29.TabIndex = 45;
-            this.label29.Text = "Feedback";
-            // 
-            // guna2ProgressBar3
-            // 
-            this.guna2ProgressBar3.BackColor = System.Drawing.Color.Transparent;
-            this.guna2ProgressBar3.BorderRadius = 15;
-            this.guna2ProgressBar3.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2ProgressBar3.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2ProgressBar3.Location = new System.Drawing.Point(33, 77);
-            this.guna2ProgressBar3.Name = "guna2ProgressBar3";
-            this.guna2ProgressBar3.ProgressBrushMode = Guna.UI2.WinForms.Enums.BrushMode.SolidTransition;
-            this.guna2ProgressBar3.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(189)))), ((int)(((byte)(6)))), ((int)(((byte)(30)))));
-            this.guna2ProgressBar3.ProgressColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(184)))), ((int)(((byte)(11)))));
-            this.guna2ProgressBar3.ShowText = true;
-            this.guna2ProgressBar3.Size = new System.Drawing.Size(486, 44);
-            this.guna2ProgressBar3.TabIndex = 44;
-            this.guna2ProgressBar3.Text = "Attendance";
-            this.guna2ProgressBar3.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
-            this.guna2ProgressBar3.Value = 85;
+            this.label29.Text = "Personal info";
             // 
             // guna2Panel8
             // 
@@ -2484,9 +2291,9 @@
             this.tabPage11.Controls.Add(this.guna2Panel19);
             this.tabPage11.Controls.Add(this.guna2Panel20);
             this.tabPage11.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage11.Location = new System.Drawing.Point(4, 5);
+            this.tabPage11.Location = new System.Drawing.Point(4, 44);
             this.tabPage11.Name = "tabPage11";
-            this.tabPage11.Size = new System.Drawing.Size(1135, 719);
+            this.tabPage11.Size = new System.Drawing.Size(1135, 680);
             this.tabPage11.TabIndex = 3;
             this.tabPage11.Text = "tabPage11";
             // 
@@ -2711,6 +2518,19 @@
             this.guna2Panel20.Size = new System.Drawing.Size(526, 610);
             this.guna2Panel20.TabIndex = 36;
             // 
+            // guna2PictureBox3
+            // 
+            this.guna2PictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(247)))), ((int)(((byte)(245)))));
+            this.guna2PictureBox3.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2PictureBox3.Image = global::Data_base_spring_2024.Properties.Resources.Dispelling_myths_around_AI_within_cyber_security___Information_Age_removebg_preview;
+            this.guna2PictureBox3.ImageRotate = 0F;
+            this.guna2PictureBox3.Location = new System.Drawing.Point(263, 378);
+            this.guna2PictureBox3.Name = "guna2PictureBox3";
+            this.guna2PictureBox3.Size = new System.Drawing.Size(448, 249);
+            this.guna2PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2PictureBox3.TabIndex = 34;
+            this.guna2PictureBox3.TabStop = false;
+            // 
             // guna2Button35
             // 
             this.guna2Button35.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(247)))), ((int)(((byte)(245)))));
@@ -2868,9 +2688,9 @@
             this.guna2Panel2.Controls.Add(this.guna2TabControl3);
             this.guna2Panel2.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2Panel2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(222)))), ((int)(((byte)(220)))));
-            this.guna2Panel2.Location = new System.Drawing.Point(24, 27);
+            this.guna2Panel2.Location = new System.Drawing.Point(22, 14);
             this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(1178, 784);
+            this.guna2Panel2.Size = new System.Drawing.Size(1178, 754);
             this.guna2Panel2.TabIndex = 1;
             // 
             // guna2Shapes44
@@ -3007,7 +2827,6 @@
             this.guna2TabControl3.TabIndex = 0;
             this.guna2TabControl3.TabMenuBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(42)))), ((int)(((byte)(57)))));
             this.guna2TabControl3.TabMenuOrientation = Guna.UI2.WinForms.TabMenuOrientation.HorizontalTop;
-            this.guna2TabControl3.TabMenuVisible = false;
             // 
             // tabPage8
             // 
@@ -3018,10 +2837,10 @@
             this.tabPage8.Controls.Add(this.guna2Shapes16);
             this.tabPage8.Controls.Add(this.label70);
             this.tabPage8.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage8.Location = new System.Drawing.Point(4, 5);
+            this.tabPage8.Location = new System.Drawing.Point(4, 44);
             this.tabPage8.Name = "tabPage8";
             this.tabPage8.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage8.Size = new System.Drawing.Size(1135, 719);
+            this.tabPage8.Size = new System.Drawing.Size(1135, 680);
             this.tabPage8.TabIndex = 0;
             this.tabPage8.Text = "tabPage8";
             this.tabPage8.Click += new System.EventHandler(this.tabPage8_Click);
@@ -3030,11 +2849,6 @@
             // 
             this.flowLayoutPanel3.AutoScroll = true;
             this.flowLayoutPanel3.Controls.Add(this.guna2Panel12);
-            this.flowLayoutPanel3.Controls.Add(this.guna2Panel17);
-            this.flowLayoutPanel3.Controls.Add(this.guna2Panel11);
-            this.flowLayoutPanel3.Controls.Add(this.guna2Panel16);
-            this.flowLayoutPanel3.Controls.Add(this.guna2Panel73);
-            this.flowLayoutPanel3.Controls.Add(this.guna2Panel74);
             this.flowLayoutPanel3.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.flowLayoutPanel3.Location = new System.Drawing.Point(26, 66);
             this.flowLayoutPanel3.Name = "flowLayoutPanel3";
@@ -3299,1286 +3113,6 @@
             this.guna2Shapes35.Text = "guna2Shapes35";
             this.guna2Shapes35.Zoom = 80;
             // 
-            // guna2Panel17
-            // 
-            this.guna2Panel17.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel17.BorderRadius = 15;
-            this.guna2Panel17.Controls.Add(this.label106);
-            this.guna2Panel17.Controls.Add(this.label107);
-            this.guna2Panel17.Controls.Add(this.label108);
-            this.guna2Panel17.Controls.Add(this.label109);
-            this.guna2Panel17.Controls.Add(this.label110);
-            this.guna2Panel17.Controls.Add(this.label111);
-            this.guna2Panel17.Controls.Add(this.label112);
-            this.guna2Panel17.Controls.Add(this.label113);
-            this.guna2Panel17.Controls.Add(this.label114);
-            this.guna2Panel17.Controls.Add(this.label115);
-            this.guna2Panel17.Controls.Add(this.guna2Shapes36);
-            this.guna2Panel17.Controls.Add(this.label116);
-            this.guna2Panel17.Controls.Add(this.label117);
-            this.guna2Panel17.Controls.Add(this.label118);
-            this.guna2Panel17.Controls.Add(this.label119);
-            this.guna2Panel17.Controls.Add(this.label120);
-            this.guna2Panel17.Controls.Add(this.guna2Button38);
-            this.guna2Panel17.Controls.Add(this.guna2Shapes39);
-            this.guna2Panel17.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel17.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(245)))), ((int)(((byte)(236)))));
-            this.guna2Panel17.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Panel17.Location = new System.Drawing.Point(521, 10);
-            this.guna2Panel17.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel17.Name = "guna2Panel17";
-            this.guna2Panel17.Size = new System.Drawing.Size(491, 585);
-            this.guna2Panel17.TabIndex = 70;
-            // 
-            // label106
-            // 
-            this.label106.AutoSize = true;
-            this.label106.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label106.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label106.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label106.Location = new System.Drawing.Point(201, 248);
-            this.label106.Name = "label106";
-            this.label106.Size = new System.Drawing.Size(142, 36);
-            this.label106.TabIndex = 47;
-            this.label106.Text = "email_value";
-            // 
-            // label107
-            // 
-            this.label107.AutoSize = true;
-            this.label107.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label107.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label107.Location = new System.Drawing.Point(61, 248);
-            this.label107.Name = "label107";
-            this.label107.Size = new System.Drawing.Size(70, 36);
-            this.label107.TabIndex = 46;
-            this.label107.Text = "Email";
-            // 
-            // label108
-            // 
-            this.label108.AutoSize = true;
-            this.label108.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label108.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label108.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label108.Location = new System.Drawing.Point(62, 619);
-            this.label108.Name = "label108";
-            this.label108.Size = new System.Drawing.Size(131, 26);
-            this.label108.TabIndex = 45;
-            this.label108.Text = "Session_details";
-            // 
-            // label109
-            // 
-            this.label109.AutoSize = true;
-            this.label109.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label109.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label109.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label109.Location = new System.Drawing.Point(62, 460);
-            this.label109.Name = "label109";
-            this.label109.Size = new System.Drawing.Size(179, 26);
-            this.label109.TabIndex = 44;
-            this.label109.Text = "workout_plan_details";
-            // 
-            // label110
-            // 
-            this.label110.AutoSize = true;
-            this.label110.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label110.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label110.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label110.Location = new System.Drawing.Point(62, 359);
-            this.label110.Name = "label110";
-            this.label110.Size = new System.Drawing.Size(147, 26);
-            this.label110.TabIndex = 43;
-            this.label110.Text = "Diet_plan_details";
-            // 
-            // label111
-            // 
-            this.label111.AutoSize = true;
-            this.label111.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label111.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label111.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label111.Location = new System.Drawing.Point(201, 194);
-            this.label111.Name = "label111";
-            this.label111.Size = new System.Drawing.Size(159, 36);
-            this.label111.TabIndex = 42;
-            this.label111.Text = "Gender_value";
-            // 
-            // label112
-            // 
-            this.label112.AutoSize = true;
-            this.label112.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label112.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label112.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label112.Location = new System.Drawing.Point(201, 135);
-            this.label112.Name = "label112";
-            this.label112.Size = new System.Drawing.Size(150, 36);
-            this.label112.TabIndex = 41;
-            this.label112.Text = "Height_value";
-            // 
-            // label113
-            // 
-            this.label113.AutoSize = true;
-            this.label113.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label113.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label113.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label113.Location = new System.Drawing.Point(201, 74);
-            this.label113.Name = "label113";
-            this.label113.Size = new System.Drawing.Size(156, 36);
-            this.label113.TabIndex = 40;
-            this.label113.Text = "Weight_value";
-            // 
-            // label114
-            // 
-            this.label114.AutoSize = true;
-            this.label114.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label114.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label114.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label114.Location = new System.Drawing.Point(56, 507);
-            this.label114.Name = "label114";
-            this.label114.Size = new System.Drawing.Size(162, 36);
-            this.label114.TabIndex = 22;
-            this.label114.Text = "Session Details";
-            // 
-            // label115
-            // 
-            this.label115.AutoSize = true;
-            this.label115.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label115.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label115.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label115.Location = new System.Drawing.Point(56, 424);
-            this.label115.Name = "label115";
-            this.label115.Size = new System.Drawing.Size(149, 36);
-            this.label115.TabIndex = 21;
-            this.label115.Text = "Workout plan";
-            // 
-            // guna2Shapes36
-            // 
-            this.guna2Shapes36.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes36.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes36.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes36.LineThickness = 1;
-            this.guna2Shapes36.Location = new System.Drawing.Point(3, 291);
-            this.guna2Shapes36.Name = "guna2Shapes36";
-            this.guna2Shapes36.PolygonSkip = 1;
-            this.guna2Shapes36.Rotate = 0F;
-            this.guna2Shapes36.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes36.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes36.TabIndex = 20;
-            this.guna2Shapes36.Text = "guna2Shapes36";
-            this.guna2Shapes36.Zoom = 80;
-            // 
-            // label116
-            // 
-            this.label116.AutoSize = true;
-            this.label116.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label116.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label116.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label116.Location = new System.Drawing.Point(56, 323);
-            this.label116.Name = "label116";
-            this.label116.Size = new System.Drawing.Size(102, 36);
-            this.label116.TabIndex = 19;
-            this.label116.Text = "Diet Plan";
-            // 
-            // label117
-            // 
-            this.label117.AutoSize = true;
-            this.label117.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label117.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label117.Location = new System.Drawing.Point(61, 194);
-            this.label117.Name = "label117";
-            this.label117.Size = new System.Drawing.Size(89, 36);
-            this.label117.TabIndex = 18;
-            this.label117.Text = "Gender";
-            // 
-            // label118
-            // 
-            this.label118.AutoSize = true;
-            this.label118.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label118.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label118.Location = new System.Drawing.Point(61, 74);
-            this.label118.Name = "label118";
-            this.label118.Size = new System.Drawing.Size(86, 36);
-            this.label118.TabIndex = 17;
-            this.label118.Text = "Weight";
-            // 
-            // label119
-            // 
-            this.label119.AutoSize = true;
-            this.label119.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label119.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label119.Location = new System.Drawing.Point(61, 135);
-            this.label119.Name = "label119";
-            this.label119.Size = new System.Drawing.Size(80, 36);
-            this.label119.TabIndex = 16;
-            this.label119.Text = "Height";
-            // 
-            // label120
-            // 
-            this.label120.AutoSize = true;
-            this.label120.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label120.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label120.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label120.Location = new System.Drawing.Point(193, 11);
-            this.label120.Name = "label120";
-            this.label120.Size = new System.Drawing.Size(107, 50);
-            this.label120.TabIndex = 15;
-            this.label120.Text = "Name";
-            // 
-            // guna2Button38
-            // 
-            this.guna2Button38.BorderRadius = 15;
-            this.guna2Button38.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button38.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button38.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button38.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button38.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button38.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(91)))), ((int)(((byte)(141)))), ((int)(((byte)(201)))));
-            this.guna2Button38.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button38.ForeColor = System.Drawing.Color.White;
-            this.guna2Button38.Location = new System.Drawing.Point(299, 529);
-            this.guna2Button38.Name = "guna2Button38";
-            this.guna2Button38.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button38.TabIndex = 14;
-            this.guna2Button38.Text = "View More";
-            // 
-            // guna2Shapes39
-            // 
-            this.guna2Shapes39.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes39.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes39.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes39.LineThickness = 1;
-            this.guna2Shapes39.Location = new System.Drawing.Point(0, 51);
-            this.guna2Shapes39.Name = "guna2Shapes39";
-            this.guna2Shapes39.PolygonSkip = 1;
-            this.guna2Shapes39.Rotate = 0F;
-            this.guna2Shapes39.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes39.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes39.TabIndex = 14;
-            this.guna2Shapes39.Text = "guna2Shapes39";
-            this.guna2Shapes39.Zoom = 80;
-            // 
-            // guna2Panel11
-            // 
-            this.guna2Panel11.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel11.BorderRadius = 15;
-            this.guna2Panel11.Controls.Add(this.label33);
-            this.guna2Panel11.Controls.Add(this.label34);
-            this.guna2Panel11.Controls.Add(this.label35);
-            this.guna2Panel11.Controls.Add(this.label36);
-            this.guna2Panel11.Controls.Add(this.label37);
-            this.guna2Panel11.Controls.Add(this.label38);
-            this.guna2Panel11.Controls.Add(this.label39);
-            this.guna2Panel11.Controls.Add(this.label40);
-            this.guna2Panel11.Controls.Add(this.label41);
-            this.guna2Panel11.Controls.Add(this.label42);
-            this.guna2Panel11.Controls.Add(this.guna2Shapes14);
-            this.guna2Panel11.Controls.Add(this.label43);
-            this.guna2Panel11.Controls.Add(this.label44);
-            this.guna2Panel11.Controls.Add(this.label45);
-            this.guna2Panel11.Controls.Add(this.label58);
-            this.guna2Panel11.Controls.Add(this.label59);
-            this.guna2Panel11.Controls.Add(this.guna2Button21);
-            this.guna2Panel11.Controls.Add(this.guna2Shapes15);
-            this.guna2Panel11.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel11.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(245)))), ((int)(((byte)(236)))));
-            this.guna2Panel11.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Panel11.Location = new System.Drawing.Point(10, 615);
-            this.guna2Panel11.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel11.Name = "guna2Panel11";
-            this.guna2Panel11.Size = new System.Drawing.Size(491, 585);
-            this.guna2Panel11.TabIndex = 71;
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label33.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label33.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label33.Location = new System.Drawing.Point(201, 248);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(142, 36);
-            this.label33.TabIndex = 47;
-            this.label33.Text = "email_value";
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label34.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label34.Location = new System.Drawing.Point(61, 248);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(70, 36);
-            this.label34.TabIndex = 46;
-            this.label34.Text = "Email";
-            // 
-            // label35
-            // 
-            this.label35.AutoSize = true;
-            this.label35.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label35.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label35.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label35.Location = new System.Drawing.Point(62, 619);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(131, 26);
-            this.label35.TabIndex = 45;
-            this.label35.Text = "Session_details";
-            // 
-            // label36
-            // 
-            this.label36.AutoSize = true;
-            this.label36.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label36.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label36.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label36.Location = new System.Drawing.Point(62, 460);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(179, 26);
-            this.label36.TabIndex = 44;
-            this.label36.Text = "workout_plan_details";
-            // 
-            // label37
-            // 
-            this.label37.AutoSize = true;
-            this.label37.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label37.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label37.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label37.Location = new System.Drawing.Point(62, 359);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(147, 26);
-            this.label37.TabIndex = 43;
-            this.label37.Text = "Diet_plan_details";
-            // 
-            // label38
-            // 
-            this.label38.AutoSize = true;
-            this.label38.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label38.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label38.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label38.Location = new System.Drawing.Point(201, 194);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(159, 36);
-            this.label38.TabIndex = 42;
-            this.label38.Text = "Gender_value";
-            // 
-            // label39
-            // 
-            this.label39.AutoSize = true;
-            this.label39.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label39.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label39.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label39.Location = new System.Drawing.Point(201, 135);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(150, 36);
-            this.label39.TabIndex = 41;
-            this.label39.Text = "Height_value";
-            // 
-            // label40
-            // 
-            this.label40.AutoSize = true;
-            this.label40.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label40.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label40.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label40.Location = new System.Drawing.Point(201, 74);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(156, 36);
-            this.label40.TabIndex = 40;
-            this.label40.Text = "Weight_value";
-            // 
-            // label41
-            // 
-            this.label41.AutoSize = true;
-            this.label41.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label41.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label41.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label41.Location = new System.Drawing.Point(56, 507);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(162, 36);
-            this.label41.TabIndex = 22;
-            this.label41.Text = "Session Details";
-            // 
-            // label42
-            // 
-            this.label42.AutoSize = true;
-            this.label42.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label42.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label42.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label42.Location = new System.Drawing.Point(56, 424);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(149, 36);
-            this.label42.TabIndex = 21;
-            this.label42.Text = "Workout plan";
-            // 
-            // guna2Shapes14
-            // 
-            this.guna2Shapes14.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes14.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes14.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes14.LineThickness = 1;
-            this.guna2Shapes14.Location = new System.Drawing.Point(3, 291);
-            this.guna2Shapes14.Name = "guna2Shapes14";
-            this.guna2Shapes14.PolygonSkip = 1;
-            this.guna2Shapes14.Rotate = 0F;
-            this.guna2Shapes14.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes14.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes14.TabIndex = 20;
-            this.guna2Shapes14.Text = "guna2Shapes14";
-            this.guna2Shapes14.Zoom = 80;
-            // 
-            // label43
-            // 
-            this.label43.AutoSize = true;
-            this.label43.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label43.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label43.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label43.Location = new System.Drawing.Point(56, 323);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(102, 36);
-            this.label43.TabIndex = 19;
-            this.label43.Text = "Diet Plan";
-            // 
-            // label44
-            // 
-            this.label44.AutoSize = true;
-            this.label44.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label44.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label44.Location = new System.Drawing.Point(61, 194);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(89, 36);
-            this.label44.TabIndex = 18;
-            this.label44.Text = "Gender";
-            // 
-            // label45
-            // 
-            this.label45.AutoSize = true;
-            this.label45.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label45.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label45.Location = new System.Drawing.Point(61, 74);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(86, 36);
-            this.label45.TabIndex = 17;
-            this.label45.Text = "Weight";
-            // 
-            // label58
-            // 
-            this.label58.AutoSize = true;
-            this.label58.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label58.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label58.Location = new System.Drawing.Point(61, 135);
-            this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(80, 36);
-            this.label58.TabIndex = 16;
-            this.label58.Text = "Height";
-            // 
-            // label59
-            // 
-            this.label59.AutoSize = true;
-            this.label59.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label59.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label59.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label59.Location = new System.Drawing.Point(193, 11);
-            this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(107, 50);
-            this.label59.TabIndex = 15;
-            this.label59.Text = "Name";
-            // 
-            // guna2Button21
-            // 
-            this.guna2Button21.BorderRadius = 15;
-            this.guna2Button21.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button21.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button21.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button21.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button21.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button21.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(91)))), ((int)(((byte)(141)))), ((int)(((byte)(201)))));
-            this.guna2Button21.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button21.ForeColor = System.Drawing.Color.White;
-            this.guna2Button21.Location = new System.Drawing.Point(299, 529);
-            this.guna2Button21.Name = "guna2Button21";
-            this.guna2Button21.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button21.TabIndex = 14;
-            this.guna2Button21.Text = "View More";
-            // 
-            // guna2Shapes15
-            // 
-            this.guna2Shapes15.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes15.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes15.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes15.LineThickness = 1;
-            this.guna2Shapes15.Location = new System.Drawing.Point(0, 51);
-            this.guna2Shapes15.Name = "guna2Shapes15";
-            this.guna2Shapes15.PolygonSkip = 1;
-            this.guna2Shapes15.Rotate = 0F;
-            this.guna2Shapes15.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes15.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes15.TabIndex = 14;
-            this.guna2Shapes15.Text = "guna2Shapes15";
-            this.guna2Shapes15.Zoom = 80;
-            // 
-            // guna2Panel16
-            // 
-            this.guna2Panel16.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel16.BorderRadius = 15;
-            this.guna2Panel16.Controls.Add(this.label60);
-            this.guna2Panel16.Controls.Add(this.label71);
-            this.guna2Panel16.Controls.Add(this.label72);
-            this.guna2Panel16.Controls.Add(this.label92);
-            this.guna2Panel16.Controls.Add(this.label93);
-            this.guna2Panel16.Controls.Add(this.label94);
-            this.guna2Panel16.Controls.Add(this.label95);
-            this.guna2Panel16.Controls.Add(this.label96);
-            this.guna2Panel16.Controls.Add(this.label97);
-            this.guna2Panel16.Controls.Add(this.label100);
-            this.guna2Panel16.Controls.Add(this.guna2Shapes24);
-            this.guna2Panel16.Controls.Add(this.label101);
-            this.guna2Panel16.Controls.Add(this.label102);
-            this.guna2Panel16.Controls.Add(this.label103);
-            this.guna2Panel16.Controls.Add(this.label104);
-            this.guna2Panel16.Controls.Add(this.label105);
-            this.guna2Panel16.Controls.Add(this.guna2Button22);
-            this.guna2Panel16.Controls.Add(this.guna2Shapes25);
-            this.guna2Panel16.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel16.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(245)))), ((int)(((byte)(236)))));
-            this.guna2Panel16.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Panel16.Location = new System.Drawing.Point(521, 615);
-            this.guna2Panel16.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel16.Name = "guna2Panel16";
-            this.guna2Panel16.Size = new System.Drawing.Size(491, 585);
-            this.guna2Panel16.TabIndex = 72;
-            // 
-            // label60
-            // 
-            this.label60.AutoSize = true;
-            this.label60.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label60.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label60.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label60.Location = new System.Drawing.Point(201, 248);
-            this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(142, 36);
-            this.label60.TabIndex = 47;
-            this.label60.Text = "email_value";
-            // 
-            // label71
-            // 
-            this.label71.AutoSize = true;
-            this.label71.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label71.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label71.Location = new System.Drawing.Point(61, 248);
-            this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(70, 36);
-            this.label71.TabIndex = 46;
-            this.label71.Text = "Email";
-            // 
-            // label72
-            // 
-            this.label72.AutoSize = true;
-            this.label72.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label72.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label72.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label72.Location = new System.Drawing.Point(62, 619);
-            this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(131, 26);
-            this.label72.TabIndex = 45;
-            this.label72.Text = "Session_details";
-            // 
-            // label92
-            // 
-            this.label92.AutoSize = true;
-            this.label92.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label92.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label92.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label92.Location = new System.Drawing.Point(62, 460);
-            this.label92.Name = "label92";
-            this.label92.Size = new System.Drawing.Size(179, 26);
-            this.label92.TabIndex = 44;
-            this.label92.Text = "workout_plan_details";
-            // 
-            // label93
-            // 
-            this.label93.AutoSize = true;
-            this.label93.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label93.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label93.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label93.Location = new System.Drawing.Point(62, 359);
-            this.label93.Name = "label93";
-            this.label93.Size = new System.Drawing.Size(147, 26);
-            this.label93.TabIndex = 43;
-            this.label93.Text = "Diet_plan_details";
-            // 
-            // label94
-            // 
-            this.label94.AutoSize = true;
-            this.label94.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label94.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label94.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label94.Location = new System.Drawing.Point(201, 194);
-            this.label94.Name = "label94";
-            this.label94.Size = new System.Drawing.Size(159, 36);
-            this.label94.TabIndex = 42;
-            this.label94.Text = "Gender_value";
-            // 
-            // label95
-            // 
-            this.label95.AutoSize = true;
-            this.label95.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label95.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label95.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label95.Location = new System.Drawing.Point(201, 135);
-            this.label95.Name = "label95";
-            this.label95.Size = new System.Drawing.Size(150, 36);
-            this.label95.TabIndex = 41;
-            this.label95.Text = "Height_value";
-            // 
-            // label96
-            // 
-            this.label96.AutoSize = true;
-            this.label96.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label96.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label96.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label96.Location = new System.Drawing.Point(201, 74);
-            this.label96.Name = "label96";
-            this.label96.Size = new System.Drawing.Size(156, 36);
-            this.label96.TabIndex = 40;
-            this.label96.Text = "Weight_value";
-            // 
-            // label97
-            // 
-            this.label97.AutoSize = true;
-            this.label97.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label97.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label97.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label97.Location = new System.Drawing.Point(56, 507);
-            this.label97.Name = "label97";
-            this.label97.Size = new System.Drawing.Size(162, 36);
-            this.label97.TabIndex = 22;
-            this.label97.Text = "Session Details";
-            // 
-            // label100
-            // 
-            this.label100.AutoSize = true;
-            this.label100.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label100.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label100.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label100.Location = new System.Drawing.Point(56, 424);
-            this.label100.Name = "label100";
-            this.label100.Size = new System.Drawing.Size(149, 36);
-            this.label100.TabIndex = 21;
-            this.label100.Text = "Workout plan";
-            // 
-            // guna2Shapes24
-            // 
-            this.guna2Shapes24.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes24.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes24.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes24.LineThickness = 1;
-            this.guna2Shapes24.Location = new System.Drawing.Point(3, 291);
-            this.guna2Shapes24.Name = "guna2Shapes24";
-            this.guna2Shapes24.PolygonSkip = 1;
-            this.guna2Shapes24.Rotate = 0F;
-            this.guna2Shapes24.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes24.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes24.TabIndex = 20;
-            this.guna2Shapes24.Text = "guna2Shapes24";
-            this.guna2Shapes24.Zoom = 80;
-            // 
-            // label101
-            // 
-            this.label101.AutoSize = true;
-            this.label101.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label101.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label101.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label101.Location = new System.Drawing.Point(56, 323);
-            this.label101.Name = "label101";
-            this.label101.Size = new System.Drawing.Size(102, 36);
-            this.label101.TabIndex = 19;
-            this.label101.Text = "Diet Plan";
-            // 
-            // label102
-            // 
-            this.label102.AutoSize = true;
-            this.label102.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label102.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label102.Location = new System.Drawing.Point(61, 194);
-            this.label102.Name = "label102";
-            this.label102.Size = new System.Drawing.Size(89, 36);
-            this.label102.TabIndex = 18;
-            this.label102.Text = "Gender";
-            // 
-            // label103
-            // 
-            this.label103.AutoSize = true;
-            this.label103.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label103.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label103.Location = new System.Drawing.Point(61, 74);
-            this.label103.Name = "label103";
-            this.label103.Size = new System.Drawing.Size(86, 36);
-            this.label103.TabIndex = 17;
-            this.label103.Text = "Weight";
-            // 
-            // label104
-            // 
-            this.label104.AutoSize = true;
-            this.label104.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label104.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label104.Location = new System.Drawing.Point(61, 135);
-            this.label104.Name = "label104";
-            this.label104.Size = new System.Drawing.Size(80, 36);
-            this.label104.TabIndex = 16;
-            this.label104.Text = "Height";
-            // 
-            // label105
-            // 
-            this.label105.AutoSize = true;
-            this.label105.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label105.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label105.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label105.Location = new System.Drawing.Point(193, 11);
-            this.label105.Name = "label105";
-            this.label105.Size = new System.Drawing.Size(107, 50);
-            this.label105.TabIndex = 15;
-            this.label105.Text = "Name";
-            // 
-            // guna2Button22
-            // 
-            this.guna2Button22.BorderRadius = 15;
-            this.guna2Button22.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button22.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button22.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button22.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button22.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button22.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(91)))), ((int)(((byte)(141)))), ((int)(((byte)(201)))));
-            this.guna2Button22.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button22.ForeColor = System.Drawing.Color.White;
-            this.guna2Button22.Location = new System.Drawing.Point(299, 529);
-            this.guna2Button22.Name = "guna2Button22";
-            this.guna2Button22.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button22.TabIndex = 14;
-            this.guna2Button22.Text = "View More";
-            // 
-            // guna2Shapes25
-            // 
-            this.guna2Shapes25.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes25.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes25.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes25.LineThickness = 1;
-            this.guna2Shapes25.Location = new System.Drawing.Point(0, 51);
-            this.guna2Shapes25.Name = "guna2Shapes25";
-            this.guna2Shapes25.PolygonSkip = 1;
-            this.guna2Shapes25.Rotate = 0F;
-            this.guna2Shapes25.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes25.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes25.TabIndex = 14;
-            this.guna2Shapes25.Text = "guna2Shapes25";
-            this.guna2Shapes25.Zoom = 80;
-            // 
-            // guna2Panel73
-            // 
-            this.guna2Panel73.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel73.BorderRadius = 15;
-            this.guna2Panel73.Controls.Add(this.label304);
-            this.guna2Panel73.Controls.Add(this.label305);
-            this.guna2Panel73.Controls.Add(this.label306);
-            this.guna2Panel73.Controls.Add(this.label307);
-            this.guna2Panel73.Controls.Add(this.label308);
-            this.guna2Panel73.Controls.Add(this.label309);
-            this.guna2Panel73.Controls.Add(this.label310);
-            this.guna2Panel73.Controls.Add(this.label311);
-            this.guna2Panel73.Controls.Add(this.label312);
-            this.guna2Panel73.Controls.Add(this.label313);
-            this.guna2Panel73.Controls.Add(this.guna2Shapes93);
-            this.guna2Panel73.Controls.Add(this.label314);
-            this.guna2Panel73.Controls.Add(this.label315);
-            this.guna2Panel73.Controls.Add(this.label316);
-            this.guna2Panel73.Controls.Add(this.label317);
-            this.guna2Panel73.Controls.Add(this.label318);
-            this.guna2Panel73.Controls.Add(this.guna2Button23);
-            this.guna2Panel73.Controls.Add(this.guna2Shapes94);
-            this.guna2Panel73.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel73.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(245)))), ((int)(((byte)(236)))));
-            this.guna2Panel73.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Panel73.Location = new System.Drawing.Point(10, 1220);
-            this.guna2Panel73.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel73.Name = "guna2Panel73";
-            this.guna2Panel73.Size = new System.Drawing.Size(491, 585);
-            this.guna2Panel73.TabIndex = 73;
-            // 
-            // label304
-            // 
-            this.label304.AutoSize = true;
-            this.label304.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label304.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label304.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label304.Location = new System.Drawing.Point(201, 248);
-            this.label304.Name = "label304";
-            this.label304.Size = new System.Drawing.Size(142, 36);
-            this.label304.TabIndex = 47;
-            this.label304.Text = "email_value";
-            // 
-            // label305
-            // 
-            this.label305.AutoSize = true;
-            this.label305.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label305.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label305.Location = new System.Drawing.Point(61, 248);
-            this.label305.Name = "label305";
-            this.label305.Size = new System.Drawing.Size(70, 36);
-            this.label305.TabIndex = 46;
-            this.label305.Text = "Email";
-            // 
-            // label306
-            // 
-            this.label306.AutoSize = true;
-            this.label306.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label306.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label306.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label306.Location = new System.Drawing.Point(62, 619);
-            this.label306.Name = "label306";
-            this.label306.Size = new System.Drawing.Size(131, 26);
-            this.label306.TabIndex = 45;
-            this.label306.Text = "Session_details";
-            // 
-            // label307
-            // 
-            this.label307.AutoSize = true;
-            this.label307.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label307.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label307.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label307.Location = new System.Drawing.Point(62, 460);
-            this.label307.Name = "label307";
-            this.label307.Size = new System.Drawing.Size(179, 26);
-            this.label307.TabIndex = 44;
-            this.label307.Text = "workout_plan_details";
-            // 
-            // label308
-            // 
-            this.label308.AutoSize = true;
-            this.label308.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label308.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label308.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label308.Location = new System.Drawing.Point(62, 359);
-            this.label308.Name = "label308";
-            this.label308.Size = new System.Drawing.Size(147, 26);
-            this.label308.TabIndex = 43;
-            this.label308.Text = "Diet_plan_details";
-            // 
-            // label309
-            // 
-            this.label309.AutoSize = true;
-            this.label309.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label309.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label309.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label309.Location = new System.Drawing.Point(201, 194);
-            this.label309.Name = "label309";
-            this.label309.Size = new System.Drawing.Size(159, 36);
-            this.label309.TabIndex = 42;
-            this.label309.Text = "Gender_value";
-            // 
-            // label310
-            // 
-            this.label310.AutoSize = true;
-            this.label310.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label310.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label310.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label310.Location = new System.Drawing.Point(201, 135);
-            this.label310.Name = "label310";
-            this.label310.Size = new System.Drawing.Size(150, 36);
-            this.label310.TabIndex = 41;
-            this.label310.Text = "Height_value";
-            // 
-            // label311
-            // 
-            this.label311.AutoSize = true;
-            this.label311.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label311.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label311.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label311.Location = new System.Drawing.Point(201, 74);
-            this.label311.Name = "label311";
-            this.label311.Size = new System.Drawing.Size(156, 36);
-            this.label311.TabIndex = 40;
-            this.label311.Text = "Weight_value";
-            // 
-            // label312
-            // 
-            this.label312.AutoSize = true;
-            this.label312.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label312.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label312.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label312.Location = new System.Drawing.Point(56, 507);
-            this.label312.Name = "label312";
-            this.label312.Size = new System.Drawing.Size(162, 36);
-            this.label312.TabIndex = 22;
-            this.label312.Text = "Session Details";
-            // 
-            // label313
-            // 
-            this.label313.AutoSize = true;
-            this.label313.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label313.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label313.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label313.Location = new System.Drawing.Point(56, 424);
-            this.label313.Name = "label313";
-            this.label313.Size = new System.Drawing.Size(149, 36);
-            this.label313.TabIndex = 21;
-            this.label313.Text = "Workout plan";
-            // 
-            // guna2Shapes93
-            // 
-            this.guna2Shapes93.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes93.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes93.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes93.LineThickness = 1;
-            this.guna2Shapes93.Location = new System.Drawing.Point(3, 291);
-            this.guna2Shapes93.Name = "guna2Shapes93";
-            this.guna2Shapes93.PolygonSkip = 1;
-            this.guna2Shapes93.Rotate = 0F;
-            this.guna2Shapes93.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes93.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes93.TabIndex = 20;
-            this.guna2Shapes93.Text = "guna2Shapes93";
-            this.guna2Shapes93.Zoom = 80;
-            // 
-            // label314
-            // 
-            this.label314.AutoSize = true;
-            this.label314.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label314.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label314.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label314.Location = new System.Drawing.Point(56, 323);
-            this.label314.Name = "label314";
-            this.label314.Size = new System.Drawing.Size(102, 36);
-            this.label314.TabIndex = 19;
-            this.label314.Text = "Diet Plan";
-            // 
-            // label315
-            // 
-            this.label315.AutoSize = true;
-            this.label315.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label315.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label315.Location = new System.Drawing.Point(61, 194);
-            this.label315.Name = "label315";
-            this.label315.Size = new System.Drawing.Size(89, 36);
-            this.label315.TabIndex = 18;
-            this.label315.Text = "Gender";
-            // 
-            // label316
-            // 
-            this.label316.AutoSize = true;
-            this.label316.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label316.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label316.Location = new System.Drawing.Point(61, 74);
-            this.label316.Name = "label316";
-            this.label316.Size = new System.Drawing.Size(86, 36);
-            this.label316.TabIndex = 17;
-            this.label316.Text = "Weight";
-            // 
-            // label317
-            // 
-            this.label317.AutoSize = true;
-            this.label317.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label317.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label317.Location = new System.Drawing.Point(61, 135);
-            this.label317.Name = "label317";
-            this.label317.Size = new System.Drawing.Size(80, 36);
-            this.label317.TabIndex = 16;
-            this.label317.Text = "Height";
-            // 
-            // label318
-            // 
-            this.label318.AutoSize = true;
-            this.label318.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label318.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label318.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label318.Location = new System.Drawing.Point(193, 11);
-            this.label318.Name = "label318";
-            this.label318.Size = new System.Drawing.Size(107, 50);
-            this.label318.TabIndex = 15;
-            this.label318.Text = "Name";
-            // 
-            // guna2Button23
-            // 
-            this.guna2Button23.BorderRadius = 15;
-            this.guna2Button23.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button23.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button23.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button23.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button23.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button23.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(91)))), ((int)(((byte)(141)))), ((int)(((byte)(201)))));
-            this.guna2Button23.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button23.ForeColor = System.Drawing.Color.White;
-            this.guna2Button23.Location = new System.Drawing.Point(299, 529);
-            this.guna2Button23.Name = "guna2Button23";
-            this.guna2Button23.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button23.TabIndex = 14;
-            this.guna2Button23.Text = "View More";
-            // 
-            // guna2Shapes94
-            // 
-            this.guna2Shapes94.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes94.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes94.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes94.LineThickness = 1;
-            this.guna2Shapes94.Location = new System.Drawing.Point(0, 51);
-            this.guna2Shapes94.Name = "guna2Shapes94";
-            this.guna2Shapes94.PolygonSkip = 1;
-            this.guna2Shapes94.Rotate = 0F;
-            this.guna2Shapes94.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes94.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes94.TabIndex = 14;
-            this.guna2Shapes94.Text = "guna2Shapes94";
-            this.guna2Shapes94.Zoom = 80;
-            // 
-            // guna2Panel74
-            // 
-            this.guna2Panel74.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel74.BorderRadius = 15;
-            this.guna2Panel74.Controls.Add(this.label319);
-            this.guna2Panel74.Controls.Add(this.label320);
-            this.guna2Panel74.Controls.Add(this.label321);
-            this.guna2Panel74.Controls.Add(this.label322);
-            this.guna2Panel74.Controls.Add(this.label323);
-            this.guna2Panel74.Controls.Add(this.label324);
-            this.guna2Panel74.Controls.Add(this.label325);
-            this.guna2Panel74.Controls.Add(this.label326);
-            this.guna2Panel74.Controls.Add(this.label327);
-            this.guna2Panel74.Controls.Add(this.label328);
-            this.guna2Panel74.Controls.Add(this.guna2Shapes95);
-            this.guna2Panel74.Controls.Add(this.label329);
-            this.guna2Panel74.Controls.Add(this.label330);
-            this.guna2Panel74.Controls.Add(this.label331);
-            this.guna2Panel74.Controls.Add(this.label332);
-            this.guna2Panel74.Controls.Add(this.label333);
-            this.guna2Panel74.Controls.Add(this.guna2Button24);
-            this.guna2Panel74.Controls.Add(this.guna2Shapes96);
-            this.guna2Panel74.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel74.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(245)))), ((int)(((byte)(236)))));
-            this.guna2Panel74.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Panel74.Location = new System.Drawing.Point(521, 1220);
-            this.guna2Panel74.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel74.Name = "guna2Panel74";
-            this.guna2Panel74.Size = new System.Drawing.Size(491, 585);
-            this.guna2Panel74.TabIndex = 74;
-            // 
-            // label319
-            // 
-            this.label319.AutoSize = true;
-            this.label319.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label319.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label319.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label319.Location = new System.Drawing.Point(201, 248);
-            this.label319.Name = "label319";
-            this.label319.Size = new System.Drawing.Size(142, 36);
-            this.label319.TabIndex = 47;
-            this.label319.Text = "email_value";
-            // 
-            // label320
-            // 
-            this.label320.AutoSize = true;
-            this.label320.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label320.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label320.Location = new System.Drawing.Point(61, 248);
-            this.label320.Name = "label320";
-            this.label320.Size = new System.Drawing.Size(70, 36);
-            this.label320.TabIndex = 46;
-            this.label320.Text = "Email";
-            // 
-            // label321
-            // 
-            this.label321.AutoSize = true;
-            this.label321.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label321.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label321.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label321.Location = new System.Drawing.Point(62, 619);
-            this.label321.Name = "label321";
-            this.label321.Size = new System.Drawing.Size(131, 26);
-            this.label321.TabIndex = 45;
-            this.label321.Text = "Session_details";
-            // 
-            // label322
-            // 
-            this.label322.AutoSize = true;
-            this.label322.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label322.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label322.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label322.Location = new System.Drawing.Point(62, 460);
-            this.label322.Name = "label322";
-            this.label322.Size = new System.Drawing.Size(179, 26);
-            this.label322.TabIndex = 44;
-            this.label322.Text = "workout_plan_details";
-            // 
-            // label323
-            // 
-            this.label323.AutoSize = true;
-            this.label323.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label323.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label323.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label323.Location = new System.Drawing.Point(62, 359);
-            this.label323.Name = "label323";
-            this.label323.Size = new System.Drawing.Size(147, 26);
-            this.label323.TabIndex = 43;
-            this.label323.Text = "Diet_plan_details";
-            // 
-            // label324
-            // 
-            this.label324.AutoSize = true;
-            this.label324.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label324.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label324.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label324.Location = new System.Drawing.Point(201, 194);
-            this.label324.Name = "label324";
-            this.label324.Size = new System.Drawing.Size(159, 36);
-            this.label324.TabIndex = 42;
-            this.label324.Text = "Gender_value";
-            // 
-            // label325
-            // 
-            this.label325.AutoSize = true;
-            this.label325.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label325.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label325.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label325.Location = new System.Drawing.Point(201, 135);
-            this.label325.Name = "label325";
-            this.label325.Size = new System.Drawing.Size(150, 36);
-            this.label325.TabIndex = 41;
-            this.label325.Text = "Height_value";
-            // 
-            // label326
-            // 
-            this.label326.AutoSize = true;
-            this.label326.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label326.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label326.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label326.Location = new System.Drawing.Point(201, 74);
-            this.label326.Name = "label326";
-            this.label326.Size = new System.Drawing.Size(156, 36);
-            this.label326.TabIndex = 40;
-            this.label326.Text = "Weight_value";
-            // 
-            // label327
-            // 
-            this.label327.AutoSize = true;
-            this.label327.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label327.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label327.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label327.Location = new System.Drawing.Point(56, 507);
-            this.label327.Name = "label327";
-            this.label327.Size = new System.Drawing.Size(162, 36);
-            this.label327.TabIndex = 22;
-            this.label327.Text = "Session Details";
-            // 
-            // label328
-            // 
-            this.label328.AutoSize = true;
-            this.label328.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label328.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label328.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label328.Location = new System.Drawing.Point(56, 424);
-            this.label328.Name = "label328";
-            this.label328.Size = new System.Drawing.Size(149, 36);
-            this.label328.TabIndex = 21;
-            this.label328.Text = "Workout plan";
-            // 
-            // guna2Shapes95
-            // 
-            this.guna2Shapes95.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes95.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes95.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes95.LineThickness = 1;
-            this.guna2Shapes95.Location = new System.Drawing.Point(3, 291);
-            this.guna2Shapes95.Name = "guna2Shapes95";
-            this.guna2Shapes95.PolygonSkip = 1;
-            this.guna2Shapes95.Rotate = 0F;
-            this.guna2Shapes95.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes95.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes95.TabIndex = 20;
-            this.guna2Shapes95.Text = "guna2Shapes95";
-            this.guna2Shapes95.Zoom = 80;
-            // 
-            // label329
-            // 
-            this.label329.AutoSize = true;
-            this.label329.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label329.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label329.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label329.Location = new System.Drawing.Point(56, 323);
-            this.label329.Name = "label329";
-            this.label329.Size = new System.Drawing.Size(102, 36);
-            this.label329.TabIndex = 19;
-            this.label329.Text = "Diet Plan";
-            // 
-            // label330
-            // 
-            this.label330.AutoSize = true;
-            this.label330.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label330.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label330.Location = new System.Drawing.Point(61, 194);
-            this.label330.Name = "label330";
-            this.label330.Size = new System.Drawing.Size(89, 36);
-            this.label330.TabIndex = 18;
-            this.label330.Text = "Gender";
-            // 
-            // label331
-            // 
-            this.label331.AutoSize = true;
-            this.label331.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label331.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label331.Location = new System.Drawing.Point(61, 74);
-            this.label331.Name = "label331";
-            this.label331.Size = new System.Drawing.Size(86, 36);
-            this.label331.TabIndex = 17;
-            this.label331.Text = "Weight";
-            // 
-            // label332
-            // 
-            this.label332.AutoSize = true;
-            this.label332.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label332.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label332.Location = new System.Drawing.Point(61, 135);
-            this.label332.Name = "label332";
-            this.label332.Size = new System.Drawing.Size(80, 36);
-            this.label332.TabIndex = 16;
-            this.label332.Text = "Height";
-            // 
-            // label333
-            // 
-            this.label333.AutoSize = true;
-            this.label333.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label333.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label333.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(98)))), ((int)(((byte)(97)))));
-            this.label333.Location = new System.Drawing.Point(193, 11);
-            this.label333.Name = "label333";
-            this.label333.Size = new System.Drawing.Size(107, 50);
-            this.label333.TabIndex = 15;
-            this.label333.Text = "Name";
-            // 
-            // guna2Button24
-            // 
-            this.guna2Button24.BorderRadius = 15;
-            this.guna2Button24.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button24.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button24.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button24.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button24.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button24.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(91)))), ((int)(((byte)(141)))), ((int)(((byte)(201)))));
-            this.guna2Button24.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button24.ForeColor = System.Drawing.Color.White;
-            this.guna2Button24.Location = new System.Drawing.Point(299, 529);
-            this.guna2Button24.Name = "guna2Button24";
-            this.guna2Button24.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button24.TabIndex = 14;
-            this.guna2Button24.Text = "View More";
-            // 
-            // guna2Shapes96
-            // 
-            this.guna2Shapes96.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes96.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes96.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(89)))), ((int)(((byte)(87)))), ((int)(((byte)(87)))));
-            this.guna2Shapes96.LineThickness = 1;
-            this.guna2Shapes96.Location = new System.Drawing.Point(0, 51);
-            this.guna2Shapes96.Name = "guna2Shapes96";
-            this.guna2Shapes96.PolygonSkip = 1;
-            this.guna2Shapes96.Rotate = 0F;
-            this.guna2Shapes96.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes96.Size = new System.Drawing.Size(491, 20);
-            this.guna2Shapes96.TabIndex = 14;
-            this.guna2Shapes96.Text = "guna2Shapes96";
-            this.guna2Shapes96.Zoom = 80;
-            // 
             // label46
             // 
             this.label46.AutoSize = true;
@@ -4645,10 +3179,10 @@
             this.tabPage9.Controls.Add(this.guna2Shapes17);
             this.tabPage9.Controls.Add(this.label47);
             this.tabPage9.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage9.Location = new System.Drawing.Point(4, 5);
+            this.tabPage9.Location = new System.Drawing.Point(4, 44);
             this.tabPage9.Name = "tabPage9";
             this.tabPage9.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage9.Size = new System.Drawing.Size(1135, 719);
+            this.tabPage9.Size = new System.Drawing.Size(1135, 680);
             this.tabPage9.TabIndex = 1;
             this.tabPage9.Text = "tabPage9";
             // 
@@ -4674,14 +3208,11 @@
             // 
             this.flowLayoutPanel1.AutoScroll = true;
             this.flowLayoutPanel1.Controls.Add(this.guna2Panel22);
-            this.flowLayoutPanel1.Controls.Add(this.guna2Panel14);
-            this.flowLayoutPanel1.Controls.Add(this.guna2Panel21);
-            this.flowLayoutPanel1.Controls.Add(this.guna2Panel13);
             this.flowLayoutPanel1.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(34, 192);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(5, 5, 5, 30);
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(1071, 482);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(1071, 430);
             this.flowLayoutPanel1.TabIndex = 47;
             // 
             // guna2Panel22
@@ -4769,264 +3300,6 @@
             this.guna2Shapes22.TabIndex = 0;
             this.guna2Shapes22.Text = "guna2Shapes22";
             this.guna2Shapes22.Zoom = 80;
-            // 
-            // guna2Panel14
-            // 
-            this.guna2Panel14.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel14.BorderRadius = 15;
-            this.guna2Panel14.Controls.Add(this.guna2CircleButton3);
-            this.guna2Panel14.Controls.Add(this.label86);
-            this.guna2Panel14.Controls.Add(this.label87);
-            this.guna2Panel14.Controls.Add(this.label88);
-            this.guna2Panel14.Controls.Add(this.guna2Shapes21);
-            this.guna2Panel14.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel14.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(252)))), ((int)(((byte)(250)))));
-            this.flowLayoutPanel1.SetFlowBreak(this.guna2Panel14, true);
-            this.guna2Panel14.Location = new System.Drawing.Point(15, 170);
-            this.guna2Panel14.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel14.Name = "guna2Panel14";
-            this.guna2Panel14.Size = new System.Drawing.Size(1017, 135);
-            this.guna2Panel14.TabIndex = 5;
-            // 
-            // guna2CircleButton3
-            // 
-            this.guna2CircleButton3.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2CircleButton3.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2CircleButton3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2CircleButton3.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2CircleButton3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2CircleButton3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(197)))), ((int)(((byte)(201)))), ((int)(((byte)(197)))));
-            this.guna2CircleButton3.Font = new System.Drawing.Font("Poppins", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2CircleButton3.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleButton3.Location = new System.Drawing.Point(972, 3);
-            this.guna2CircleButton3.Name = "guna2CircleButton3";
-            this.guna2CircleButton3.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CircleButton3.Size = new System.Drawing.Size(45, 45);
-            this.guna2CircleButton3.TabIndex = 5;
-            this.guna2CircleButton3.Text = "X";
-            this.guna2CircleButton3.TextOffset = new System.Drawing.Point(1, 1);
-            // 
-            // label86
-            // 
-            this.label86.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label86.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label86.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(107)))), ((int)(((byte)(105)))));
-            this.label86.Location = new System.Drawing.Point(575, 66);
-            this.label86.Margin = new System.Windows.Forms.Padding(10, 10, 10, 30);
-            this.label86.Name = "label86";
-            this.label86.Size = new System.Drawing.Size(199, 33);
-            this.label86.TabIndex = 3;
-            this.label86.Text = "Meal time";
-            // 
-            // label87
-            // 
-            this.label87.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label87.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label87.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(107)))), ((int)(((byte)(105)))));
-            this.label87.Location = new System.Drawing.Point(57, 66);
-            this.label87.Name = "label87";
-            this.label87.Size = new System.Drawing.Size(199, 33);
-            this.label87.TabIndex = 2;
-            this.label87.Text = "Food Name";
-            // 
-            // label88
-            // 
-            this.label88.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label88.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label88.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(107)))), ((int)(((byte)(105)))));
-            this.label88.Location = new System.Drawing.Point(37, 9);
-            this.label88.Name = "label88";
-            this.label88.Size = new System.Drawing.Size(199, 33);
-            this.label88.TabIndex = 1;
-            this.label88.Text = "Meal Id";
-            // 
-            // guna2Shapes21
-            // 
-            this.guna2Shapes21.BorderThickness = 0;
-            this.guna2Shapes21.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes21.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(64)))), ((int)(((byte)(62)))));
-            this.guna2Shapes21.LineThickness = 1;
-            this.guna2Shapes21.Location = new System.Drawing.Point(-15, 28);
-            this.guna2Shapes21.Name = "guna2Shapes21";
-            this.guna2Shapes21.PolygonSkip = 1;
-            this.guna2Shapes21.Rotate = 0F;
-            this.guna2Shapes21.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes21.Size = new System.Drawing.Size(412, 36);
-            this.guna2Shapes21.TabIndex = 0;
-            this.guna2Shapes21.Text = "guna2Shapes21";
-            this.guna2Shapes21.Zoom = 80;
-            // 
-            // guna2Panel21
-            // 
-            this.guna2Panel21.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel21.BorderRadius = 15;
-            this.guna2Panel21.Controls.Add(this.guna2CircleButton1);
-            this.guna2Panel21.Controls.Add(this.label51);
-            this.guna2Panel21.Controls.Add(this.label50);
-            this.guna2Panel21.Controls.Add(this.label49);
-            this.guna2Panel21.Controls.Add(this.guna2Shapes19);
-            this.guna2Panel21.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel21.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(252)))), ((int)(((byte)(250)))));
-            this.flowLayoutPanel1.SetFlowBreak(this.guna2Panel21, true);
-            this.guna2Panel21.Location = new System.Drawing.Point(15, 325);
-            this.guna2Panel21.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel21.Name = "guna2Panel21";
-            this.guna2Panel21.Size = new System.Drawing.Size(1017, 135);
-            this.guna2Panel21.TabIndex = 3;
-            // 
-            // guna2CircleButton1
-            // 
-            this.guna2CircleButton1.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2CircleButton1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2CircleButton1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2CircleButton1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2CircleButton1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2CircleButton1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(197)))), ((int)(((byte)(201)))), ((int)(((byte)(197)))));
-            this.guna2CircleButton1.Font = new System.Drawing.Font("Poppins", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2CircleButton1.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleButton1.Location = new System.Drawing.Point(969, 0);
-            this.guna2CircleButton1.Name = "guna2CircleButton1";
-            this.guna2CircleButton1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CircleButton1.Size = new System.Drawing.Size(45, 45);
-            this.guna2CircleButton1.TabIndex = 5;
-            this.guna2CircleButton1.Text = "X";
-            this.guna2CircleButton1.TextOffset = new System.Drawing.Point(1, 1);
-            // 
-            // label51
-            // 
-            this.label51.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label51.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label51.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(107)))), ((int)(((byte)(105)))));
-            this.label51.Location = new System.Drawing.Point(575, 66);
-            this.label51.Margin = new System.Windows.Forms.Padding(10, 10, 10, 30);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(199, 33);
-            this.label51.TabIndex = 3;
-            this.label51.Text = "Meal time";
-            // 
-            // label50
-            // 
-            this.label50.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label50.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label50.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(107)))), ((int)(((byte)(105)))));
-            this.label50.Location = new System.Drawing.Point(57, 66);
-            this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(199, 33);
-            this.label50.TabIndex = 2;
-            this.label50.Text = "Food Name";
-            // 
-            // label49
-            // 
-            this.label49.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label49.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label49.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(107)))), ((int)(((byte)(105)))));
-            this.label49.Location = new System.Drawing.Point(37, 9);
-            this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(199, 33);
-            this.label49.TabIndex = 1;
-            this.label49.Text = "Meal Id";
-            // 
-            // guna2Shapes19
-            // 
-            this.guna2Shapes19.BorderThickness = 0;
-            this.guna2Shapes19.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes19.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(64)))), ((int)(((byte)(62)))));
-            this.guna2Shapes19.LineThickness = 1;
-            this.guna2Shapes19.Location = new System.Drawing.Point(-15, 28);
-            this.guna2Shapes19.Name = "guna2Shapes19";
-            this.guna2Shapes19.PolygonSkip = 1;
-            this.guna2Shapes19.Rotate = 0F;
-            this.guna2Shapes19.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes19.Size = new System.Drawing.Size(412, 36);
-            this.guna2Shapes19.TabIndex = 0;
-            this.guna2Shapes19.Text = "guna2Shapes19";
-            this.guna2Shapes19.Zoom = 80;
-            // 
-            // guna2Panel13
-            // 
-            this.guna2Panel13.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel13.BorderRadius = 15;
-            this.guna2Panel13.Controls.Add(this.guna2CircleButton2);
-            this.guna2Panel13.Controls.Add(this.label52);
-            this.guna2Panel13.Controls.Add(this.label53);
-            this.guna2Panel13.Controls.Add(this.label54);
-            this.guna2Panel13.Controls.Add(this.guna2Shapes20);
-            this.guna2Panel13.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel13.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(252)))), ((int)(((byte)(250)))));
-            this.flowLayoutPanel1.SetFlowBreak(this.guna2Panel13, true);
-            this.guna2Panel13.Location = new System.Drawing.Point(15, 480);
-            this.guna2Panel13.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel13.Name = "guna2Panel13";
-            this.guna2Panel13.Size = new System.Drawing.Size(1017, 135);
-            this.guna2Panel13.TabIndex = 5;
-            // 
-            // guna2CircleButton2
-            // 
-            this.guna2CircleButton2.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2CircleButton2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2CircleButton2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2CircleButton2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2CircleButton2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2CircleButton2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(197)))), ((int)(((byte)(201)))), ((int)(((byte)(197)))));
-            this.guna2CircleButton2.Font = new System.Drawing.Font("Poppins", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2CircleButton2.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleButton2.Location = new System.Drawing.Point(969, 2);
-            this.guna2CircleButton2.Name = "guna2CircleButton2";
-            this.guna2CircleButton2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CircleButton2.Size = new System.Drawing.Size(45, 45);
-            this.guna2CircleButton2.TabIndex = 5;
-            this.guna2CircleButton2.Text = "X";
-            this.guna2CircleButton2.TextOffset = new System.Drawing.Point(1, 1);
-            // 
-            // label52
-            // 
-            this.label52.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label52.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label52.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(107)))), ((int)(((byte)(105)))));
-            this.label52.Location = new System.Drawing.Point(575, 66);
-            this.label52.Margin = new System.Windows.Forms.Padding(10, 10, 10, 30);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(199, 33);
-            this.label52.TabIndex = 3;
-            this.label52.Text = "Meal time";
-            // 
-            // label53
-            // 
-            this.label53.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label53.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label53.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(107)))), ((int)(((byte)(105)))));
-            this.label53.Location = new System.Drawing.Point(57, 66);
-            this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(199, 33);
-            this.label53.TabIndex = 2;
-            this.label53.Text = "Food Name";
-            // 
-            // label54
-            // 
-            this.label54.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label54.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label54.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(107)))), ((int)(((byte)(105)))));
-            this.label54.Location = new System.Drawing.Point(37, 9);
-            this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(199, 33);
-            this.label54.TabIndex = 1;
-            this.label54.Text = "Meal Id";
-            // 
-            // guna2Shapes20
-            // 
-            this.guna2Shapes20.BorderThickness = 0;
-            this.guna2Shapes20.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes20.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(64)))), ((int)(((byte)(62)))));
-            this.guna2Shapes20.LineThickness = 1;
-            this.guna2Shapes20.Location = new System.Drawing.Point(-15, 28);
-            this.guna2Shapes20.Name = "guna2Shapes20";
-            this.guna2Shapes20.PolygonSkip = 1;
-            this.guna2Shapes20.Rotate = 0F;
-            this.guna2Shapes20.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes20.Size = new System.Drawing.Size(412, 36);
-            this.guna2Shapes20.TabIndex = 0;
-            this.guna2Shapes20.Text = "guna2Shapes20";
-            this.guna2Shapes20.Zoom = 80;
             // 
             // guna2Button27
             // 
@@ -5135,9 +3408,9 @@
             this.tabPage10.Controls.Add(this.guna2Shapes38);
             this.tabPage10.Controls.Add(this.label99);
             this.tabPage10.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage10.Location = new System.Drawing.Point(4, 5);
+            this.tabPage10.Location = new System.Drawing.Point(4, 44);
             this.tabPage10.Name = "tabPage10";
-            this.tabPage10.Size = new System.Drawing.Size(1135, 719);
+            this.tabPage10.Size = new System.Drawing.Size(1135, 680);
             this.tabPage10.TabIndex = 2;
             this.tabPage10.Text = "tabPage10";
             // 
@@ -5709,9 +3982,9 @@
             this.tabPage18.Controls.Add(this.label347);
             this.tabPage18.Controls.Add(this.guna2Shapes102);
             this.tabPage18.Controls.Add(this.label348);
-            this.tabPage18.Location = new System.Drawing.Point(4, 5);
+            this.tabPage18.Location = new System.Drawing.Point(4, 44);
             this.tabPage18.Name = "tabPage18";
-            this.tabPage18.Size = new System.Drawing.Size(1135, 719);
+            this.tabPage18.Size = new System.Drawing.Size(1135, 680);
             this.tabPage18.TabIndex = 4;
             this.tabPage18.Text = "tabPage18";
             // 
@@ -6253,9 +4526,9 @@
             this.tabPage17.Controls.Add(this.label336);
             this.tabPage17.Controls.Add(this.guna2Shapes97);
             this.tabPage17.Controls.Add(this.label334);
-            this.tabPage17.Location = new System.Drawing.Point(4, 5);
+            this.tabPage17.Location = new System.Drawing.Point(4, 44);
             this.tabPage17.Name = "tabPage17";
-            this.tabPage17.Size = new System.Drawing.Size(1135, 719);
+            this.tabPage17.Size = new System.Drawing.Size(1135, 680);
             this.tabPage17.TabIndex = 3;
             this.tabPage17.Text = "tabPage17";
             this.tabPage17.Click += new System.EventHandler(this.tabPage17_Click);
@@ -6612,13 +4885,12 @@
             // 
             this.flowLayoutPanel8.AutoScroll = true;
             this.flowLayoutPanel8.Controls.Add(this.guna2Panel43);
-            this.flowLayoutPanel8.Controls.Add(this.guna2Panel36);
-            this.flowLayoutPanel8.Controls.Add(this.guna2Panel34);
+            this.flowLayoutPanel8.Controls.Add(this.guna2Panel29);
             this.flowLayoutPanel8.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.flowLayoutPanel8.Location = new System.Drawing.Point(41, 136);
+            this.flowLayoutPanel8.Location = new System.Drawing.Point(47, 92);
             this.flowLayoutPanel8.Name = "flowLayoutPanel8";
             this.flowLayoutPanel8.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.flowLayoutPanel8.Size = new System.Drawing.Size(1185, 697);
+            this.flowLayoutPanel8.Size = new System.Drawing.Size(1185, 663);
             this.flowLayoutPanel8.TabIndex = 5;
             this.flowLayoutPanel8.WrapContents = false;
             // 
@@ -6648,8 +4920,9 @@
             this.guna2Panel43.Location = new System.Drawing.Point(20, 20);
             this.guna2Panel43.Margin = new System.Windows.Forms.Padding(20);
             this.guna2Panel43.Name = "guna2Panel43";
-            this.guna2Panel43.Size = new System.Drawing.Size(1138, 622);
+            this.guna2Panel43.Size = new System.Drawing.Size(1138, 601);
             this.guna2Panel43.TabIndex = 18;
+            this.guna2Panel43.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel43_Paint);
             // 
             // guna2Shapes70
             // 
@@ -6684,7 +4957,7 @@
             this.guna2Shapes71.PolygonSides = 2;
             this.guna2Shapes71.PolygonSkip = 1;
             this.guna2Shapes71.Rotate = 0F;
-            this.guna2Shapes71.Size = new System.Drawing.Size(12, 592);
+            this.guna2Shapes71.Size = new System.Drawing.Size(12, 530);
             this.guna2Shapes71.TabIndex = 15;
             this.guna2Shapes71.Text = "guna2Shapes71";
             this.guna2Shapes71.Zoom = 80;
@@ -6722,7 +4995,7 @@
             this.guna2Shapes73.PolygonSides = 2;
             this.guna2Shapes73.PolygonSkip = 1;
             this.guna2Shapes73.Rotate = 0F;
-            this.guna2Shapes73.Size = new System.Drawing.Size(12, 592);
+            this.guna2Shapes73.Size = new System.Drawing.Size(12, 530);
             this.guna2Shapes73.TabIndex = 12;
             this.guna2Shapes73.Text = "guna2Shapes73";
             this.guna2Shapes73.Zoom = 80;
@@ -6809,7 +5082,7 @@
             this.guna2Shapes76.PolygonSides = 2;
             this.guna2Shapes76.PolygonSkip = 1;
             this.guna2Shapes76.Rotate = 0F;
-            this.guna2Shapes76.Size = new System.Drawing.Size(12, 592);
+            this.guna2Shapes76.Size = new System.Drawing.Size(12, 539);
             this.guna2Shapes76.TabIndex = 7;
             this.guna2Shapes76.Text = "guna2Shapes76";
             this.guna2Shapes76.Zoom = 80;
@@ -6827,7 +5100,7 @@
             this.flowLayoutPanel10.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.flowLayoutPanel10.Location = new System.Drawing.Point(3, 190);
             this.flowLayoutPanel10.Name = "flowLayoutPanel10";
-            this.flowLayoutPanel10.Size = new System.Drawing.Size(1118, 408);
+            this.flowLayoutPanel10.Size = new System.Drawing.Size(1118, 373);
             this.flowLayoutPanel10.TabIndex = 4;
             // 
             // guna2Panel44
@@ -6845,6 +5118,19 @@
             this.guna2Panel44.Name = "guna2Panel44";
             this.guna2Panel44.Size = new System.Drawing.Size(1067, 69);
             this.guna2Panel44.TabIndex = 7;
+            // 
+            // guna2CirclePictureBox9
+            // 
+            this.guna2CirclePictureBox9.Image = global::Data_base_spring_2024.Properties.Resources.arrow_left;
+            this.guna2CirclePictureBox9.ImageRotate = 0F;
+            this.guna2CirclePictureBox9.Location = new System.Drawing.Point(17, 14);
+            this.guna2CirclePictureBox9.Name = "guna2CirclePictureBox9";
+            this.guna2CirclePictureBox9.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.guna2CirclePictureBox9.Size = new System.Drawing.Size(54, 40);
+            this.guna2CirclePictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2CirclePictureBox9.TabIndex = 9;
+            this.guna2CirclePictureBox9.TabStop = false;
+            this.guna2CirclePictureBox9.Click += new System.EventHandler(this.guna2CirclePictureBox9_Click);
             // 
             // label226
             // 
@@ -7248,710 +5534,47 @@
             this.label251.TabIndex = 0;
             this.label251.Text = "Workout Plan Name";
             // 
-            // guna2Panel36
-            // 
-            this.guna2Panel36.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel36.BorderRadius = 15;
-            this.guna2Panel36.Controls.Add(this.guna2Shapes62);
-            this.guna2Panel36.Controls.Add(this.label188);
-            this.guna2Panel36.Controls.Add(this.guna2Shapes63);
-            this.guna2Panel36.Controls.Add(this.guna2Shapes64);
-            this.guna2Panel36.Controls.Add(this.label189);
-            this.guna2Panel36.Controls.Add(this.guna2Shapes65);
-            this.guna2Panel36.Controls.Add(this.label190);
-            this.guna2Panel36.Controls.Add(this.label191);
-            this.guna2Panel36.Controls.Add(this.guna2Shapes66);
-            this.guna2Panel36.Controls.Add(this.guna2Shapes67);
-            this.guna2Panel36.Controls.Add(this.label192);
-            this.guna2Panel36.Controls.Add(this.label193);
-            this.guna2Panel36.Controls.Add(this.guna2Shapes68);
-            this.guna2Panel36.Controls.Add(this.flowLayoutPanel7);
-            this.guna2Panel36.Controls.Add(this.guna2Shapes69);
-            this.guna2Panel36.Controls.Add(this.label218);
-            this.guna2Panel36.Controls.Add(this.label219);
-            this.guna2Panel36.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel36.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
-            this.guna2Panel36.Location = new System.Drawing.Point(1198, 20);
-            this.guna2Panel36.Margin = new System.Windows.Forms.Padding(20);
-            this.guna2Panel36.Name = "guna2Panel36";
-            this.guna2Panel36.Size = new System.Drawing.Size(1138, 622);
-            this.guna2Panel36.TabIndex = 18;
-            // 
-            // guna2Shapes62
-            // 
-            this.guna2Shapes62.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes62.Location = new System.Drawing.Point(825, 171);
-            this.guna2Shapes62.Name = "guna2Shapes62";
-            this.guna2Shapes62.PolygonSkip = 1;
-            this.guna2Shapes62.Rotate = 0F;
-            this.guna2Shapes62.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes62.Size = new System.Drawing.Size(255, 10);
-            this.guna2Shapes62.TabIndex = 17;
-            this.guna2Shapes62.Text = "guna2Shapes62";
-            this.guna2Shapes62.Zoom = 80;
-            // 
-            // label188
-            // 
-            this.label188.AutoSize = true;
-            this.label188.BackColor = System.Drawing.Color.Transparent;
-            this.label188.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label188.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label188.Location = new System.Drawing.Point(892, 124);
-            this.label188.Name = "label188";
-            this.label188.Size = new System.Drawing.Size(120, 50);
-            this.label188.TabIndex = 16;
-            this.label188.Text = "Muscle";
-            // 
-            // guna2Shapes63
-            // 
-            this.guna2Shapes63.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes63.Location = new System.Drawing.Point(811, 71);
-            this.guna2Shapes63.Name = "guna2Shapes63";
-            this.guna2Shapes63.PolygonSides = 2;
-            this.guna2Shapes63.PolygonSkip = 1;
-            this.guna2Shapes63.Rotate = 0F;
-            this.guna2Shapes63.Size = new System.Drawing.Size(12, 592);
-            this.guna2Shapes63.TabIndex = 15;
-            this.guna2Shapes63.Text = "guna2Shapes63";
-            this.guna2Shapes63.Zoom = 80;
-            // 
-            // guna2Shapes64
-            // 
-            this.guna2Shapes64.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes64.Location = new System.Drawing.Point(539, 171);
-            this.guna2Shapes64.Name = "guna2Shapes64";
-            this.guna2Shapes64.PolygonSkip = 1;
-            this.guna2Shapes64.Rotate = 0F;
-            this.guna2Shapes64.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes64.Size = new System.Drawing.Size(280, 10);
-            this.guna2Shapes64.TabIndex = 14;
-            this.guna2Shapes64.Text = "guna2Shapes64";
-            this.guna2Shapes64.Zoom = 80;
-            // 
-            // label189
-            // 
-            this.label189.AutoSize = true;
-            this.label189.BackColor = System.Drawing.Color.Transparent;
-            this.label189.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label189.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label189.Location = new System.Drawing.Point(608, 124);
-            this.label189.Name = "label189";
-            this.label189.Size = new System.Drawing.Size(142, 50);
-            this.label189.TabIndex = 13;
-            this.label189.Text = "Machine";
-            // 
-            // guna2Shapes65
-            // 
-            this.guna2Shapes65.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes65.Location = new System.Drawing.Point(530, 71);
-            this.guna2Shapes65.Name = "guna2Shapes65";
-            this.guna2Shapes65.PolygonSides = 2;
-            this.guna2Shapes65.PolygonSkip = 1;
-            this.guna2Shapes65.Rotate = 0F;
-            this.guna2Shapes65.Size = new System.Drawing.Size(12, 592);
-            this.guna2Shapes65.TabIndex = 12;
-            this.guna2Shapes65.Text = "guna2Shapes65";
-            this.guna2Shapes65.Zoom = 80;
-            // 
-            // label190
-            // 
-            this.label190.AutoSize = true;
-            this.label190.BackColor = System.Drawing.Color.Transparent;
-            this.label190.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label190.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label190.Location = new System.Drawing.Point(980, 16);
-            this.label190.Name = "label190";
-            this.label190.Size = new System.Drawing.Size(115, 23);
-            this.label190.TabIndex = 11;
-            this.label190.Text = "Experience Level";
-            // 
-            // label191
-            // 
-            this.label191.AutoSize = true;
-            this.label191.BackColor = System.Drawing.Color.Transparent;
-            this.label191.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label191.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label191.Location = new System.Drawing.Point(807, 16);
-            this.label191.Name = "label191";
-            this.label191.Size = new System.Drawing.Size(118, 23);
-            this.label191.TabIndex = 10;
-            this.label191.Text = "Weekly schedule";
-            // 
-            // guna2Shapes66
-            // 
-            this.guna2Shapes66.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes66.Location = new System.Drawing.Point(7, 171);
-            this.guna2Shapes66.Name = "guna2Shapes66";
-            this.guna2Shapes66.PolygonSkip = 1;
-            this.guna2Shapes66.Rotate = 0F;
-            this.guna2Shapes66.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes66.Size = new System.Drawing.Size(287, 10);
-            this.guna2Shapes66.TabIndex = 9;
-            this.guna2Shapes66.Text = "guna2Shapes66";
-            this.guna2Shapes66.Zoom = 80;
-            // 
-            // guna2Shapes67
-            // 
-            this.guna2Shapes67.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes67.Location = new System.Drawing.Point(309, 171);
-            this.guna2Shapes67.Name = "guna2Shapes67";
-            this.guna2Shapes67.PolygonSkip = 1;
-            this.guna2Shapes67.Rotate = 0F;
-            this.guna2Shapes67.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes67.Size = new System.Drawing.Size(224, 10);
-            this.guna2Shapes67.TabIndex = 8;
-            this.guna2Shapes67.Text = "guna2Shapes67";
-            this.guna2Shapes67.Zoom = 80;
-            // 
-            // label192
-            // 
-            this.label192.AutoSize = true;
-            this.label192.BackColor = System.Drawing.Color.Transparent;
-            this.label192.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label192.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label192.Location = new System.Drawing.Point(84, 124);
-            this.label192.Name = "label192";
-            this.label192.Size = new System.Drawing.Size(132, 50);
-            this.label192.TabIndex = 7;
-            this.label192.Text = "Exercise";
-            // 
-            // label193
-            // 
-            this.label193.AutoSize = true;
-            this.label193.BackColor = System.Drawing.Color.Transparent;
-            this.label193.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label193.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label193.Location = new System.Drawing.Point(376, 124);
-            this.label193.Name = "label193";
-            this.label193.Size = new System.Drawing.Size(90, 50);
-            this.label193.TabIndex = 7;
-            this.label193.Text = "Reps";
-            // 
-            // guna2Shapes68
-            // 
-            this.guna2Shapes68.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes68.Location = new System.Drawing.Point(300, 62);
-            this.guna2Shapes68.Name = "guna2Shapes68";
-            this.guna2Shapes68.PolygonSides = 2;
-            this.guna2Shapes68.PolygonSkip = 1;
-            this.guna2Shapes68.Rotate = 0F;
-            this.guna2Shapes68.Size = new System.Drawing.Size(12, 592);
-            this.guna2Shapes68.TabIndex = 7;
-            this.guna2Shapes68.Text = "guna2Shapes68";
-            this.guna2Shapes68.Zoom = 80;
-            // 
-            // flowLayoutPanel7
-            // 
-            this.flowLayoutPanel7.AutoScroll = true;
-            this.flowLayoutPanel7.BackColor = System.Drawing.Color.Transparent;
-            this.flowLayoutPanel7.Controls.Add(this.guna2Panel37);
-            this.flowLayoutPanel7.Controls.Add(this.guna2Panel38);
-            this.flowLayoutPanel7.Controls.Add(this.guna2Panel39);
-            this.flowLayoutPanel7.Controls.Add(this.guna2Panel40);
-            this.flowLayoutPanel7.Controls.Add(this.guna2Panel41);
-            this.flowLayoutPanel7.Controls.Add(this.guna2Panel42);
-            this.flowLayoutPanel7.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.flowLayoutPanel7.Location = new System.Drawing.Point(3, 190);
-            this.flowLayoutPanel7.Name = "flowLayoutPanel7";
-            this.flowLayoutPanel7.Size = new System.Drawing.Size(1118, 408);
-            this.flowLayoutPanel7.TabIndex = 4;
-            // 
-            // guna2Panel37
-            // 
-            this.guna2Panel37.BorderRadius = 15;
-            this.guna2Panel37.Controls.Add(this.label194);
-            this.guna2Panel37.Controls.Add(this.label195);
-            this.guna2Panel37.Controls.Add(this.label196);
-            this.guna2Panel37.Controls.Add(this.label197);
-            this.guna2Panel37.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel37.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel37.Location = new System.Drawing.Point(10, 10);
-            this.guna2Panel37.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel37.Name = "guna2Panel37";
-            this.guna2Panel37.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel37.TabIndex = 7;
-            // 
-            // label194
-            // 
-            this.label194.AutoSize = true;
-            this.label194.BackColor = System.Drawing.Color.Transparent;
-            this.label194.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label194.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label194.Location = new System.Drawing.Point(855, 14);
-            this.label194.Name = "label194";
-            this.label194.Size = new System.Drawing.Size(149, 36);
-            this.label194.TabIndex = 8;
-            this.label194.Text = "Muscle name";
-            // 
-            // label195
-            // 
-            this.label195.AutoSize = true;
-            this.label195.BackColor = System.Drawing.Color.Transparent;
-            this.label195.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label195.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label195.Location = new System.Drawing.Point(573, 14);
-            this.label195.Name = "label195";
-            this.label195.Size = new System.Drawing.Size(167, 36);
-            this.label195.TabIndex = 7;
-            this.label195.Text = "Machine Name";
-            // 
-            // label196
-            // 
-            this.label196.AutoSize = true;
-            this.label196.BackColor = System.Drawing.Color.Transparent;
-            this.label196.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label196.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label196.Location = new System.Drawing.Point(370, 14);
-            this.label196.Name = "label196";
-            this.label196.Size = new System.Drawing.Size(58, 36);
-            this.label196.TabIndex = 6;
-            this.label196.Text = "reps";
-            // 
-            // label197
-            // 
-            this.label197.AutoSize = true;
-            this.label197.BackColor = System.Drawing.Color.Transparent;
-            this.label197.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label197.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label197.Location = new System.Drawing.Point(68, 14);
-            this.label197.Name = "label197";
-            this.label197.Size = new System.Drawing.Size(159, 36);
-            this.label197.TabIndex = 5;
-            this.label197.Text = "Exercise Name";
-            // 
-            // guna2Panel38
-            // 
-            this.guna2Panel38.BorderRadius = 15;
-            this.guna2Panel38.Controls.Add(this.label198);
-            this.guna2Panel38.Controls.Add(this.label199);
-            this.guna2Panel38.Controls.Add(this.label200);
-            this.guna2Panel38.Controls.Add(this.label201);
-            this.guna2Panel38.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel38.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel38.Location = new System.Drawing.Point(10, 99);
-            this.guna2Panel38.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel38.Name = "guna2Panel38";
-            this.guna2Panel38.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel38.TabIndex = 9;
-            // 
-            // label198
-            // 
-            this.label198.AutoSize = true;
-            this.label198.BackColor = System.Drawing.Color.Transparent;
-            this.label198.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label198.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label198.Location = new System.Drawing.Point(855, 14);
-            this.label198.Name = "label198";
-            this.label198.Size = new System.Drawing.Size(149, 36);
-            this.label198.TabIndex = 8;
-            this.label198.Text = "Muscle name";
-            // 
-            // label199
-            // 
-            this.label199.AutoSize = true;
-            this.label199.BackColor = System.Drawing.Color.Transparent;
-            this.label199.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label199.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label199.Location = new System.Drawing.Point(573, 14);
-            this.label199.Name = "label199";
-            this.label199.Size = new System.Drawing.Size(167, 36);
-            this.label199.TabIndex = 7;
-            this.label199.Text = "Machine Name";
-            // 
-            // label200
-            // 
-            this.label200.AutoSize = true;
-            this.label200.BackColor = System.Drawing.Color.Transparent;
-            this.label200.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label200.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label200.Location = new System.Drawing.Point(370, 14);
-            this.label200.Name = "label200";
-            this.label200.Size = new System.Drawing.Size(58, 36);
-            this.label200.TabIndex = 6;
-            this.label200.Text = "reps";
-            // 
-            // label201
-            // 
-            this.label201.AutoSize = true;
-            this.label201.BackColor = System.Drawing.Color.Transparent;
-            this.label201.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label201.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label201.Location = new System.Drawing.Point(68, 14);
-            this.label201.Name = "label201";
-            this.label201.Size = new System.Drawing.Size(159, 36);
-            this.label201.TabIndex = 5;
-            this.label201.Text = "Exercise Name";
-            // 
-            // guna2Panel39
-            // 
-            this.guna2Panel39.BorderRadius = 15;
-            this.guna2Panel39.Controls.Add(this.label202);
-            this.guna2Panel39.Controls.Add(this.label203);
-            this.guna2Panel39.Controls.Add(this.label204);
-            this.guna2Panel39.Controls.Add(this.label205);
-            this.guna2Panel39.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel39.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel39.Location = new System.Drawing.Point(10, 188);
-            this.guna2Panel39.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel39.Name = "guna2Panel39";
-            this.guna2Panel39.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel39.TabIndex = 10;
-            // 
-            // label202
-            // 
-            this.label202.AutoSize = true;
-            this.label202.BackColor = System.Drawing.Color.Transparent;
-            this.label202.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label202.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label202.Location = new System.Drawing.Point(855, 14);
-            this.label202.Name = "label202";
-            this.label202.Size = new System.Drawing.Size(149, 36);
-            this.label202.TabIndex = 8;
-            this.label202.Text = "Muscle name";
-            // 
-            // label203
-            // 
-            this.label203.AutoSize = true;
-            this.label203.BackColor = System.Drawing.Color.Transparent;
-            this.label203.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label203.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label203.Location = new System.Drawing.Point(573, 14);
-            this.label203.Name = "label203";
-            this.label203.Size = new System.Drawing.Size(167, 36);
-            this.label203.TabIndex = 7;
-            this.label203.Text = "Machine Name";
-            // 
-            // label204
-            // 
-            this.label204.AutoSize = true;
-            this.label204.BackColor = System.Drawing.Color.Transparent;
-            this.label204.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label204.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label204.Location = new System.Drawing.Point(370, 14);
-            this.label204.Name = "label204";
-            this.label204.Size = new System.Drawing.Size(58, 36);
-            this.label204.TabIndex = 6;
-            this.label204.Text = "reps";
-            // 
-            // label205
-            // 
-            this.label205.AutoSize = true;
-            this.label205.BackColor = System.Drawing.Color.Transparent;
-            this.label205.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label205.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label205.Location = new System.Drawing.Point(68, 14);
-            this.label205.Name = "label205";
-            this.label205.Size = new System.Drawing.Size(159, 36);
-            this.label205.TabIndex = 5;
-            this.label205.Text = "Exercise Name";
-            // 
-            // guna2Panel40
-            // 
-            this.guna2Panel40.BorderRadius = 15;
-            this.guna2Panel40.Controls.Add(this.label206);
-            this.guna2Panel40.Controls.Add(this.label207);
-            this.guna2Panel40.Controls.Add(this.label208);
-            this.guna2Panel40.Controls.Add(this.label209);
-            this.guna2Panel40.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel40.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel40.Location = new System.Drawing.Point(10, 277);
-            this.guna2Panel40.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel40.Name = "guna2Panel40";
-            this.guna2Panel40.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel40.TabIndex = 11;
-            // 
-            // label206
-            // 
-            this.label206.AutoSize = true;
-            this.label206.BackColor = System.Drawing.Color.Transparent;
-            this.label206.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label206.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label206.Location = new System.Drawing.Point(855, 14);
-            this.label206.Name = "label206";
-            this.label206.Size = new System.Drawing.Size(149, 36);
-            this.label206.TabIndex = 8;
-            this.label206.Text = "Muscle name";
-            // 
-            // label207
-            // 
-            this.label207.AutoSize = true;
-            this.label207.BackColor = System.Drawing.Color.Transparent;
-            this.label207.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label207.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label207.Location = new System.Drawing.Point(573, 14);
-            this.label207.Name = "label207";
-            this.label207.Size = new System.Drawing.Size(167, 36);
-            this.label207.TabIndex = 7;
-            this.label207.Text = "Machine Name";
-            // 
-            // label208
-            // 
-            this.label208.AutoSize = true;
-            this.label208.BackColor = System.Drawing.Color.Transparent;
-            this.label208.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label208.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label208.Location = new System.Drawing.Point(370, 14);
-            this.label208.Name = "label208";
-            this.label208.Size = new System.Drawing.Size(58, 36);
-            this.label208.TabIndex = 6;
-            this.label208.Text = "reps";
-            // 
-            // label209
-            // 
-            this.label209.AutoSize = true;
-            this.label209.BackColor = System.Drawing.Color.Transparent;
-            this.label209.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label209.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label209.Location = new System.Drawing.Point(68, 14);
-            this.label209.Name = "label209";
-            this.label209.Size = new System.Drawing.Size(159, 36);
-            this.label209.TabIndex = 5;
-            this.label209.Text = "Exercise Name";
-            // 
-            // guna2Panel41
-            // 
-            this.guna2Panel41.BorderRadius = 15;
-            this.guna2Panel41.Controls.Add(this.label210);
-            this.guna2Panel41.Controls.Add(this.label211);
-            this.guna2Panel41.Controls.Add(this.label212);
-            this.guna2Panel41.Controls.Add(this.label213);
-            this.guna2Panel41.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel41.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel41.Location = new System.Drawing.Point(10, 366);
-            this.guna2Panel41.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel41.Name = "guna2Panel41";
-            this.guna2Panel41.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel41.TabIndex = 10;
-            // 
-            // label210
-            // 
-            this.label210.AutoSize = true;
-            this.label210.BackColor = System.Drawing.Color.Transparent;
-            this.label210.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label210.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label210.Location = new System.Drawing.Point(855, 14);
-            this.label210.Name = "label210";
-            this.label210.Size = new System.Drawing.Size(149, 36);
-            this.label210.TabIndex = 8;
-            this.label210.Text = "Muscle name";
-            // 
-            // label211
-            // 
-            this.label211.AutoSize = true;
-            this.label211.BackColor = System.Drawing.Color.Transparent;
-            this.label211.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label211.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label211.Location = new System.Drawing.Point(573, 14);
-            this.label211.Name = "label211";
-            this.label211.Size = new System.Drawing.Size(167, 36);
-            this.label211.TabIndex = 7;
-            this.label211.Text = "Machine Name";
-            // 
-            // label212
-            // 
-            this.label212.AutoSize = true;
-            this.label212.BackColor = System.Drawing.Color.Transparent;
-            this.label212.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label212.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label212.Location = new System.Drawing.Point(370, 14);
-            this.label212.Name = "label212";
-            this.label212.Size = new System.Drawing.Size(58, 36);
-            this.label212.TabIndex = 6;
-            this.label212.Text = "reps";
-            // 
-            // label213
-            // 
-            this.label213.AutoSize = true;
-            this.label213.BackColor = System.Drawing.Color.Transparent;
-            this.label213.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label213.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label213.Location = new System.Drawing.Point(68, 14);
-            this.label213.Name = "label213";
-            this.label213.Size = new System.Drawing.Size(159, 36);
-            this.label213.TabIndex = 5;
-            this.label213.Text = "Exercise Name";
-            // 
-            // guna2Panel42
-            // 
-            this.guna2Panel42.BorderRadius = 15;
-            this.guna2Panel42.Controls.Add(this.label214);
-            this.guna2Panel42.Controls.Add(this.label215);
-            this.guna2Panel42.Controls.Add(this.label216);
-            this.guna2Panel42.Controls.Add(this.label217);
-            this.guna2Panel42.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel42.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel42.Location = new System.Drawing.Point(10, 455);
-            this.guna2Panel42.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel42.Name = "guna2Panel42";
-            this.guna2Panel42.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel42.TabIndex = 11;
-            // 
-            // label214
-            // 
-            this.label214.AutoSize = true;
-            this.label214.BackColor = System.Drawing.Color.Transparent;
-            this.label214.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label214.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label214.Location = new System.Drawing.Point(855, 14);
-            this.label214.Name = "label214";
-            this.label214.Size = new System.Drawing.Size(149, 36);
-            this.label214.TabIndex = 8;
-            this.label214.Text = "Muscle name";
-            // 
-            // label215
-            // 
-            this.label215.AutoSize = true;
-            this.label215.BackColor = System.Drawing.Color.Transparent;
-            this.label215.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label215.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label215.Location = new System.Drawing.Point(573, 14);
-            this.label215.Name = "label215";
-            this.label215.Size = new System.Drawing.Size(167, 36);
-            this.label215.TabIndex = 7;
-            this.label215.Text = "Machine Name";
-            // 
-            // label216
-            // 
-            this.label216.AutoSize = true;
-            this.label216.BackColor = System.Drawing.Color.Transparent;
-            this.label216.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label216.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label216.Location = new System.Drawing.Point(370, 14);
-            this.label216.Name = "label216";
-            this.label216.Size = new System.Drawing.Size(58, 36);
-            this.label216.TabIndex = 6;
-            this.label216.Text = "reps";
-            // 
-            // label217
-            // 
-            this.label217.AutoSize = true;
-            this.label217.BackColor = System.Drawing.Color.Transparent;
-            this.label217.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label217.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label217.Location = new System.Drawing.Point(68, 14);
-            this.label217.Name = "label217";
-            this.label217.Size = new System.Drawing.Size(159, 36);
-            this.label217.TabIndex = 5;
-            this.label217.Text = "Exercise Name";
-            // 
-            // guna2Shapes69
-            // 
-            this.guna2Shapes69.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes69.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(73)))), ((int)(((byte)(73)))));
-            this.guna2Shapes69.LineThickness = 1;
-            this.guna2Shapes69.Location = new System.Drawing.Point(30, 62);
-            this.guna2Shapes69.Name = "guna2Shapes69";
-            this.guna2Shapes69.PolygonSkip = 1;
-            this.guna2Shapes69.Rotate = 0F;
-            this.guna2Shapes69.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes69.Size = new System.Drawing.Size(195, 10);
-            this.guna2Shapes69.TabIndex = 3;
-            this.guna2Shapes69.Text = "guna2Shapes69";
-            this.guna2Shapes69.Zoom = 80;
-            // 
-            // label218
-            // 
-            this.label218.AutoSize = true;
-            this.label218.BackColor = System.Drawing.Color.Transparent;
-            this.label218.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label218.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label218.Location = new System.Drawing.Point(38, 71);
-            this.label218.Name = "label218";
-            this.label218.Size = new System.Drawing.Size(99, 23);
-            this.label218.TabIndex = 2;
-            this.label218.Text = "Advisor name";
-            // 
-            // label219
-            // 
-            this.label219.AutoSize = true;
-            this.label219.BackColor = System.Drawing.Color.Transparent;
-            this.label219.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label219.Font = new System.Drawing.Font("Poppins", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label219.Location = new System.Drawing.Point(31, 16);
-            this.label219.Name = "label219";
-            this.label219.Size = new System.Drawing.Size(393, 65);
-            this.label219.TabIndex = 0;
-            this.label219.Text = "Workout Plan Name";
-            // 
-            // guna2Panel34
-            // 
-            this.guna2Panel34.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel34.BorderRadius = 15;
-            this.guna2Panel34.Controls.Add(this.guna2Shapes57);
-            this.guna2Panel34.Controls.Add(this.label157);
-            this.guna2Panel34.Controls.Add(this.guna2Shapes56);
-            this.guna2Panel34.Controls.Add(this.guna2Shapes55);
-            this.guna2Panel34.Controls.Add(this.label155);
-            this.guna2Panel34.Controls.Add(this.guna2Shapes54);
-            this.guna2Panel34.Controls.Add(this.label180);
-            this.guna2Panel34.Controls.Add(this.label179);
-            this.guna2Panel34.Controls.Add(this.guna2Shapes58);
-            this.guna2Panel34.Controls.Add(this.guna2Shapes59);
-            this.guna2Panel34.Controls.Add(this.label167);
-            this.guna2Panel34.Controls.Add(this.label168);
-            this.guna2Panel34.Controls.Add(this.guna2Shapes60);
-            this.guna2Panel34.Controls.Add(this.flowLayoutPanel9);
-            this.guna2Panel34.Controls.Add(this.guna2Shapes61);
-            this.guna2Panel34.Controls.Add(this.label177);
-            this.guna2Panel34.Controls.Add(this.label178);
-            this.guna2Panel34.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel34.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
-            this.guna2Panel34.Location = new System.Drawing.Point(2376, 20);
-            this.guna2Panel34.Margin = new System.Windows.Forms.Padding(20);
-            this.guna2Panel34.Name = "guna2Panel34";
-            this.guna2Panel34.Size = new System.Drawing.Size(1138, 622);
-            this.guna2Panel34.TabIndex = 0;
-            // 
-            // guna2Shapes57
-            // 
-            this.guna2Shapes57.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes57.Location = new System.Drawing.Point(825, 171);
-            this.guna2Shapes57.Name = "guna2Shapes57";
-            this.guna2Shapes57.PolygonSkip = 1;
-            this.guna2Shapes57.Rotate = 0F;
-            this.guna2Shapes57.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes57.Size = new System.Drawing.Size(255, 10);
-            this.guna2Shapes57.TabIndex = 17;
-            this.guna2Shapes57.Text = "guna2Shapes57";
-            this.guna2Shapes57.Zoom = 80;
-            // 
-            // label157
-            // 
-            this.label157.AutoSize = true;
-            this.label157.BackColor = System.Drawing.Color.Transparent;
-            this.label157.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label157.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label157.Location = new System.Drawing.Point(892, 124);
-            this.label157.Name = "label157";
-            this.label157.Size = new System.Drawing.Size(120, 50);
-            this.label157.TabIndex = 16;
-            this.label157.Text = "Muscle";
-            // 
-            // guna2Shapes56
-            // 
-            this.guna2Shapes56.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes56.Location = new System.Drawing.Point(811, 71);
-            this.guna2Shapes56.Name = "guna2Shapes56";
-            this.guna2Shapes56.PolygonSides = 2;
-            this.guna2Shapes56.PolygonSkip = 1;
-            this.guna2Shapes56.Rotate = 0F;
-            this.guna2Shapes56.Size = new System.Drawing.Size(12, 592);
-            this.guna2Shapes56.TabIndex = 15;
-            this.guna2Shapes56.Text = "guna2Shapes56";
-            this.guna2Shapes56.Zoom = 80;
-            // 
-            // guna2Shapes55
-            // 
-            this.guna2Shapes55.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes55.Location = new System.Drawing.Point(539, 171);
-            this.guna2Shapes55.Name = "guna2Shapes55";
-            this.guna2Shapes55.PolygonSkip = 1;
-            this.guna2Shapes55.Rotate = 0F;
-            this.guna2Shapes55.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes55.Size = new System.Drawing.Size(280, 10);
-            this.guna2Shapes55.TabIndex = 14;
-            this.guna2Shapes55.Text = "guna2Shapes55";
-            this.guna2Shapes55.Zoom = 80;
+            // guna2Panel29
+            // 
+            this.guna2Panel29.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Panel29.BorderRadius = 15;
+            this.guna2Panel29.Controls.Add(this.guna2Shapes54);
+            this.guna2Panel29.Controls.Add(this.label155);
+            this.guna2Panel29.Controls.Add(this.guna2Shapes55);
+            this.guna2Panel29.Controls.Add(this.guna2Shapes56);
+            this.guna2Panel29.Controls.Add(this.label156);
+            this.guna2Panel29.Controls.Add(this.guna2Shapes57);
+            this.guna2Panel29.Controls.Add(this.label157);
+            this.guna2Panel29.Controls.Add(this.label158);
+            this.guna2Panel29.Controls.Add(this.guna2Shapes58);
+            this.guna2Panel29.Controls.Add(this.guna2Shapes59);
+            this.guna2Panel29.Controls.Add(this.label159);
+            this.guna2Panel29.Controls.Add(this.label160);
+            this.guna2Panel29.Controls.Add(this.guna2Shapes60);
+            this.guna2Panel29.Controls.Add(this.flowLayoutPanel7);
+            this.guna2Panel29.Controls.Add(this.guna2Shapes61);
+            this.guna2Panel29.Controls.Add(this.label186);
+            this.guna2Panel29.Controls.Add(this.label187);
+            this.guna2Panel29.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel29.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
+            this.guna2Panel29.Location = new System.Drawing.Point(1198, 20);
+            this.guna2Panel29.Margin = new System.Windows.Forms.Padding(20);
+            this.guna2Panel29.Name = "guna2Panel29";
+            this.guna2Panel29.Size = new System.Drawing.Size(1138, 601);
+            this.guna2Panel29.TabIndex = 19;
+            // 
+            // guna2Shapes54
+            // 
+            this.guna2Shapes54.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Shapes54.Location = new System.Drawing.Point(825, 171);
+            this.guna2Shapes54.Name = "guna2Shapes54";
+            this.guna2Shapes54.PolygonSkip = 1;
+            this.guna2Shapes54.Rotate = 0F;
+            this.guna2Shapes54.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
+            this.guna2Shapes54.Size = new System.Drawing.Size(255, 10);
+            this.guna2Shapes54.TabIndex = 17;
+            this.guna2Shapes54.Text = "guna2Shapes54";
+            this.guna2Shapes54.Zoom = 80;
             // 
             // label155
             // 
@@ -7959,48 +5582,86 @@
             this.label155.BackColor = System.Drawing.Color.Transparent;
             this.label155.Cursor = System.Windows.Forms.Cursors.Default;
             this.label155.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label155.Location = new System.Drawing.Point(608, 124);
+            this.label155.Location = new System.Drawing.Point(892, 124);
             this.label155.Name = "label155";
-            this.label155.Size = new System.Drawing.Size(142, 50);
-            this.label155.TabIndex = 13;
-            this.label155.Text = "Machine";
+            this.label155.Size = new System.Drawing.Size(120, 50);
+            this.label155.TabIndex = 16;
+            this.label155.Text = "Muscle";
             // 
-            // guna2Shapes54
+            // guna2Shapes55
             // 
-            this.guna2Shapes54.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes54.Location = new System.Drawing.Point(530, 71);
-            this.guna2Shapes54.Name = "guna2Shapes54";
-            this.guna2Shapes54.PolygonSides = 2;
-            this.guna2Shapes54.PolygonSkip = 1;
-            this.guna2Shapes54.Rotate = 0F;
-            this.guna2Shapes54.Size = new System.Drawing.Size(12, 592);
-            this.guna2Shapes54.TabIndex = 12;
-            this.guna2Shapes54.Text = "guna2Shapes54";
-            this.guna2Shapes54.Zoom = 80;
+            this.guna2Shapes55.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Shapes55.Location = new System.Drawing.Point(811, 71);
+            this.guna2Shapes55.Name = "guna2Shapes55";
+            this.guna2Shapes55.PolygonSides = 2;
+            this.guna2Shapes55.PolygonSkip = 1;
+            this.guna2Shapes55.Rotate = 0F;
+            this.guna2Shapes55.Size = new System.Drawing.Size(12, 530);
+            this.guna2Shapes55.TabIndex = 15;
+            this.guna2Shapes55.Text = "guna2Shapes55";
+            this.guna2Shapes55.Zoom = 80;
             // 
-            // label180
+            // guna2Shapes56
             // 
-            this.label180.AutoSize = true;
-            this.label180.BackColor = System.Drawing.Color.Transparent;
-            this.label180.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label180.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label180.Location = new System.Drawing.Point(980, 16);
-            this.label180.Name = "label180";
-            this.label180.Size = new System.Drawing.Size(115, 23);
-            this.label180.TabIndex = 11;
-            this.label180.Text = "Experience Level";
+            this.guna2Shapes56.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Shapes56.Location = new System.Drawing.Point(539, 171);
+            this.guna2Shapes56.Name = "guna2Shapes56";
+            this.guna2Shapes56.PolygonSkip = 1;
+            this.guna2Shapes56.Rotate = 0F;
+            this.guna2Shapes56.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
+            this.guna2Shapes56.Size = new System.Drawing.Size(280, 10);
+            this.guna2Shapes56.TabIndex = 14;
+            this.guna2Shapes56.Text = "guna2Shapes56";
+            this.guna2Shapes56.Zoom = 80;
             // 
-            // label179
+            // label156
             // 
-            this.label179.AutoSize = true;
-            this.label179.BackColor = System.Drawing.Color.Transparent;
-            this.label179.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label179.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label179.Location = new System.Drawing.Point(807, 16);
-            this.label179.Name = "label179";
-            this.label179.Size = new System.Drawing.Size(118, 23);
-            this.label179.TabIndex = 10;
-            this.label179.Text = "Weekly schedule";
+            this.label156.AutoSize = true;
+            this.label156.BackColor = System.Drawing.Color.Transparent;
+            this.label156.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label156.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label156.Location = new System.Drawing.Point(608, 124);
+            this.label156.Name = "label156";
+            this.label156.Size = new System.Drawing.Size(142, 50);
+            this.label156.TabIndex = 13;
+            this.label156.Text = "Machine";
+            // 
+            // guna2Shapes57
+            // 
+            this.guna2Shapes57.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Shapes57.Location = new System.Drawing.Point(530, 71);
+            this.guna2Shapes57.Name = "guna2Shapes57";
+            this.guna2Shapes57.PolygonSides = 2;
+            this.guna2Shapes57.PolygonSkip = 1;
+            this.guna2Shapes57.Rotate = 0F;
+            this.guna2Shapes57.Size = new System.Drawing.Size(12, 530);
+            this.guna2Shapes57.TabIndex = 12;
+            this.guna2Shapes57.Text = "guna2Shapes57";
+            this.guna2Shapes57.Zoom = 80;
+            // 
+            // label157
+            // 
+            this.label157.AutoSize = true;
+            this.label157.BackColor = System.Drawing.Color.Transparent;
+            this.label157.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.label157.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label157.Location = new System.Drawing.Point(980, 16);
+            this.label157.Name = "label157";
+            this.label157.Size = new System.Drawing.Size(115, 23);
+            this.label157.TabIndex = 11;
+            this.label157.Text = "Experience Level";
+            // 
+            // label158
+            // 
+            this.label158.AutoSize = true;
+            this.label158.BackColor = System.Drawing.Color.Transparent;
+            this.label158.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.label158.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label158.Location = new System.Drawing.Point(807, 16);
+            this.label158.Name = "label158";
+            this.label158.Size = new System.Drawing.Size(118, 23);
+            this.label158.TabIndex = 10;
+            this.label158.Text = "Weekly schedule";
             // 
             // guna2Shapes58
             // 
@@ -8027,31 +5688,30 @@
             this.guna2Shapes59.TabIndex = 8;
             this.guna2Shapes59.Text = "guna2Shapes59";
             this.guna2Shapes59.Zoom = 80;
-            this.guna2Shapes59.Click += new System.EventHandler(this.guna2Shapes59_Click);
             // 
-            // label167
+            // label159
             // 
-            this.label167.AutoSize = true;
-            this.label167.BackColor = System.Drawing.Color.Transparent;
-            this.label167.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label167.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label167.Location = new System.Drawing.Point(84, 124);
-            this.label167.Name = "label167";
-            this.label167.Size = new System.Drawing.Size(132, 50);
-            this.label167.TabIndex = 7;
-            this.label167.Text = "Exercise";
+            this.label159.AutoSize = true;
+            this.label159.BackColor = System.Drawing.Color.Transparent;
+            this.label159.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label159.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label159.Location = new System.Drawing.Point(84, 124);
+            this.label159.Name = "label159";
+            this.label159.Size = new System.Drawing.Size(132, 50);
+            this.label159.TabIndex = 7;
+            this.label159.Text = "Exercise";
             // 
-            // label168
+            // label160
             // 
-            this.label168.AutoSize = true;
-            this.label168.BackColor = System.Drawing.Color.Transparent;
-            this.label168.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label168.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label168.Location = new System.Drawing.Point(376, 124);
-            this.label168.Name = "label168";
-            this.label168.Size = new System.Drawing.Size(90, 50);
-            this.label168.TabIndex = 7;
-            this.label168.Text = "Reps";
+            this.label160.AutoSize = true;
+            this.label160.BackColor = System.Drawing.Color.Transparent;
+            this.label160.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label160.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label160.Location = new System.Drawing.Point(376, 124);
+            this.label160.Name = "label160";
+            this.label160.Size = new System.Drawing.Size(90, 50);
+            this.label160.TabIndex = 7;
+            this.label160.Text = "Reps";
             // 
             // guna2Shapes60
             // 
@@ -8061,129 +5721,54 @@
             this.guna2Shapes60.PolygonSides = 2;
             this.guna2Shapes60.PolygonSkip = 1;
             this.guna2Shapes60.Rotate = 0F;
-            this.guna2Shapes60.Size = new System.Drawing.Size(12, 592);
+            this.guna2Shapes60.Size = new System.Drawing.Size(12, 539);
             this.guna2Shapes60.TabIndex = 7;
             this.guna2Shapes60.Text = "guna2Shapes60";
             this.guna2Shapes60.Zoom = 80;
-            this.guna2Shapes60.Click += new System.EventHandler(this.guna2Shapes60_Click);
             // 
-            // flowLayoutPanel9
+            // flowLayoutPanel7
             // 
-            this.flowLayoutPanel9.AutoScroll = true;
-            this.flowLayoutPanel9.BackColor = System.Drawing.Color.Transparent;
-            this.flowLayoutPanel9.Controls.Add(this.guna2Panel35);
-            this.flowLayoutPanel9.Controls.Add(this.guna2Panel29);
-            this.flowLayoutPanel9.Controls.Add(this.guna2Panel30);
-            this.flowLayoutPanel9.Controls.Add(this.guna2Panel31);
-            this.flowLayoutPanel9.Controls.Add(this.guna2Panel32);
-            this.flowLayoutPanel9.Controls.Add(this.guna2Panel33);
-            this.flowLayoutPanel9.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.flowLayoutPanel9.Location = new System.Drawing.Point(3, 190);
-            this.flowLayoutPanel9.Name = "flowLayoutPanel9";
-            this.flowLayoutPanel9.Size = new System.Drawing.Size(1118, 408);
-            this.flowLayoutPanel9.TabIndex = 4;
+            this.flowLayoutPanel7.AutoScroll = true;
+            this.flowLayoutPanel7.BackColor = System.Drawing.Color.Transparent;
+            this.flowLayoutPanel7.Controls.Add(this.guna2Panel30);
+            this.flowLayoutPanel7.Controls.Add(this.guna2Panel31);
+            this.flowLayoutPanel7.Controls.Add(this.guna2Panel32);
+            this.flowLayoutPanel7.Controls.Add(this.guna2Panel33);
+            this.flowLayoutPanel7.Controls.Add(this.guna2Panel34);
+            this.flowLayoutPanel7.Controls.Add(this.guna2Panel35);
+            this.flowLayoutPanel7.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.flowLayoutPanel7.Location = new System.Drawing.Point(3, 190);
+            this.flowLayoutPanel7.Name = "flowLayoutPanel7";
+            this.flowLayoutPanel7.Size = new System.Drawing.Size(1118, 373);
+            this.flowLayoutPanel7.TabIndex = 4;
             // 
-            // guna2Panel35
+            // guna2Panel30
             // 
-            this.guna2Panel35.BorderRadius = 15;
-            this.guna2Panel35.Controls.Add(this.label158);
-            this.guna2Panel35.Controls.Add(this.label156);
-            this.guna2Panel35.Controls.Add(this.label169);
-            this.guna2Panel35.Controls.Add(this.label170);
-            this.guna2Panel35.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel35.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel35.Location = new System.Drawing.Point(10, 10);
-            this.guna2Panel35.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel35.Name = "guna2Panel35";
-            this.guna2Panel35.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel35.TabIndex = 7;
+            this.guna2Panel30.BorderRadius = 15;
+            this.guna2Panel30.Controls.Add(this.guna2CirclePictureBox12);
+            this.guna2Panel30.Controls.Add(this.label161);
+            this.guna2Panel30.Controls.Add(this.label162);
+            this.guna2Panel30.Controls.Add(this.label163);
+            this.guna2Panel30.Controls.Add(this.label164);
+            this.guna2Panel30.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel30.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel30.Location = new System.Drawing.Point(10, 10);
+            this.guna2Panel30.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel30.Name = "guna2Panel30";
+            this.guna2Panel30.Size = new System.Drawing.Size(1067, 69);
+            this.guna2Panel30.TabIndex = 7;
             // 
-            // label158
+            // guna2CirclePictureBox12
             // 
-            this.label158.AutoSize = true;
-            this.label158.BackColor = System.Drawing.Color.Transparent;
-            this.label158.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label158.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label158.Location = new System.Drawing.Point(855, 14);
-            this.label158.Name = "label158";
-            this.label158.Size = new System.Drawing.Size(149, 36);
-            this.label158.TabIndex = 8;
-            this.label158.Text = "Muscle name";
-            // 
-            // label156
-            // 
-            this.label156.AutoSize = true;
-            this.label156.BackColor = System.Drawing.Color.Transparent;
-            this.label156.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label156.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label156.Location = new System.Drawing.Point(573, 14);
-            this.label156.Name = "label156";
-            this.label156.Size = new System.Drawing.Size(167, 36);
-            this.label156.TabIndex = 7;
-            this.label156.Text = "Machine Name";
-            // 
-            // label169
-            // 
-            this.label169.AutoSize = true;
-            this.label169.BackColor = System.Drawing.Color.Transparent;
-            this.label169.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label169.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label169.Location = new System.Drawing.Point(370, 14);
-            this.label169.Name = "label169";
-            this.label169.Size = new System.Drawing.Size(58, 36);
-            this.label169.TabIndex = 6;
-            this.label169.Text = "reps";
-            // 
-            // label170
-            // 
-            this.label170.AutoSize = true;
-            this.label170.BackColor = System.Drawing.Color.Transparent;
-            this.label170.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label170.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label170.Location = new System.Drawing.Point(68, 14);
-            this.label170.Name = "label170";
-            this.label170.Size = new System.Drawing.Size(159, 36);
-            this.label170.TabIndex = 5;
-            this.label170.Text = "Exercise Name";
-            // 
-            // guna2Panel29
-            // 
-            this.guna2Panel29.BorderRadius = 15;
-            this.guna2Panel29.Controls.Add(this.label159);
-            this.guna2Panel29.Controls.Add(this.label160);
-            this.guna2Panel29.Controls.Add(this.label161);
-            this.guna2Panel29.Controls.Add(this.label162);
-            this.guna2Panel29.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel29.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel29.Location = new System.Drawing.Point(10, 99);
-            this.guna2Panel29.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel29.Name = "guna2Panel29";
-            this.guna2Panel29.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel29.TabIndex = 9;
-            // 
-            // label159
-            // 
-            this.label159.AutoSize = true;
-            this.label159.BackColor = System.Drawing.Color.Transparent;
-            this.label159.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label159.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label159.Location = new System.Drawing.Point(855, 14);
-            this.label159.Name = "label159";
-            this.label159.Size = new System.Drawing.Size(149, 36);
-            this.label159.TabIndex = 8;
-            this.label159.Text = "Muscle name";
-            // 
-            // label160
-            // 
-            this.label160.AutoSize = true;
-            this.label160.BackColor = System.Drawing.Color.Transparent;
-            this.label160.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label160.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label160.Location = new System.Drawing.Point(573, 14);
-            this.label160.Name = "label160";
-            this.label160.Size = new System.Drawing.Size(167, 36);
-            this.label160.TabIndex = 7;
-            this.label160.Text = "Machine Name";
+            this.guna2CirclePictureBox12.Image = global::Data_base_spring_2024.Properties.Resources.arrow_left;
+            this.guna2CirclePictureBox12.ImageRotate = 0F;
+            this.guna2CirclePictureBox12.Location = new System.Drawing.Point(17, 14);
+            this.guna2CirclePictureBox12.Name = "guna2CirclePictureBox12";
+            this.guna2CirclePictureBox12.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.guna2CirclePictureBox12.Size = new System.Drawing.Size(54, 40);
+            this.guna2CirclePictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2CirclePictureBox12.TabIndex = 9;
+            this.guna2CirclePictureBox12.TabStop = false;
             // 
             // label161
             // 
@@ -8191,11 +5776,11 @@
             this.label161.BackColor = System.Drawing.Color.Transparent;
             this.label161.Cursor = System.Windows.Forms.Cursors.Default;
             this.label161.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label161.Location = new System.Drawing.Point(370, 14);
+            this.label161.Location = new System.Drawing.Point(855, 14);
             this.label161.Name = "label161";
-            this.label161.Size = new System.Drawing.Size(58, 36);
-            this.label161.TabIndex = 6;
-            this.label161.Text = "reps";
+            this.label161.Size = new System.Drawing.Size(149, 36);
+            this.label161.TabIndex = 8;
+            this.label161.Text = "Muscle name";
             // 
             // label162
             // 
@@ -8203,26 +5788,11 @@
             this.label162.BackColor = System.Drawing.Color.Transparent;
             this.label162.Cursor = System.Windows.Forms.Cursors.Default;
             this.label162.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label162.Location = new System.Drawing.Point(68, 14);
+            this.label162.Location = new System.Drawing.Point(573, 14);
             this.label162.Name = "label162";
-            this.label162.Size = new System.Drawing.Size(159, 36);
-            this.label162.TabIndex = 5;
-            this.label162.Text = "Exercise Name";
-            // 
-            // guna2Panel30
-            // 
-            this.guna2Panel30.BorderRadius = 15;
-            this.guna2Panel30.Controls.Add(this.label163);
-            this.guna2Panel30.Controls.Add(this.label164);
-            this.guna2Panel30.Controls.Add(this.label165);
-            this.guna2Panel30.Controls.Add(this.label166);
-            this.guna2Panel30.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel30.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel30.Location = new System.Drawing.Point(10, 188);
-            this.guna2Panel30.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel30.Name = "guna2Panel30";
-            this.guna2Panel30.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel30.TabIndex = 10;
+            this.label162.Size = new System.Drawing.Size(167, 36);
+            this.label162.TabIndex = 7;
+            this.label162.Text = "Machine Name";
             // 
             // label163
             // 
@@ -8230,11 +5800,11 @@
             this.label163.BackColor = System.Drawing.Color.Transparent;
             this.label163.Cursor = System.Windows.Forms.Cursors.Default;
             this.label163.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label163.Location = new System.Drawing.Point(855, 14);
+            this.label163.Location = new System.Drawing.Point(370, 14);
             this.label163.Name = "label163";
-            this.label163.Size = new System.Drawing.Size(149, 36);
-            this.label163.TabIndex = 8;
-            this.label163.Text = "Muscle name";
+            this.label163.Size = new System.Drawing.Size(58, 36);
+            this.label163.TabIndex = 6;
+            this.label163.Text = "reps";
             // 
             // label164
             // 
@@ -8242,11 +5812,26 @@
             this.label164.BackColor = System.Drawing.Color.Transparent;
             this.label164.Cursor = System.Windows.Forms.Cursors.Default;
             this.label164.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label164.Location = new System.Drawing.Point(573, 14);
+            this.label164.Location = new System.Drawing.Point(68, 14);
             this.label164.Name = "label164";
-            this.label164.Size = new System.Drawing.Size(167, 36);
-            this.label164.TabIndex = 7;
-            this.label164.Text = "Machine Name";
+            this.label164.Size = new System.Drawing.Size(159, 36);
+            this.label164.TabIndex = 5;
+            this.label164.Text = "Exercise Name";
+            // 
+            // guna2Panel31
+            // 
+            this.guna2Panel31.BorderRadius = 15;
+            this.guna2Panel31.Controls.Add(this.label165);
+            this.guna2Panel31.Controls.Add(this.label166);
+            this.guna2Panel31.Controls.Add(this.label167);
+            this.guna2Panel31.Controls.Add(this.label168);
+            this.guna2Panel31.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel31.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel31.Location = new System.Drawing.Point(10, 99);
+            this.guna2Panel31.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel31.Name = "guna2Panel31";
+            this.guna2Panel31.Size = new System.Drawing.Size(1067, 69);
+            this.guna2Panel31.TabIndex = 9;
             // 
             // label165
             // 
@@ -8254,11 +5839,11 @@
             this.label165.BackColor = System.Drawing.Color.Transparent;
             this.label165.Cursor = System.Windows.Forms.Cursors.Default;
             this.label165.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label165.Location = new System.Drawing.Point(370, 14);
+            this.label165.Location = new System.Drawing.Point(855, 14);
             this.label165.Name = "label165";
-            this.label165.Size = new System.Drawing.Size(58, 36);
-            this.label165.TabIndex = 6;
-            this.label165.Text = "reps";
+            this.label165.Size = new System.Drawing.Size(149, 36);
+            this.label165.TabIndex = 8;
+            this.label165.Text = "Muscle name";
             // 
             // label166
             // 
@@ -8266,26 +5851,74 @@
             this.label166.BackColor = System.Drawing.Color.Transparent;
             this.label166.Cursor = System.Windows.Forms.Cursors.Default;
             this.label166.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label166.Location = new System.Drawing.Point(68, 14);
+            this.label166.Location = new System.Drawing.Point(573, 14);
             this.label166.Name = "label166";
-            this.label166.Size = new System.Drawing.Size(159, 36);
-            this.label166.TabIndex = 5;
-            this.label166.Text = "Exercise Name";
+            this.label166.Size = new System.Drawing.Size(167, 36);
+            this.label166.TabIndex = 7;
+            this.label166.Text = "Machine Name";
             // 
-            // guna2Panel31
+            // label167
             // 
-            this.guna2Panel31.BorderRadius = 15;
-            this.guna2Panel31.Controls.Add(this.label171);
-            this.guna2Panel31.Controls.Add(this.label172);
-            this.guna2Panel31.Controls.Add(this.label173);
-            this.guna2Panel31.Controls.Add(this.label174);
-            this.guna2Panel31.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel31.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel31.Location = new System.Drawing.Point(10, 277);
-            this.guna2Panel31.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel31.Name = "guna2Panel31";
-            this.guna2Panel31.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel31.TabIndex = 11;
+            this.label167.AutoSize = true;
+            this.label167.BackColor = System.Drawing.Color.Transparent;
+            this.label167.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label167.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label167.Location = new System.Drawing.Point(370, 14);
+            this.label167.Name = "label167";
+            this.label167.Size = new System.Drawing.Size(58, 36);
+            this.label167.TabIndex = 6;
+            this.label167.Text = "reps";
+            // 
+            // label168
+            // 
+            this.label168.AutoSize = true;
+            this.label168.BackColor = System.Drawing.Color.Transparent;
+            this.label168.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label168.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label168.Location = new System.Drawing.Point(68, 14);
+            this.label168.Name = "label168";
+            this.label168.Size = new System.Drawing.Size(159, 36);
+            this.label168.TabIndex = 5;
+            this.label168.Text = "Exercise Name";
+            // 
+            // guna2Panel32
+            // 
+            this.guna2Panel32.BorderRadius = 15;
+            this.guna2Panel32.Controls.Add(this.label169);
+            this.guna2Panel32.Controls.Add(this.label170);
+            this.guna2Panel32.Controls.Add(this.label171);
+            this.guna2Panel32.Controls.Add(this.label172);
+            this.guna2Panel32.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel32.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel32.Location = new System.Drawing.Point(10, 188);
+            this.guna2Panel32.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel32.Name = "guna2Panel32";
+            this.guna2Panel32.Size = new System.Drawing.Size(1067, 69);
+            this.guna2Panel32.TabIndex = 10;
+            // 
+            // label169
+            // 
+            this.label169.AutoSize = true;
+            this.label169.BackColor = System.Drawing.Color.Transparent;
+            this.label169.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label169.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label169.Location = new System.Drawing.Point(855, 14);
+            this.label169.Name = "label169";
+            this.label169.Size = new System.Drawing.Size(149, 36);
+            this.label169.TabIndex = 8;
+            this.label169.Text = "Muscle name";
+            // 
+            // label170
+            // 
+            this.label170.AutoSize = true;
+            this.label170.BackColor = System.Drawing.Color.Transparent;
+            this.label170.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label170.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label170.Location = new System.Drawing.Point(573, 14);
+            this.label170.Name = "label170";
+            this.label170.Size = new System.Drawing.Size(167, 36);
+            this.label170.TabIndex = 7;
+            this.label170.Text = "Machine Name";
             // 
             // label171
             // 
@@ -8293,11 +5926,11 @@
             this.label171.BackColor = System.Drawing.Color.Transparent;
             this.label171.Cursor = System.Windows.Forms.Cursors.Default;
             this.label171.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label171.Location = new System.Drawing.Point(855, 14);
+            this.label171.Location = new System.Drawing.Point(370, 14);
             this.label171.Name = "label171";
-            this.label171.Size = new System.Drawing.Size(149, 36);
-            this.label171.TabIndex = 8;
-            this.label171.Text = "Muscle name";
+            this.label171.Size = new System.Drawing.Size(58, 36);
+            this.label171.TabIndex = 6;
+            this.label171.Text = "reps";
             // 
             // label172
             // 
@@ -8305,11 +5938,26 @@
             this.label172.BackColor = System.Drawing.Color.Transparent;
             this.label172.Cursor = System.Windows.Forms.Cursors.Default;
             this.label172.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label172.Location = new System.Drawing.Point(573, 14);
+            this.label172.Location = new System.Drawing.Point(68, 14);
             this.label172.Name = "label172";
-            this.label172.Size = new System.Drawing.Size(167, 36);
-            this.label172.TabIndex = 7;
-            this.label172.Text = "Machine Name";
+            this.label172.Size = new System.Drawing.Size(159, 36);
+            this.label172.TabIndex = 5;
+            this.label172.Text = "Exercise Name";
+            // 
+            // guna2Panel33
+            // 
+            this.guna2Panel33.BorderRadius = 15;
+            this.guna2Panel33.Controls.Add(this.label173);
+            this.guna2Panel33.Controls.Add(this.label174);
+            this.guna2Panel33.Controls.Add(this.label175);
+            this.guna2Panel33.Controls.Add(this.label176);
+            this.guna2Panel33.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel33.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel33.Location = new System.Drawing.Point(10, 277);
+            this.guna2Panel33.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel33.Name = "guna2Panel33";
+            this.guna2Panel33.Size = new System.Drawing.Size(1067, 69);
+            this.guna2Panel33.TabIndex = 11;
             // 
             // label173
             // 
@@ -8317,11 +5965,11 @@
             this.label173.BackColor = System.Drawing.Color.Transparent;
             this.label173.Cursor = System.Windows.Forms.Cursors.Default;
             this.label173.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label173.Location = new System.Drawing.Point(370, 14);
+            this.label173.Location = new System.Drawing.Point(855, 14);
             this.label173.Name = "label173";
-            this.label173.Size = new System.Drawing.Size(58, 36);
-            this.label173.TabIndex = 6;
-            this.label173.Text = "reps";
+            this.label173.Size = new System.Drawing.Size(149, 36);
+            this.label173.TabIndex = 8;
+            this.label173.Text = "Muscle name";
             // 
             // label174
             // 
@@ -8329,26 +5977,11 @@
             this.label174.BackColor = System.Drawing.Color.Transparent;
             this.label174.Cursor = System.Windows.Forms.Cursors.Default;
             this.label174.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label174.Location = new System.Drawing.Point(68, 14);
+            this.label174.Location = new System.Drawing.Point(573, 14);
             this.label174.Name = "label174";
-            this.label174.Size = new System.Drawing.Size(159, 36);
-            this.label174.TabIndex = 5;
-            this.label174.Text = "Exercise Name";
-            // 
-            // guna2Panel32
-            // 
-            this.guna2Panel32.BorderRadius = 15;
-            this.guna2Panel32.Controls.Add(this.label175);
-            this.guna2Panel32.Controls.Add(this.label176);
-            this.guna2Panel32.Controls.Add(this.label182);
-            this.guna2Panel32.Controls.Add(this.label183);
-            this.guna2Panel32.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel32.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel32.Location = new System.Drawing.Point(10, 366);
-            this.guna2Panel32.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel32.Name = "guna2Panel32";
-            this.guna2Panel32.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel32.TabIndex = 10;
+            this.label174.Size = new System.Drawing.Size(167, 36);
+            this.label174.TabIndex = 7;
+            this.label174.Text = "Machine Name";
             // 
             // label175
             // 
@@ -8356,11 +5989,11 @@
             this.label175.BackColor = System.Drawing.Color.Transparent;
             this.label175.Cursor = System.Windows.Forms.Cursors.Default;
             this.label175.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label175.Location = new System.Drawing.Point(855, 14);
+            this.label175.Location = new System.Drawing.Point(370, 14);
             this.label175.Name = "label175";
-            this.label175.Size = new System.Drawing.Size(149, 36);
-            this.label175.TabIndex = 8;
-            this.label175.Text = "Muscle name";
+            this.label175.Size = new System.Drawing.Size(58, 36);
+            this.label175.TabIndex = 6;
+            this.label175.Text = "reps";
             // 
             // label176
             // 
@@ -8368,11 +6001,89 @@
             this.label176.BackColor = System.Drawing.Color.Transparent;
             this.label176.Cursor = System.Windows.Forms.Cursors.Default;
             this.label176.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label176.Location = new System.Drawing.Point(573, 14);
+            this.label176.Location = new System.Drawing.Point(68, 14);
             this.label176.Name = "label176";
-            this.label176.Size = new System.Drawing.Size(167, 36);
-            this.label176.TabIndex = 7;
-            this.label176.Text = "Machine Name";
+            this.label176.Size = new System.Drawing.Size(159, 36);
+            this.label176.TabIndex = 5;
+            this.label176.Text = "Exercise Name";
+            // 
+            // guna2Panel34
+            // 
+            this.guna2Panel34.BorderRadius = 15;
+            this.guna2Panel34.Controls.Add(this.label177);
+            this.guna2Panel34.Controls.Add(this.label178);
+            this.guna2Panel34.Controls.Add(this.label179);
+            this.guna2Panel34.Controls.Add(this.label180);
+            this.guna2Panel34.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel34.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel34.Location = new System.Drawing.Point(10, 366);
+            this.guna2Panel34.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel34.Name = "guna2Panel34";
+            this.guna2Panel34.Size = new System.Drawing.Size(1067, 69);
+            this.guna2Panel34.TabIndex = 10;
+            // 
+            // label177
+            // 
+            this.label177.AutoSize = true;
+            this.label177.BackColor = System.Drawing.Color.Transparent;
+            this.label177.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label177.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label177.Location = new System.Drawing.Point(855, 14);
+            this.label177.Name = "label177";
+            this.label177.Size = new System.Drawing.Size(149, 36);
+            this.label177.TabIndex = 8;
+            this.label177.Text = "Muscle name";
+            // 
+            // label178
+            // 
+            this.label178.AutoSize = true;
+            this.label178.BackColor = System.Drawing.Color.Transparent;
+            this.label178.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label178.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label178.Location = new System.Drawing.Point(573, 14);
+            this.label178.Name = "label178";
+            this.label178.Size = new System.Drawing.Size(167, 36);
+            this.label178.TabIndex = 7;
+            this.label178.Text = "Machine Name";
+            // 
+            // label179
+            // 
+            this.label179.AutoSize = true;
+            this.label179.BackColor = System.Drawing.Color.Transparent;
+            this.label179.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label179.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label179.Location = new System.Drawing.Point(370, 14);
+            this.label179.Name = "label179";
+            this.label179.Size = new System.Drawing.Size(58, 36);
+            this.label179.TabIndex = 6;
+            this.label179.Text = "reps";
+            // 
+            // label180
+            // 
+            this.label180.AutoSize = true;
+            this.label180.BackColor = System.Drawing.Color.Transparent;
+            this.label180.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label180.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label180.Location = new System.Drawing.Point(68, 14);
+            this.label180.Name = "label180";
+            this.label180.Size = new System.Drawing.Size(159, 36);
+            this.label180.TabIndex = 5;
+            this.label180.Text = "Exercise Name";
+            // 
+            // guna2Panel35
+            // 
+            this.guna2Panel35.BorderRadius = 15;
+            this.guna2Panel35.Controls.Add(this.label182);
+            this.guna2Panel35.Controls.Add(this.label183);
+            this.guna2Panel35.Controls.Add(this.label184);
+            this.guna2Panel35.Controls.Add(this.label185);
+            this.guna2Panel35.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel35.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel35.Location = new System.Drawing.Point(10, 455);
+            this.guna2Panel35.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel35.Name = "guna2Panel35";
+            this.guna2Panel35.Size = new System.Drawing.Size(1067, 69);
+            this.guna2Panel35.TabIndex = 11;
             // 
             // label182
             // 
@@ -8380,11 +6091,11 @@
             this.label182.BackColor = System.Drawing.Color.Transparent;
             this.label182.Cursor = System.Windows.Forms.Cursors.Default;
             this.label182.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label182.Location = new System.Drawing.Point(370, 14);
+            this.label182.Location = new System.Drawing.Point(855, 14);
             this.label182.Name = "label182";
-            this.label182.Size = new System.Drawing.Size(58, 36);
-            this.label182.TabIndex = 6;
-            this.label182.Text = "reps";
+            this.label182.Size = new System.Drawing.Size(149, 36);
+            this.label182.TabIndex = 8;
+            this.label182.Text = "Muscle name";
             // 
             // label183
             // 
@@ -8392,26 +6103,11 @@
             this.label183.BackColor = System.Drawing.Color.Transparent;
             this.label183.Cursor = System.Windows.Forms.Cursors.Default;
             this.label183.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label183.Location = new System.Drawing.Point(68, 14);
+            this.label183.Location = new System.Drawing.Point(573, 14);
             this.label183.Name = "label183";
-            this.label183.Size = new System.Drawing.Size(159, 36);
-            this.label183.TabIndex = 5;
-            this.label183.Text = "Exercise Name";
-            // 
-            // guna2Panel33
-            // 
-            this.guna2Panel33.BorderRadius = 15;
-            this.guna2Panel33.Controls.Add(this.label184);
-            this.guna2Panel33.Controls.Add(this.label185);
-            this.guna2Panel33.Controls.Add(this.label186);
-            this.guna2Panel33.Controls.Add(this.label187);
-            this.guna2Panel33.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel33.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel33.Location = new System.Drawing.Point(10, 455);
-            this.guna2Panel33.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel33.Name = "guna2Panel33";
-            this.guna2Panel33.Size = new System.Drawing.Size(1067, 69);
-            this.guna2Panel33.TabIndex = 11;
+            this.label183.Size = new System.Drawing.Size(167, 36);
+            this.label183.TabIndex = 7;
+            this.label183.Text = "Machine Name";
             // 
             // label184
             // 
@@ -8419,11 +6115,11 @@
             this.label184.BackColor = System.Drawing.Color.Transparent;
             this.label184.Cursor = System.Windows.Forms.Cursors.Default;
             this.label184.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label184.Location = new System.Drawing.Point(855, 14);
+            this.label184.Location = new System.Drawing.Point(370, 14);
             this.label184.Name = "label184";
-            this.label184.Size = new System.Drawing.Size(149, 36);
-            this.label184.TabIndex = 8;
-            this.label184.Text = "Muscle name";
+            this.label184.Size = new System.Drawing.Size(58, 36);
+            this.label184.TabIndex = 6;
+            this.label184.Text = "reps";
             // 
             // label185
             // 
@@ -8431,35 +6127,11 @@
             this.label185.BackColor = System.Drawing.Color.Transparent;
             this.label185.Cursor = System.Windows.Forms.Cursors.Default;
             this.label185.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label185.Location = new System.Drawing.Point(573, 14);
+            this.label185.Location = new System.Drawing.Point(68, 14);
             this.label185.Name = "label185";
-            this.label185.Size = new System.Drawing.Size(167, 36);
-            this.label185.TabIndex = 7;
-            this.label185.Text = "Machine Name";
-            // 
-            // label186
-            // 
-            this.label186.AutoSize = true;
-            this.label186.BackColor = System.Drawing.Color.Transparent;
-            this.label186.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label186.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label186.Location = new System.Drawing.Point(370, 14);
-            this.label186.Name = "label186";
-            this.label186.Size = new System.Drawing.Size(58, 36);
-            this.label186.TabIndex = 6;
-            this.label186.Text = "reps";
-            // 
-            // label187
-            // 
-            this.label187.AutoSize = true;
-            this.label187.BackColor = System.Drawing.Color.Transparent;
-            this.label187.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label187.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label187.Location = new System.Drawing.Point(68, 14);
-            this.label187.Name = "label187";
-            this.label187.Size = new System.Drawing.Size(159, 36);
-            this.label187.TabIndex = 5;
-            this.label187.Text = "Exercise Name";
+            this.label185.Size = new System.Drawing.Size(159, 36);
+            this.label185.TabIndex = 5;
+            this.label185.Text = "Exercise Name";
             // 
             // guna2Shapes61
             // 
@@ -8476,35 +6148,35 @@
             this.guna2Shapes61.Text = "guna2Shapes61";
             this.guna2Shapes61.Zoom = 80;
             // 
-            // label177
+            // label186
             // 
-            this.label177.AutoSize = true;
-            this.label177.BackColor = System.Drawing.Color.Transparent;
-            this.label177.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label177.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label177.Location = new System.Drawing.Point(38, 71);
-            this.label177.Name = "label177";
-            this.label177.Size = new System.Drawing.Size(99, 23);
-            this.label177.TabIndex = 2;
-            this.label177.Text = "Advisor name";
+            this.label186.AutoSize = true;
+            this.label186.BackColor = System.Drawing.Color.Transparent;
+            this.label186.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.label186.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label186.Location = new System.Drawing.Point(38, 71);
+            this.label186.Name = "label186";
+            this.label186.Size = new System.Drawing.Size(99, 23);
+            this.label186.TabIndex = 2;
+            this.label186.Text = "Advisor name";
             // 
-            // label178
+            // label187
             // 
-            this.label178.AutoSize = true;
-            this.label178.BackColor = System.Drawing.Color.Transparent;
-            this.label178.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label178.Font = new System.Drawing.Font("Poppins", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label178.Location = new System.Drawing.Point(31, 16);
-            this.label178.Name = "label178";
-            this.label178.Size = new System.Drawing.Size(393, 65);
-            this.label178.TabIndex = 0;
-            this.label178.Text = "Workout Plan Name";
+            this.label187.AutoSize = true;
+            this.label187.BackColor = System.Drawing.Color.Transparent;
+            this.label187.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label187.Font = new System.Drawing.Font("Poppins", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label187.Location = new System.Drawing.Point(31, 16);
+            this.label187.Name = "label187";
+            this.label187.Size = new System.Drawing.Size(393, 65);
+            this.label187.TabIndex = 0;
+            this.label187.Text = "Workout Plan Name";
             // 
             // guna2Shapes48
             // 
             this.guna2Shapes48.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dash;
             this.guna2Shapes48.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes48.Location = new System.Drawing.Point(206, 89);
+            this.guna2Shapes48.Location = new System.Drawing.Point(212, 66);
             this.guna2Shapes48.Name = "guna2Shapes48";
             this.guna2Shapes48.PolygonSkip = 1;
             this.guna2Shapes48.Rotate = 0F;
@@ -8520,7 +6192,7 @@
             this.label141.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label141.Font = new System.Drawing.Font("Poppins", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label141.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
-            this.label141.Location = new System.Drawing.Point(394, 27);
+            this.label141.Location = new System.Drawing.Point(400, 4);
             this.label141.Name = "label141";
             this.label141.Size = new System.Drawing.Size(369, 82);
             this.label141.TabIndex = 0;
@@ -8543,13 +6215,12 @@
             // 
             this.flowLayoutPanel5.AutoScroll = true;
             this.flowLayoutPanel5.Controls.Add(this.guna2Panel24);
-            this.flowLayoutPanel5.Controls.Add(this.guna2Panel55);
-            this.flowLayoutPanel5.Controls.Add(this.guna2Panel50);
+            this.flowLayoutPanel5.Controls.Add(this.guna2Panel36);
             this.flowLayoutPanel5.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.flowLayoutPanel5.Location = new System.Drawing.Point(14, 131);
+            this.flowLayoutPanel5.Location = new System.Drawing.Point(22, 92);
             this.flowLayoutPanel5.Name = "flowLayoutPanel5";
             this.flowLayoutPanel5.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.flowLayoutPanel5.Size = new System.Drawing.Size(1185, 697);
+            this.flowLayoutPanel5.Size = new System.Drawing.Size(1185, 649);
             this.flowLayoutPanel5.TabIndex = 4;
             this.flowLayoutPanel5.WrapContents = false;
             // 
@@ -8572,7 +6243,7 @@
             this.guna2Panel24.Location = new System.Drawing.Point(20, 20);
             this.guna2Panel24.Margin = new System.Windows.Forms.Padding(20);
             this.guna2Panel24.Name = "guna2Panel24";
-            this.guna2Panel24.Size = new System.Drawing.Size(1082, 622);
+            this.guna2Panel24.Size = new System.Drawing.Size(1082, 580);
             this.guna2Panel24.TabIndex = 0;
             // 
             // label181
@@ -8644,7 +6315,7 @@
             this.guna2Shapes50.PolygonSides = 2;
             this.guna2Shapes50.PolygonSkip = 1;
             this.guna2Shapes50.Rotate = 0F;
-            this.guna2Shapes50.Size = new System.Drawing.Size(12, 583);
+            this.guna2Shapes50.Size = new System.Drawing.Size(12, 524);
             this.guna2Shapes50.TabIndex = 7;
             this.guna2Shapes50.Text = "guna2Shapes50";
             this.guna2Shapes50.Zoom = 80;
@@ -8660,7 +6331,7 @@
             this.flowLayoutPanel6.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.flowLayoutPanel6.Location = new System.Drawing.Point(30, 190);
             this.flowLayoutPanel6.Name = "flowLayoutPanel6";
-            this.flowLayoutPanel6.Size = new System.Drawing.Size(1009, 408);
+            this.flowLayoutPanel6.Size = new System.Drawing.Size(1009, 355);
             this.flowLayoutPanel6.TabIndex = 4;
             // 
             // guna2Panel28
@@ -8676,6 +6347,19 @@
             this.guna2Panel28.Name = "guna2Panel28";
             this.guna2Panel28.Size = new System.Drawing.Size(926, 90);
             this.guna2Panel28.TabIndex = 7;
+            // 
+            // guna2CirclePictureBox10
+            // 
+            this.guna2CirclePictureBox10.Image = global::Data_base_spring_2024.Properties.Resources.arrow_left;
+            this.guna2CirclePictureBox10.ImageRotate = 0F;
+            this.guna2CirclePictureBox10.Location = new System.Drawing.Point(26, 27);
+            this.guna2CirclePictureBox10.Name = "guna2CirclePictureBox10";
+            this.guna2CirclePictureBox10.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.guna2CirclePictureBox10.Size = new System.Drawing.Size(44, 40);
+            this.guna2CirclePictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2CirclePictureBox10.TabIndex = 10;
+            this.guna2CirclePictureBox10.TabStop = false;
+            this.guna2CirclePictureBox10.Click += new System.EventHandler(this.guna2CirclePictureBox10_Click);
             // 
             // label153
             // 
@@ -8852,605 +6536,321 @@
             this.label143.TabIndex = 0;
             this.label143.Text = "Diet Plan Name";
             // 
-            // guna2Panel55
-            // 
-            this.guna2Panel55.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel55.BorderRadius = 15;
-            this.guna2Panel55.Controls.Add(this.label265);
-            this.guna2Panel55.Controls.Add(this.guna2Shapes82);
-            this.guna2Panel55.Controls.Add(this.guna2Shapes83);
-            this.guna2Panel55.Controls.Add(this.label266);
-            this.guna2Panel55.Controls.Add(this.label267);
-            this.guna2Panel55.Controls.Add(this.guna2Shapes84);
-            this.guna2Panel55.Controls.Add(this.flowLayoutPanel12);
-            this.guna2Panel55.Controls.Add(this.guna2Shapes85);
-            this.guna2Panel55.Controls.Add(this.label276);
-            this.guna2Panel55.Controls.Add(this.label277);
-            this.guna2Panel55.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel55.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
-            this.guna2Panel55.Location = new System.Drawing.Point(1142, 20);
-            this.guna2Panel55.Margin = new System.Windows.Forms.Padding(20);
-            this.guna2Panel55.Name = "guna2Panel55";
-            this.guna2Panel55.Size = new System.Drawing.Size(1082, 622);
-            this.guna2Panel55.TabIndex = 11;
-            // 
-            // label265
-            // 
-            this.label265.BackColor = System.Drawing.Color.Transparent;
-            this.label265.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label265.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label265.Location = new System.Drawing.Point(552, 33);
-            this.label265.Name = "label265";
-            this.label265.Size = new System.Drawing.Size(468, 23);
-            this.label265.TabIndex = 10;
-            this.label265.Text = "Objectives";
-            // 
-            // guna2Shapes82
-            // 
-            this.guna2Shapes82.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes82.Location = new System.Drawing.Point(30, 174);
-            this.guna2Shapes82.Name = "guna2Shapes82";
-            this.guna2Shapes82.PolygonSkip = 1;
-            this.guna2Shapes82.Rotate = 0F;
-            this.guna2Shapes82.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes82.Size = new System.Drawing.Size(458, 10);
-            this.guna2Shapes82.TabIndex = 9;
-            this.guna2Shapes82.Text = "guna2Shapes82";
-            this.guna2Shapes82.Zoom = 80;
-            // 
-            // guna2Shapes83
-            // 
-            this.guna2Shapes83.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes83.Location = new System.Drawing.Point(502, 174);
-            this.guna2Shapes83.Name = "guna2Shapes83";
-            this.guna2Shapes83.PolygonSkip = 1;
-            this.guna2Shapes83.Rotate = 0F;
-            this.guna2Shapes83.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes83.Size = new System.Drawing.Size(464, 10);
-            this.guna2Shapes83.TabIndex = 8;
-            this.guna2Shapes83.Text = "guna2Shapes83";
-            this.guna2Shapes83.Zoom = 80;
-            // 
-            // label266
-            // 
-            this.label266.AutoSize = true;
-            this.label266.BackColor = System.Drawing.Color.Transparent;
-            this.label266.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label266.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label266.Location = new System.Drawing.Point(169, 123);
-            this.label266.Name = "label266";
-            this.label266.Size = new System.Drawing.Size(181, 50);
-            this.label266.TabIndex = 7;
-            this.label266.Text = "Meal Name";
-            // 
-            // label267
-            // 
-            this.label267.AutoSize = true;
-            this.label267.BackColor = System.Drawing.Color.Transparent;
-            this.label267.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label267.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label267.Location = new System.Drawing.Point(639, 123);
-            this.label267.Name = "label267";
-            this.label267.Size = new System.Drawing.Size(191, 50);
-            this.label267.TabIndex = 7;
-            this.label267.Text = "Meal Timing";
-            // 
-            // guna2Shapes84
-            // 
-            this.guna2Shapes84.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes84.Location = new System.Drawing.Point(494, 71);
-            this.guna2Shapes84.Name = "guna2Shapes84";
-            this.guna2Shapes84.PolygonSides = 2;
-            this.guna2Shapes84.PolygonSkip = 1;
-            this.guna2Shapes84.Rotate = 0F;
-            this.guna2Shapes84.Size = new System.Drawing.Size(12, 583);
-            this.guna2Shapes84.TabIndex = 7;
-            this.guna2Shapes84.Text = "guna2Shapes84";
-            this.guna2Shapes84.Zoom = 80;
-            // 
-            // flowLayoutPanel12
-            // 
-            this.flowLayoutPanel12.AutoScroll = true;
-            this.flowLayoutPanel12.BackColor = System.Drawing.Color.Transparent;
-            this.flowLayoutPanel12.Controls.Add(this.guna2Panel56);
-            this.flowLayoutPanel12.Controls.Add(this.guna2Panel57);
-            this.flowLayoutPanel12.Controls.Add(this.guna2Panel58);
-            this.flowLayoutPanel12.Controls.Add(this.guna2Panel59);
-            this.flowLayoutPanel12.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.flowLayoutPanel12.Location = new System.Drawing.Point(30, 190);
-            this.flowLayoutPanel12.Name = "flowLayoutPanel12";
-            this.flowLayoutPanel12.Size = new System.Drawing.Size(1009, 408);
-            this.flowLayoutPanel12.TabIndex = 4;
-            // 
-            // guna2Panel56
-            // 
-            this.guna2Panel56.BorderRadius = 15;
-            this.guna2Panel56.Controls.Add(this.label268);
-            this.guna2Panel56.Controls.Add(this.label269);
-            this.guna2Panel56.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel56.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel56.Location = new System.Drawing.Point(10, 10);
-            this.guna2Panel56.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel56.Name = "guna2Panel56";
-            this.guna2Panel56.Size = new System.Drawing.Size(926, 90);
-            this.guna2Panel56.TabIndex = 7;
-            // 
-            // label268
-            // 
-            this.label268.AutoSize = true;
-            this.label268.BackColor = System.Drawing.Color.Transparent;
-            this.label268.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label268.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label268.Location = new System.Drawing.Point(599, 27);
-            this.label268.Name = "label268";
-            this.label268.Size = new System.Drawing.Size(191, 50);
-            this.label268.TabIndex = 6;
-            this.label268.Text = "Meal Timing";
-            // 
-            // label269
-            // 
-            this.label269.AutoSize = true;
-            this.label269.BackColor = System.Drawing.Color.Transparent;
-            this.label269.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label269.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label269.Location = new System.Drawing.Point(103, 27);
-            this.label269.Name = "label269";
-            this.label269.Size = new System.Drawing.Size(181, 50);
-            this.label269.TabIndex = 5;
-            this.label269.Text = "Meal Name";
-            // 
-            // guna2Panel57
-            // 
-            this.guna2Panel57.BorderRadius = 15;
-            this.guna2Panel57.Controls.Add(this.label270);
-            this.guna2Panel57.Controls.Add(this.label271);
-            this.guna2Panel57.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel57.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel57.Location = new System.Drawing.Point(10, 120);
-            this.guna2Panel57.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel57.Name = "guna2Panel57";
-            this.guna2Panel57.Size = new System.Drawing.Size(926, 90);
-            this.guna2Panel57.TabIndex = 7;
-            // 
-            // label270
-            // 
-            this.label270.AutoSize = true;
-            this.label270.BackColor = System.Drawing.Color.Transparent;
-            this.label270.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label270.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label270.Location = new System.Drawing.Point(599, 27);
-            this.label270.Name = "label270";
-            this.label270.Size = new System.Drawing.Size(191, 50);
-            this.label270.TabIndex = 6;
-            this.label270.Text = "Meal Timing";
-            // 
-            // label271
-            // 
-            this.label271.AutoSize = true;
-            this.label271.BackColor = System.Drawing.Color.Transparent;
-            this.label271.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label271.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label271.Location = new System.Drawing.Point(103, 27);
-            this.label271.Name = "label271";
-            this.label271.Size = new System.Drawing.Size(181, 50);
-            this.label271.TabIndex = 5;
-            this.label271.Text = "Meal Name";
-            // 
-            // guna2Panel58
-            // 
-            this.guna2Panel58.BorderRadius = 15;
-            this.guna2Panel58.Controls.Add(this.label272);
-            this.guna2Panel58.Controls.Add(this.label273);
-            this.guna2Panel58.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel58.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel58.Location = new System.Drawing.Point(10, 230);
-            this.guna2Panel58.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel58.Name = "guna2Panel58";
-            this.guna2Panel58.Size = new System.Drawing.Size(926, 90);
-            this.guna2Panel58.TabIndex = 7;
-            // 
-            // label272
-            // 
-            this.label272.AutoSize = true;
-            this.label272.BackColor = System.Drawing.Color.Transparent;
-            this.label272.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label272.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label272.Location = new System.Drawing.Point(599, 27);
-            this.label272.Name = "label272";
-            this.label272.Size = new System.Drawing.Size(191, 50);
-            this.label272.TabIndex = 6;
-            this.label272.Text = "Meal Timing";
-            // 
-            // label273
-            // 
-            this.label273.AutoSize = true;
-            this.label273.BackColor = System.Drawing.Color.Transparent;
-            this.label273.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label273.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label273.Location = new System.Drawing.Point(103, 27);
-            this.label273.Name = "label273";
-            this.label273.Size = new System.Drawing.Size(181, 50);
-            this.label273.TabIndex = 5;
-            this.label273.Text = "Meal Name";
-            // 
-            // guna2Panel59
-            // 
-            this.guna2Panel59.BorderRadius = 15;
-            this.guna2Panel59.Controls.Add(this.label274);
-            this.guna2Panel59.Controls.Add(this.label275);
-            this.guna2Panel59.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel59.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel59.Location = new System.Drawing.Point(10, 340);
-            this.guna2Panel59.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel59.Name = "guna2Panel59";
-            this.guna2Panel59.Size = new System.Drawing.Size(926, 90);
-            this.guna2Panel59.TabIndex = 0;
-            // 
-            // label274
-            // 
-            this.label274.AutoSize = true;
-            this.label274.BackColor = System.Drawing.Color.Transparent;
-            this.label274.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label274.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label274.Location = new System.Drawing.Point(599, 27);
-            this.label274.Name = "label274";
-            this.label274.Size = new System.Drawing.Size(191, 50);
-            this.label274.TabIndex = 6;
-            this.label274.Text = "Meal Timing";
-            // 
-            // label275
-            // 
-            this.label275.AutoSize = true;
-            this.label275.BackColor = System.Drawing.Color.Transparent;
-            this.label275.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label275.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label275.Location = new System.Drawing.Point(103, 27);
-            this.label275.Name = "label275";
-            this.label275.Size = new System.Drawing.Size(181, 50);
-            this.label275.TabIndex = 5;
-            this.label275.Text = "Meal Name";
-            // 
-            // guna2Shapes85
-            // 
-            this.guna2Shapes85.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes85.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(73)))), ((int)(((byte)(73)))));
-            this.guna2Shapes85.LineThickness = 1;
-            this.guna2Shapes85.Location = new System.Drawing.Point(30, 62);
-            this.guna2Shapes85.Name = "guna2Shapes85";
-            this.guna2Shapes85.PolygonSkip = 1;
-            this.guna2Shapes85.Rotate = 0F;
-            this.guna2Shapes85.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes85.Size = new System.Drawing.Size(129, 10);
-            this.guna2Shapes85.TabIndex = 3;
-            this.guna2Shapes85.Text = "guna2Shapes85";
-            this.guna2Shapes85.Zoom = 80;
-            // 
-            // label276
-            // 
-            this.label276.AutoSize = true;
-            this.label276.BackColor = System.Drawing.Color.Transparent;
-            this.label276.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label276.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label276.Location = new System.Drawing.Point(38, 71);
-            this.label276.Name = "label276";
-            this.label276.Size = new System.Drawing.Size(99, 23);
-            this.label276.TabIndex = 2;
-            this.label276.Text = "Advisor name";
-            // 
-            // label277
-            // 
-            this.label277.AutoSize = true;
-            this.label277.BackColor = System.Drawing.Color.Transparent;
-            this.label277.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label277.Font = new System.Drawing.Font("Poppins", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label277.Location = new System.Drawing.Point(31, 16);
-            this.label277.Name = "label277";
-            this.label277.Size = new System.Drawing.Size(310, 65);
-            this.label277.TabIndex = 0;
-            this.label277.Text = "Diet Plan Name";
-            // 
-            // guna2Panel50
-            // 
-            this.guna2Panel50.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel50.BorderRadius = 15;
-            this.guna2Panel50.Controls.Add(this.label252);
-            this.guna2Panel50.Controls.Add(this.guna2Shapes78);
-            this.guna2Panel50.Controls.Add(this.guna2Shapes79);
-            this.guna2Panel50.Controls.Add(this.label253);
-            this.guna2Panel50.Controls.Add(this.label254);
-            this.guna2Panel50.Controls.Add(this.guna2Shapes80);
-            this.guna2Panel50.Controls.Add(this.flowLayoutPanel11);
-            this.guna2Panel50.Controls.Add(this.guna2Shapes81);
-            this.guna2Panel50.Controls.Add(this.label263);
-            this.guna2Panel50.Controls.Add(this.label264);
-            this.guna2Panel50.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel50.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
-            this.guna2Panel50.Location = new System.Drawing.Point(2264, 20);
-            this.guna2Panel50.Margin = new System.Windows.Forms.Padding(20);
-            this.guna2Panel50.Name = "guna2Panel50";
-            this.guna2Panel50.Size = new System.Drawing.Size(1082, 622);
-            this.guna2Panel50.TabIndex = 11;
-            // 
-            // label252
-            // 
-            this.label252.BackColor = System.Drawing.Color.Transparent;
-            this.label252.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label252.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label252.Location = new System.Drawing.Point(552, 33);
-            this.label252.Name = "label252";
-            this.label252.Size = new System.Drawing.Size(468, 23);
-            this.label252.TabIndex = 10;
-            this.label252.Text = "Objectives";
-            // 
-            // guna2Shapes78
-            // 
-            this.guna2Shapes78.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes78.Location = new System.Drawing.Point(30, 174);
-            this.guna2Shapes78.Name = "guna2Shapes78";
-            this.guna2Shapes78.PolygonSkip = 1;
-            this.guna2Shapes78.Rotate = 0F;
-            this.guna2Shapes78.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes78.Size = new System.Drawing.Size(458, 10);
-            this.guna2Shapes78.TabIndex = 9;
-            this.guna2Shapes78.Text = "guna2Shapes78";
-            this.guna2Shapes78.Zoom = 80;
-            // 
-            // guna2Shapes79
-            // 
-            this.guna2Shapes79.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes79.Location = new System.Drawing.Point(502, 174);
-            this.guna2Shapes79.Name = "guna2Shapes79";
-            this.guna2Shapes79.PolygonSkip = 1;
-            this.guna2Shapes79.Rotate = 0F;
-            this.guna2Shapes79.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes79.Size = new System.Drawing.Size(464, 10);
-            this.guna2Shapes79.TabIndex = 8;
-            this.guna2Shapes79.Text = "guna2Shapes79";
-            this.guna2Shapes79.Zoom = 80;
-            // 
-            // label253
-            // 
-            this.label253.AutoSize = true;
-            this.label253.BackColor = System.Drawing.Color.Transparent;
-            this.label253.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label253.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label253.Location = new System.Drawing.Point(169, 123);
-            this.label253.Name = "label253";
-            this.label253.Size = new System.Drawing.Size(181, 50);
-            this.label253.TabIndex = 7;
-            this.label253.Text = "Meal Name";
-            // 
-            // label254
-            // 
-            this.label254.AutoSize = true;
-            this.label254.BackColor = System.Drawing.Color.Transparent;
-            this.label254.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label254.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label254.Location = new System.Drawing.Point(639, 123);
-            this.label254.Name = "label254";
-            this.label254.Size = new System.Drawing.Size(191, 50);
-            this.label254.TabIndex = 7;
-            this.label254.Text = "Meal Timing";
-            // 
-            // guna2Shapes80
-            // 
-            this.guna2Shapes80.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes80.Location = new System.Drawing.Point(494, 71);
-            this.guna2Shapes80.Name = "guna2Shapes80";
-            this.guna2Shapes80.PolygonSides = 2;
-            this.guna2Shapes80.PolygonSkip = 1;
-            this.guna2Shapes80.Rotate = 0F;
-            this.guna2Shapes80.Size = new System.Drawing.Size(12, 583);
-            this.guna2Shapes80.TabIndex = 7;
-            this.guna2Shapes80.Text = "guna2Shapes80";
-            this.guna2Shapes80.Zoom = 80;
-            // 
-            // flowLayoutPanel11
-            // 
-            this.flowLayoutPanel11.AutoScroll = true;
-            this.flowLayoutPanel11.BackColor = System.Drawing.Color.Transparent;
-            this.flowLayoutPanel11.Controls.Add(this.guna2Panel51);
-            this.flowLayoutPanel11.Controls.Add(this.guna2Panel52);
-            this.flowLayoutPanel11.Controls.Add(this.guna2Panel53);
-            this.flowLayoutPanel11.Controls.Add(this.guna2Panel54);
-            this.flowLayoutPanel11.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.flowLayoutPanel11.Location = new System.Drawing.Point(30, 190);
-            this.flowLayoutPanel11.Name = "flowLayoutPanel11";
-            this.flowLayoutPanel11.Size = new System.Drawing.Size(1009, 408);
-            this.flowLayoutPanel11.TabIndex = 4;
-            // 
-            // guna2Panel51
-            // 
-            this.guna2Panel51.BorderRadius = 15;
-            this.guna2Panel51.Controls.Add(this.label255);
-            this.guna2Panel51.Controls.Add(this.label256);
-            this.guna2Panel51.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel51.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel51.Location = new System.Drawing.Point(10, 10);
-            this.guna2Panel51.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel51.Name = "guna2Panel51";
-            this.guna2Panel51.Size = new System.Drawing.Size(926, 90);
-            this.guna2Panel51.TabIndex = 7;
-            // 
-            // label255
-            // 
-            this.label255.AutoSize = true;
-            this.label255.BackColor = System.Drawing.Color.Transparent;
-            this.label255.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label255.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label255.Location = new System.Drawing.Point(599, 27);
-            this.label255.Name = "label255";
-            this.label255.Size = new System.Drawing.Size(191, 50);
-            this.label255.TabIndex = 6;
-            this.label255.Text = "Meal Timing";
-            // 
-            // label256
-            // 
-            this.label256.AutoSize = true;
-            this.label256.BackColor = System.Drawing.Color.Transparent;
-            this.label256.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label256.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label256.Location = new System.Drawing.Point(103, 27);
-            this.label256.Name = "label256";
-            this.label256.Size = new System.Drawing.Size(181, 50);
-            this.label256.TabIndex = 5;
-            this.label256.Text = "Meal Name";
-            // 
-            // guna2Panel52
-            // 
-            this.guna2Panel52.BorderRadius = 15;
-            this.guna2Panel52.Controls.Add(this.label257);
-            this.guna2Panel52.Controls.Add(this.label258);
-            this.guna2Panel52.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel52.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel52.Location = new System.Drawing.Point(10, 120);
-            this.guna2Panel52.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel52.Name = "guna2Panel52";
-            this.guna2Panel52.Size = new System.Drawing.Size(926, 90);
-            this.guna2Panel52.TabIndex = 7;
-            // 
-            // label257
-            // 
-            this.label257.AutoSize = true;
-            this.label257.BackColor = System.Drawing.Color.Transparent;
-            this.label257.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label257.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label257.Location = new System.Drawing.Point(599, 27);
-            this.label257.Name = "label257";
-            this.label257.Size = new System.Drawing.Size(191, 50);
-            this.label257.TabIndex = 6;
-            this.label257.Text = "Meal Timing";
-            // 
-            // label258
-            // 
-            this.label258.AutoSize = true;
-            this.label258.BackColor = System.Drawing.Color.Transparent;
-            this.label258.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label258.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label258.Location = new System.Drawing.Point(103, 27);
-            this.label258.Name = "label258";
-            this.label258.Size = new System.Drawing.Size(181, 50);
-            this.label258.TabIndex = 5;
-            this.label258.Text = "Meal Name";
-            // 
-            // guna2Panel53
-            // 
-            this.guna2Panel53.BorderRadius = 15;
-            this.guna2Panel53.Controls.Add(this.label259);
-            this.guna2Panel53.Controls.Add(this.label260);
-            this.guna2Panel53.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel53.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel53.Location = new System.Drawing.Point(10, 230);
-            this.guna2Panel53.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel53.Name = "guna2Panel53";
-            this.guna2Panel53.Size = new System.Drawing.Size(926, 90);
-            this.guna2Panel53.TabIndex = 7;
-            // 
-            // label259
-            // 
-            this.label259.AutoSize = true;
-            this.label259.BackColor = System.Drawing.Color.Transparent;
-            this.label259.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label259.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label259.Location = new System.Drawing.Point(599, 27);
-            this.label259.Name = "label259";
-            this.label259.Size = new System.Drawing.Size(191, 50);
-            this.label259.TabIndex = 6;
-            this.label259.Text = "Meal Timing";
-            // 
-            // label260
-            // 
-            this.label260.AutoSize = true;
-            this.label260.BackColor = System.Drawing.Color.Transparent;
-            this.label260.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label260.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label260.Location = new System.Drawing.Point(103, 27);
-            this.label260.Name = "label260";
-            this.label260.Size = new System.Drawing.Size(181, 50);
-            this.label260.TabIndex = 5;
-            this.label260.Text = "Meal Name";
-            // 
-            // guna2Panel54
-            // 
-            this.guna2Panel54.BorderRadius = 15;
-            this.guna2Panel54.Controls.Add(this.label261);
-            this.guna2Panel54.Controls.Add(this.label262);
-            this.guna2Panel54.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Panel54.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.guna2Panel54.Location = new System.Drawing.Point(10, 340);
-            this.guna2Panel54.Margin = new System.Windows.Forms.Padding(10);
-            this.guna2Panel54.Name = "guna2Panel54";
-            this.guna2Panel54.Size = new System.Drawing.Size(926, 90);
-            this.guna2Panel54.TabIndex = 0;
-            // 
-            // label261
-            // 
-            this.label261.AutoSize = true;
-            this.label261.BackColor = System.Drawing.Color.Transparent;
-            this.label261.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label261.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label261.Location = new System.Drawing.Point(599, 27);
-            this.label261.Name = "label261";
-            this.label261.Size = new System.Drawing.Size(191, 50);
-            this.label261.TabIndex = 6;
-            this.label261.Text = "Meal Timing";
-            // 
-            // label262
-            // 
-            this.label262.AutoSize = true;
-            this.label262.BackColor = System.Drawing.Color.Transparent;
-            this.label262.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label262.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label262.Location = new System.Drawing.Point(103, 27);
-            this.label262.Name = "label262";
-            this.label262.Size = new System.Drawing.Size(181, 50);
-            this.label262.TabIndex = 5;
-            this.label262.Text = "Meal Name";
-            // 
-            // guna2Shapes81
-            // 
-            this.guna2Shapes81.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes81.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(73)))), ((int)(((byte)(73)))));
-            this.guna2Shapes81.LineThickness = 1;
-            this.guna2Shapes81.Location = new System.Drawing.Point(30, 62);
-            this.guna2Shapes81.Name = "guna2Shapes81";
-            this.guna2Shapes81.PolygonSkip = 1;
-            this.guna2Shapes81.Rotate = 0F;
-            this.guna2Shapes81.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes81.Size = new System.Drawing.Size(129, 10);
-            this.guna2Shapes81.TabIndex = 3;
-            this.guna2Shapes81.Text = "guna2Shapes81";
-            this.guna2Shapes81.Zoom = 80;
-            // 
-            // label263
-            // 
-            this.label263.AutoSize = true;
-            this.label263.BackColor = System.Drawing.Color.Transparent;
-            this.label263.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.label263.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label263.Location = new System.Drawing.Point(38, 71);
-            this.label263.Name = "label263";
-            this.label263.Size = new System.Drawing.Size(99, 23);
-            this.label263.TabIndex = 2;
-            this.label263.Text = "Advisor name";
-            // 
-            // label264
-            // 
-            this.label264.AutoSize = true;
-            this.label264.BackColor = System.Drawing.Color.Transparent;
-            this.label264.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label264.Font = new System.Drawing.Font("Poppins", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label264.Location = new System.Drawing.Point(31, 16);
-            this.label264.Name = "label264";
-            this.label264.Size = new System.Drawing.Size(310, 65);
-            this.label264.TabIndex = 0;
-            this.label264.Text = "Diet Plan Name";
+            // guna2Panel36
+            // 
+            this.guna2Panel36.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Panel36.BorderRadius = 15;
+            this.guna2Panel36.Controls.Add(this.label188);
+            this.guna2Panel36.Controls.Add(this.guna2Shapes62);
+            this.guna2Panel36.Controls.Add(this.guna2Shapes63);
+            this.guna2Panel36.Controls.Add(this.label189);
+            this.guna2Panel36.Controls.Add(this.label190);
+            this.guna2Panel36.Controls.Add(this.guna2Shapes64);
+            this.guna2Panel36.Controls.Add(this.flowLayoutPanel9);
+            this.guna2Panel36.Controls.Add(this.guna2Shapes65);
+            this.guna2Panel36.Controls.Add(this.label199);
+            this.guna2Panel36.Controls.Add(this.label200);
+            this.guna2Panel36.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel36.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
+            this.guna2Panel36.Location = new System.Drawing.Point(1142, 20);
+            this.guna2Panel36.Margin = new System.Windows.Forms.Padding(20);
+            this.guna2Panel36.Name = "guna2Panel36";
+            this.guna2Panel36.Size = new System.Drawing.Size(1082, 580);
+            this.guna2Panel36.TabIndex = 1;
+            // 
+            // label188
+            // 
+            this.label188.BackColor = System.Drawing.Color.Transparent;
+            this.label188.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.label188.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label188.Location = new System.Drawing.Point(552, 33);
+            this.label188.Name = "label188";
+            this.label188.Size = new System.Drawing.Size(468, 23);
+            this.label188.TabIndex = 10;
+            this.label188.Text = "Objectives";
+            // 
+            // guna2Shapes62
+            // 
+            this.guna2Shapes62.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Shapes62.Location = new System.Drawing.Point(30, 174);
+            this.guna2Shapes62.Name = "guna2Shapes62";
+            this.guna2Shapes62.PolygonSkip = 1;
+            this.guna2Shapes62.Rotate = 0F;
+            this.guna2Shapes62.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
+            this.guna2Shapes62.Size = new System.Drawing.Size(458, 10);
+            this.guna2Shapes62.TabIndex = 9;
+            this.guna2Shapes62.Text = "guna2Shapes62";
+            this.guna2Shapes62.Zoom = 80;
+            // 
+            // guna2Shapes63
+            // 
+            this.guna2Shapes63.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Shapes63.Location = new System.Drawing.Point(502, 174);
+            this.guna2Shapes63.Name = "guna2Shapes63";
+            this.guna2Shapes63.PolygonSkip = 1;
+            this.guna2Shapes63.Rotate = 0F;
+            this.guna2Shapes63.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
+            this.guna2Shapes63.Size = new System.Drawing.Size(464, 10);
+            this.guna2Shapes63.TabIndex = 8;
+            this.guna2Shapes63.Text = "guna2Shapes63";
+            this.guna2Shapes63.Zoom = 80;
+            // 
+            // label189
+            // 
+            this.label189.AutoSize = true;
+            this.label189.BackColor = System.Drawing.Color.Transparent;
+            this.label189.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label189.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label189.Location = new System.Drawing.Point(169, 123);
+            this.label189.Name = "label189";
+            this.label189.Size = new System.Drawing.Size(181, 50);
+            this.label189.TabIndex = 7;
+            this.label189.Text = "Meal Name";
+            // 
+            // label190
+            // 
+            this.label190.AutoSize = true;
+            this.label190.BackColor = System.Drawing.Color.Transparent;
+            this.label190.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label190.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label190.Location = new System.Drawing.Point(639, 123);
+            this.label190.Name = "label190";
+            this.label190.Size = new System.Drawing.Size(191, 50);
+            this.label190.TabIndex = 7;
+            this.label190.Text = "Meal Timing";
+            // 
+            // guna2Shapes64
+            // 
+            this.guna2Shapes64.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Shapes64.Location = new System.Drawing.Point(494, 71);
+            this.guna2Shapes64.Name = "guna2Shapes64";
+            this.guna2Shapes64.PolygonSides = 2;
+            this.guna2Shapes64.PolygonSkip = 1;
+            this.guna2Shapes64.Rotate = 0F;
+            this.guna2Shapes64.Size = new System.Drawing.Size(12, 524);
+            this.guna2Shapes64.TabIndex = 7;
+            this.guna2Shapes64.Text = "guna2Shapes64";
+            this.guna2Shapes64.Zoom = 80;
+            // 
+            // flowLayoutPanel9
+            // 
+            this.flowLayoutPanel9.AutoScroll = true;
+            this.flowLayoutPanel9.BackColor = System.Drawing.Color.Transparent;
+            this.flowLayoutPanel9.Controls.Add(this.guna2Panel37);
+            this.flowLayoutPanel9.Controls.Add(this.guna2Panel38);
+            this.flowLayoutPanel9.Controls.Add(this.guna2Panel39);
+            this.flowLayoutPanel9.Controls.Add(this.guna2Panel40);
+            this.flowLayoutPanel9.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.flowLayoutPanel9.Location = new System.Drawing.Point(30, 190);
+            this.flowLayoutPanel9.Name = "flowLayoutPanel9";
+            this.flowLayoutPanel9.Size = new System.Drawing.Size(1009, 355);
+            this.flowLayoutPanel9.TabIndex = 4;
+            // 
+            // guna2Panel37
+            // 
+            this.guna2Panel37.BorderRadius = 15;
+            this.guna2Panel37.Controls.Add(this.guna2CirclePictureBox13);
+            this.guna2Panel37.Controls.Add(this.label191);
+            this.guna2Panel37.Controls.Add(this.label192);
+            this.guna2Panel37.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel37.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel37.Location = new System.Drawing.Point(10, 10);
+            this.guna2Panel37.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel37.Name = "guna2Panel37";
+            this.guna2Panel37.Size = new System.Drawing.Size(926, 90);
+            this.guna2Panel37.TabIndex = 7;
+            // 
+            // guna2CirclePictureBox13
+            // 
+            this.guna2CirclePictureBox13.Image = global::Data_base_spring_2024.Properties.Resources.arrow_left;
+            this.guna2CirclePictureBox13.ImageRotate = 0F;
+            this.guna2CirclePictureBox13.Location = new System.Drawing.Point(26, 27);
+            this.guna2CirclePictureBox13.Name = "guna2CirclePictureBox13";
+            this.guna2CirclePictureBox13.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.guna2CirclePictureBox13.Size = new System.Drawing.Size(44, 40);
+            this.guna2CirclePictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2CirclePictureBox13.TabIndex = 10;
+            this.guna2CirclePictureBox13.TabStop = false;
+            // 
+            // label191
+            // 
+            this.label191.AutoSize = true;
+            this.label191.BackColor = System.Drawing.Color.Transparent;
+            this.label191.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label191.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label191.Location = new System.Drawing.Point(599, 27);
+            this.label191.Name = "label191";
+            this.label191.Size = new System.Drawing.Size(191, 50);
+            this.label191.TabIndex = 6;
+            this.label191.Text = "Meal Timing";
+            // 
+            // label192
+            // 
+            this.label192.AutoSize = true;
+            this.label192.BackColor = System.Drawing.Color.Transparent;
+            this.label192.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label192.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label192.Location = new System.Drawing.Point(103, 27);
+            this.label192.Name = "label192";
+            this.label192.Size = new System.Drawing.Size(181, 50);
+            this.label192.TabIndex = 5;
+            this.label192.Text = "Meal Name";
+            // 
+            // guna2Panel38
+            // 
+            this.guna2Panel38.BorderRadius = 15;
+            this.guna2Panel38.Controls.Add(this.label193);
+            this.guna2Panel38.Controls.Add(this.label194);
+            this.guna2Panel38.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel38.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel38.Location = new System.Drawing.Point(10, 120);
+            this.guna2Panel38.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel38.Name = "guna2Panel38";
+            this.guna2Panel38.Size = new System.Drawing.Size(926, 90);
+            this.guna2Panel38.TabIndex = 7;
+            // 
+            // label193
+            // 
+            this.label193.AutoSize = true;
+            this.label193.BackColor = System.Drawing.Color.Transparent;
+            this.label193.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label193.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label193.Location = new System.Drawing.Point(599, 27);
+            this.label193.Name = "label193";
+            this.label193.Size = new System.Drawing.Size(191, 50);
+            this.label193.TabIndex = 6;
+            this.label193.Text = "Meal Timing";
+            // 
+            // label194
+            // 
+            this.label194.AutoSize = true;
+            this.label194.BackColor = System.Drawing.Color.Transparent;
+            this.label194.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label194.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label194.Location = new System.Drawing.Point(103, 27);
+            this.label194.Name = "label194";
+            this.label194.Size = new System.Drawing.Size(181, 50);
+            this.label194.TabIndex = 5;
+            this.label194.Text = "Meal Name";
+            // 
+            // guna2Panel39
+            // 
+            this.guna2Panel39.BorderRadius = 15;
+            this.guna2Panel39.Controls.Add(this.label195);
+            this.guna2Panel39.Controls.Add(this.label196);
+            this.guna2Panel39.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel39.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel39.Location = new System.Drawing.Point(10, 230);
+            this.guna2Panel39.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel39.Name = "guna2Panel39";
+            this.guna2Panel39.Size = new System.Drawing.Size(926, 90);
+            this.guna2Panel39.TabIndex = 7;
+            // 
+            // label195
+            // 
+            this.label195.AutoSize = true;
+            this.label195.BackColor = System.Drawing.Color.Transparent;
+            this.label195.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label195.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label195.Location = new System.Drawing.Point(599, 27);
+            this.label195.Name = "label195";
+            this.label195.Size = new System.Drawing.Size(191, 50);
+            this.label195.TabIndex = 6;
+            this.label195.Text = "Meal Timing";
+            // 
+            // label196
+            // 
+            this.label196.AutoSize = true;
+            this.label196.BackColor = System.Drawing.Color.Transparent;
+            this.label196.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label196.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label196.Location = new System.Drawing.Point(103, 27);
+            this.label196.Name = "label196";
+            this.label196.Size = new System.Drawing.Size(181, 50);
+            this.label196.TabIndex = 5;
+            this.label196.Text = "Meal Name";
+            // 
+            // guna2Panel40
+            // 
+            this.guna2Panel40.BorderRadius = 15;
+            this.guna2Panel40.Controls.Add(this.label197);
+            this.guna2Panel40.Controls.Add(this.label198);
+            this.guna2Panel40.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Panel40.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
+            this.guna2Panel40.Location = new System.Drawing.Point(10, 340);
+            this.guna2Panel40.Margin = new System.Windows.Forms.Padding(10);
+            this.guna2Panel40.Name = "guna2Panel40";
+            this.guna2Panel40.Size = new System.Drawing.Size(926, 90);
+            this.guna2Panel40.TabIndex = 0;
+            // 
+            // label197
+            // 
+            this.label197.AutoSize = true;
+            this.label197.BackColor = System.Drawing.Color.Transparent;
+            this.label197.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label197.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label197.Location = new System.Drawing.Point(599, 27);
+            this.label197.Name = "label197";
+            this.label197.Size = new System.Drawing.Size(191, 50);
+            this.label197.TabIndex = 6;
+            this.label197.Text = "Meal Timing";
+            // 
+            // label198
+            // 
+            this.label198.AutoSize = true;
+            this.label198.BackColor = System.Drawing.Color.Transparent;
+            this.label198.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label198.Font = new System.Drawing.Font("Poppins", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label198.Location = new System.Drawing.Point(103, 27);
+            this.label198.Name = "label198";
+            this.label198.Size = new System.Drawing.Size(181, 50);
+            this.label198.TabIndex = 5;
+            this.label198.Text = "Meal Name";
+            // 
+            // guna2Shapes65
+            // 
+            this.guna2Shapes65.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Shapes65.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(73)))), ((int)(((byte)(73)))));
+            this.guna2Shapes65.LineThickness = 1;
+            this.guna2Shapes65.Location = new System.Drawing.Point(30, 62);
+            this.guna2Shapes65.Name = "guna2Shapes65";
+            this.guna2Shapes65.PolygonSkip = 1;
+            this.guna2Shapes65.Rotate = 0F;
+            this.guna2Shapes65.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
+            this.guna2Shapes65.Size = new System.Drawing.Size(129, 10);
+            this.guna2Shapes65.TabIndex = 3;
+            this.guna2Shapes65.Text = "guna2Shapes65";
+            this.guna2Shapes65.Zoom = 80;
+            // 
+            // label199
+            // 
+            this.label199.AutoSize = true;
+            this.label199.BackColor = System.Drawing.Color.Transparent;
+            this.label199.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.label199.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label199.Location = new System.Drawing.Point(38, 71);
+            this.label199.Name = "label199";
+            this.label199.Size = new System.Drawing.Size(99, 23);
+            this.label199.TabIndex = 2;
+            this.label199.Text = "Advisor name";
+            // 
+            // label200
+            // 
+            this.label200.AutoSize = true;
+            this.label200.BackColor = System.Drawing.Color.Transparent;
+            this.label200.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label200.Font = new System.Drawing.Font("Poppins", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label200.Location = new System.Drawing.Point(31, 16);
+            this.label200.Name = "label200";
+            this.label200.Size = new System.Drawing.Size(310, 65);
+            this.label200.TabIndex = 0;
+            this.label200.Text = "Diet Plan Name";
             // 
             // guna2Shapes49
             // 
             this.guna2Shapes49.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dash;
             this.guna2Shapes49.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Shapes49.Location = new System.Drawing.Point(180, 89);
+            this.guna2Shapes49.Location = new System.Drawing.Point(188, 66);
             this.guna2Shapes49.Name = "guna2Shapes49";
             this.guna2Shapes49.PolygonSkip = 1;
             this.guna2Shapes49.Rotate = 0F;
@@ -9466,7 +6866,7 @@
             this.label142.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label142.Font = new System.Drawing.Font("Poppins", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label142.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
-            this.label142.Location = new System.Drawing.Point(420, 27);
+            this.label142.Location = new System.Drawing.Point(428, 4);
             this.label142.Name = "label142";
             this.label142.Size = new System.Drawing.Size(265, 82);
             this.label142.TabIndex = 2;
@@ -9641,6 +7041,7 @@
             // tabPage13
             // 
             this.tabPage13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(9)))), ((int)(((byte)(41)))));
+            this.tabPage13.BackgroundImage = global::Data_base_spring_2024.Properties.Resources.email;
             this.tabPage13.Controls.Add(this.guna2Shapes91);
             this.tabPage13.Controls.Add(this.label292);
             this.tabPage13.Controls.Add(this.guna2Panel67);
@@ -9693,7 +7094,7 @@
             this.guna2Panel67.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2Panel67.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
             this.guna2Panel67.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Panel67.Location = new System.Drawing.Point(34, 128);
+            this.guna2Panel67.Location = new System.Drawing.Point(34, 87);
             this.guna2Panel67.Name = "guna2Panel67";
             this.guna2Panel67.Size = new System.Drawing.Size(919, 561);
             this.guna2Panel67.TabIndex = 5;
@@ -9789,7 +7190,7 @@
             this.guna2Panel68.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(220)))), ((int)(((byte)(220)))));
             this.guna2Panel68.Location = new System.Drawing.Point(959, 22);
             this.guna2Panel68.Name = "guna2Panel68";
-            this.guna2Panel68.Size = new System.Drawing.Size(231, 667);
+            this.guna2Panel68.Size = new System.Drawing.Size(231, 626);
             this.guna2Panel68.TabIndex = 4;
             this.guna2Panel68.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel68_Paint);
             // 
@@ -9806,10 +7207,10 @@
             this.flowLayoutPanel15.Controls.Add(this.guna2Button73);
             this.flowLayoutPanel15.Controls.Add(this.guna2Button74);
             this.flowLayoutPanel15.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.flowLayoutPanel15.Location = new System.Drawing.Point(3, 95);
+            this.flowLayoutPanel15.Location = new System.Drawing.Point(7, 83);
             this.flowLayoutPanel15.Margin = new System.Windows.Forms.Padding(2, 30, 2, 30);
             this.flowLayoutPanel15.Name = "flowLayoutPanel15";
-            this.flowLayoutPanel15.Size = new System.Drawing.Size(226, 559);
+            this.flowLayoutPanel15.Size = new System.Drawing.Size(226, 521);
             this.flowLayoutPanel15.TabIndex = 3;
             // 
             // guna2Button66
@@ -11096,7 +8497,7 @@
             this.guna2Panel77.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(222)))), ((int)(((byte)(220)))));
             this.guna2Panel77.Location = new System.Drawing.Point(44, 20);
             this.guna2Panel77.Name = "guna2Panel77";
-            this.guna2Panel77.Size = new System.Drawing.Size(1166, 767);
+            this.guna2Panel77.Size = new System.Drawing.Size(1166, 745);
             this.guna2Panel77.TabIndex = 0;
             // 
             // label381
@@ -11494,7 +8895,7 @@
             this.guna2Button92.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(66)))), ((int)(((byte)(66)))));
             this.guna2Button92.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
             this.guna2Button92.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
-            this.guna2Button92.Location = new System.Drawing.Point(441, 668);
+            this.guna2Button92.Location = new System.Drawing.Point(412, 668);
             this.guna2Button92.Name = "guna2Button92";
             this.guna2Button92.Size = new System.Drawing.Size(366, 45);
             this.guna2Button92.TabIndex = 54;
@@ -11600,7 +9001,7 @@
             this.guna2Panel82.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
             this.guna2Panel82.Location = new System.Drawing.Point(38, 35);
             this.guna2Panel82.Name = "guna2Panel82";
-            this.guna2Panel82.Size = new System.Drawing.Size(1139, 753);
+            this.guna2Panel82.Size = new System.Drawing.Size(1139, 731);
             this.guna2Panel82.TabIndex = 0;
             this.guna2Panel82.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel82_Paint);
             // 
@@ -11703,7 +9104,7 @@
             this.guna2Button31.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(66)))), ((int)(((byte)(66)))));
             this.guna2Button31.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
             this.guna2Button31.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
-            this.guna2Button31.Location = new System.Drawing.Point(430, 633);
+            this.guna2Button31.Location = new System.Drawing.Point(394, 661);
             this.guna2Button31.Name = "guna2Button31";
             this.guna2Button31.Size = new System.Drawing.Size(366, 45);
             this.guna2Button31.TabIndex = 55;
@@ -11852,155 +9253,6 @@
             this.label389.TabIndex = 28;
             this.label389.Text = "Meal Details";
             // 
-            // guna2Button33
-            // 
-            this.guna2Button33.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Button33.BorderRadius = 15;
-            this.guna2Button33.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button33.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button33.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button33.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button33.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button33.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button33.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button33.ForeColor = System.Drawing.Color.White;
-            this.guna2Button33.HoverState.BorderColor = System.Drawing.Color.Black;
-            this.guna2Button33.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
-            this.guna2Button33.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button33.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
-            this.guna2Button33.Location = new System.Drawing.Point(119, 392);
-            this.guna2Button33.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
-            this.guna2Button33.Name = "guna2Button33";
-            this.guna2Button33.Size = new System.Drawing.Size(189, 36);
-            this.guna2Button33.TabIndex = 8;
-            this.guna2Button33.Text = "Workout plans";
-            this.guna2Button33.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button33.Click += new System.EventHandler(this.guna2Button33_Click);
-            // 
-            // guna2Button34
-            // 
-            this.guna2Button34.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Button34.BorderRadius = 15;
-            this.guna2Button34.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button34.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button34.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button34.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button34.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button34.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button34.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button34.ForeColor = System.Drawing.Color.White;
-            this.guna2Button34.HoverState.BorderColor = System.Drawing.Color.Black;
-            this.guna2Button34.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
-            this.guna2Button34.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button34.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
-            this.guna2Button34.Location = new System.Drawing.Point(119, 468);
-            this.guna2Button34.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
-            this.guna2Button34.Name = "guna2Button34";
-            this.guna2Button34.Size = new System.Drawing.Size(189, 36);
-            this.guna2Button34.TabIndex = 10;
-            this.guna2Button34.Text = "Diet plans";
-            this.guna2Button34.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button34.Click += new System.EventHandler(this.guna2Button34_Click);
-            // 
-            // guna2Button44
-            // 
-            this.guna2Button44.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Button44.BorderRadius = 15;
-            this.guna2Button44.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button44.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button44.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button44.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button44.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button44.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button44.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button44.ForeColor = System.Drawing.Color.White;
-            this.guna2Button44.HoverState.BorderColor = System.Drawing.Color.Black;
-            this.guna2Button44.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
-            this.guna2Button44.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button44.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
-            this.guna2Button44.Location = new System.Drawing.Point(115, 544);
-            this.guna2Button44.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
-            this.guna2Button44.Name = "guna2Button44";
-            this.guna2Button44.Size = new System.Drawing.Size(189, 36);
-            this.guna2Button44.TabIndex = 12;
-            this.guna2Button44.Text = "Appointments";
-            this.guna2Button44.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button44.Click += new System.EventHandler(this.guna2Button44_Click);
-            // 
-            // guna2Button77
-            // 
-            this.guna2Button77.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Button77.BorderRadius = 15;
-            this.guna2Button77.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button77.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button77.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button77.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button77.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button77.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button77.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button77.ForeColor = System.Drawing.Color.White;
-            this.guna2Button77.HoverState.BorderColor = System.Drawing.Color.Black;
-            this.guna2Button77.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
-            this.guna2Button77.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button77.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
-            this.guna2Button77.Location = new System.Drawing.Point(115, 620);
-            this.guna2Button77.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
-            this.guna2Button77.Name = "guna2Button77";
-            this.guna2Button77.Size = new System.Drawing.Size(189, 36);
-            this.guna2Button77.TabIndex = 14;
-            this.guna2Button77.Text = "Feedback";
-            this.guna2Button77.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button77.Click += new System.EventHandler(this.guna2Button77_Click);
-            // 
-            // guna2Button78
-            // 
-            this.guna2Button78.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Button78.BorderRadius = 15;
-            this.guna2Button78.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button78.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button78.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button78.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button78.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button78.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button78.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button78.ForeColor = System.Drawing.Color.White;
-            this.guna2Button78.HoverState.BorderColor = System.Drawing.Color.Black;
-            this.guna2Button78.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
-            this.guna2Button78.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button78.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
-            this.guna2Button78.Location = new System.Drawing.Point(115, 759);
-            this.guna2Button78.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
-            this.guna2Button78.Name = "guna2Button78";
-            this.guna2Button78.Size = new System.Drawing.Size(189, 36);
-            this.guna2Button78.TabIndex = 18;
-            this.guna2Button78.Text = "Log out";
-            this.guna2Button78.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            // 
-            // guna2Button32
-            // 
-            this.guna2Button32.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Button32.BorderRadius = 15;
-            this.guna2Button32.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2Button32.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button32.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button32.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button32.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button32.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button32.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button32.ForeColor = System.Drawing.Color.White;
-            this.guna2Button32.HoverState.BorderColor = System.Drawing.Color.Black;
-            this.guna2Button32.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
-            this.guna2Button32.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button32.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
-            this.guna2Button32.Location = new System.Drawing.Point(115, 686);
-            this.guna2Button32.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
-            this.guna2Button32.Name = "guna2Button32";
-            this.guna2Button32.Size = new System.Drawing.Size(189, 36);
-            this.guna2Button32.TabIndex = 19;
-            this.guna2Button32.Text = "Reports";
-            this.guna2Button32.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button32.Click += new System.EventHandler(this.guna2Button32_Click);
-            // 
             // tabPage21
             // 
             this.tabPage21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(9)))), ((int)(((byte)(41)))));
@@ -12020,8 +9272,20 @@
             this.guna2Panel83.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
             this.guna2Panel83.Location = new System.Drawing.Point(12, 7);
             this.guna2Panel83.Name = "guna2Panel83";
-            this.guna2Panel83.Size = new System.Drawing.Size(1179, 794);
+            this.guna2Panel83.Size = new System.Drawing.Size(1179, 740);
             this.guna2Panel83.TabIndex = 0;
+            // 
+            // label397
+            // 
+            this.label397.AutoSize = true;
+            this.label397.BackColor = System.Drawing.Color.Transparent;
+            this.label397.Font = new System.Drawing.Font("Poppins", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label397.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(71)))), ((int)(((byte)(71)))));
+            this.label397.Location = new System.Drawing.Point(413, 34);
+            this.label397.Name = "label397";
+            this.label397.Size = new System.Drawing.Size(305, 58);
+            this.label397.TabIndex = 1;
+            this.label397.Text = "Reports Manager";
             // 
             // flowLayoutPanel19
             // 
@@ -12035,36 +9299,10 @@
             this.flowLayoutPanel19.Controls.Add(this.guna2Panel89);
             this.flowLayoutPanel19.Controls.Add(this.guna2Panel90);
             this.flowLayoutPanel19.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.flowLayoutPanel19.Location = new System.Drawing.Point(0, 125);
+            this.flowLayoutPanel19.Location = new System.Drawing.Point(0, 71);
             this.flowLayoutPanel19.Name = "flowLayoutPanel19";
             this.flowLayoutPanel19.Size = new System.Drawing.Size(1179, 669);
             this.flowLayoutPanel19.TabIndex = 0;
-            // 
-            // label397
-            // 
-            this.label397.AutoSize = true;
-            this.label397.BackColor = System.Drawing.Color.Transparent;
-            this.label397.Font = new System.Drawing.Font("Poppins", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label397.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(71)))), ((int)(((byte)(71)))));
-            this.label397.Location = new System.Drawing.Point(413, 34);
-            this.label397.Name = "label397";
-            this.label397.Size = new System.Drawing.Size(318, 60);
-            this.label397.TabIndex = 1;
-            this.label397.Text = "Reports Manager";
-            // 
-            // guna2Shapes110
-            // 
-            this.guna2Shapes110.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Shapes110.LineThickness = 2;
-            this.guna2Shapes110.Location = new System.Drawing.Point(222, 81);
-            this.guna2Shapes110.Name = "guna2Shapes110";
-            this.guna2Shapes110.PolygonSkip = 1;
-            this.guna2Shapes110.Rotate = 0F;
-            this.guna2Shapes110.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
-            this.guna2Shapes110.Size = new System.Drawing.Size(701, 13);
-            this.guna2Shapes110.TabIndex = 2;
-            this.guna2Shapes110.Text = "guna2Shapes110";
-            this.guna2Shapes110.Zoom = 80;
             // 
             // guna2Panel87
             // 
@@ -12378,13 +9616,176 @@
             this.guna2Button97.TabIndex = 7;
             this.guna2Button97.Text = "View Report";
             // 
+            // guna2Shapes110
+            // 
+            this.guna2Shapes110.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Shapes110.LineThickness = 2;
+            this.guna2Shapes110.Location = new System.Drawing.Point(222, 81);
+            this.guna2Shapes110.Name = "guna2Shapes110";
+            this.guna2Shapes110.PolygonSkip = 1;
+            this.guna2Shapes110.Rotate = 0F;
+            this.guna2Shapes110.Shape = Guna.UI2.WinForms.Enums.ShapeType.Line;
+            this.guna2Shapes110.Size = new System.Drawing.Size(701, 13);
+            this.guna2Shapes110.TabIndex = 2;
+            this.guna2Shapes110.Text = "guna2Shapes110";
+            this.guna2Shapes110.Zoom = 80;
+            // 
+            // guna2Button33
+            // 
+            this.guna2Button33.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button33.BorderRadius = 15;
+            this.guna2Button33.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Button33.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button33.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button33.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button33.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button33.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button33.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button33.ForeColor = System.Drawing.Color.White;
+            this.guna2Button33.HoverState.BorderColor = System.Drawing.Color.Black;
+            this.guna2Button33.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
+            this.guna2Button33.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button33.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
+            this.guna2Button33.Location = new System.Drawing.Point(119, 372);
+            this.guna2Button33.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
+            this.guna2Button33.Name = "guna2Button33";
+            this.guna2Button33.Size = new System.Drawing.Size(189, 36);
+            this.guna2Button33.TabIndex = 8;
+            this.guna2Button33.Text = "Workout plans";
+            this.guna2Button33.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.guna2Button33.Click += new System.EventHandler(this.guna2Button33_Click);
+            // 
+            // guna2Button34
+            // 
+            this.guna2Button34.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button34.BorderRadius = 15;
+            this.guna2Button34.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Button34.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button34.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button34.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button34.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button34.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button34.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button34.ForeColor = System.Drawing.Color.White;
+            this.guna2Button34.HoverState.BorderColor = System.Drawing.Color.Black;
+            this.guna2Button34.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
+            this.guna2Button34.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button34.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
+            this.guna2Button34.Location = new System.Drawing.Point(119, 438);
+            this.guna2Button34.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
+            this.guna2Button34.Name = "guna2Button34";
+            this.guna2Button34.Size = new System.Drawing.Size(189, 36);
+            this.guna2Button34.TabIndex = 10;
+            this.guna2Button34.Text = "Diet plans";
+            this.guna2Button34.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.guna2Button34.Click += new System.EventHandler(this.guna2Button34_Click);
+            // 
+            // guna2Button44
+            // 
+            this.guna2Button44.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button44.BorderRadius = 15;
+            this.guna2Button44.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Button44.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button44.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button44.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button44.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button44.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button44.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button44.ForeColor = System.Drawing.Color.White;
+            this.guna2Button44.HoverState.BorderColor = System.Drawing.Color.Black;
+            this.guna2Button44.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
+            this.guna2Button44.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button44.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
+            this.guna2Button44.Location = new System.Drawing.Point(119, 504);
+            this.guna2Button44.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
+            this.guna2Button44.Name = "guna2Button44";
+            this.guna2Button44.Size = new System.Drawing.Size(189, 36);
+            this.guna2Button44.TabIndex = 12;
+            this.guna2Button44.Text = "Appointments";
+            this.guna2Button44.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.guna2Button44.Click += new System.EventHandler(this.guna2Button44_Click);
+            // 
+            // guna2Button77
+            // 
+            this.guna2Button77.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button77.BorderRadius = 15;
+            this.guna2Button77.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Button77.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button77.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button77.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button77.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button77.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button77.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button77.ForeColor = System.Drawing.Color.White;
+            this.guna2Button77.HoverState.BorderColor = System.Drawing.Color.Black;
+            this.guna2Button77.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
+            this.guna2Button77.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button77.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
+            this.guna2Button77.Location = new System.Drawing.Point(115, 570);
+            this.guna2Button77.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
+            this.guna2Button77.Name = "guna2Button77";
+            this.guna2Button77.Size = new System.Drawing.Size(189, 36);
+            this.guna2Button77.TabIndex = 14;
+            this.guna2Button77.Text = "Feedback";
+            this.guna2Button77.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.guna2Button77.Click += new System.EventHandler(this.guna2Button77_Click);
+            // 
+            // guna2Button78
+            // 
+            this.guna2Button78.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button78.BorderRadius = 15;
+            this.guna2Button78.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Button78.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button78.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button78.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button78.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button78.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button78.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button78.ForeColor = System.Drawing.Color.White;
+            this.guna2Button78.HoverState.BorderColor = System.Drawing.Color.Black;
+            this.guna2Button78.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
+            this.guna2Button78.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button78.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
+            this.guna2Button78.Location = new System.Drawing.Point(115, 702);
+            this.guna2Button78.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
+            this.guna2Button78.Name = "guna2Button78";
+            this.guna2Button78.Size = new System.Drawing.Size(189, 36);
+            this.guna2Button78.TabIndex = 18;
+            this.guna2Button78.Text = "Log out";
+            this.guna2Button78.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // guna2Button32
+            // 
+            this.guna2Button32.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button32.BorderRadius = 15;
+            this.guna2Button32.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.guna2Button32.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button32.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button32.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button32.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button32.FillColor = System.Drawing.Color.Transparent;
+            this.guna2Button32.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button32.ForeColor = System.Drawing.Color.White;
+            this.guna2Button32.HoverState.BorderColor = System.Drawing.Color.Black;
+            this.guna2Button32.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
+            this.guna2Button32.HoverState.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button32.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(107)))), ((int)(((byte)(107)))), ((int)(((byte)(107)))));
+            this.guna2Button32.Location = new System.Drawing.Point(115, 636);
+            this.guna2Button32.Margin = new System.Windows.Forms.Padding(20, 3, 3, 3);
+            this.guna2Button32.Name = "guna2Button32";
+            this.guna2Button32.Size = new System.Drawing.Size(189, 36);
+            this.guna2Button32.TabIndex = 19;
+            this.guna2Button32.Text = "Reports";
+            this.guna2Button32.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.guna2Button32.Click += new System.EventHandler(this.guna2Button32_Click);
+            // 
             // guna2CirclePictureBox11
             // 
             this.guna2CirclePictureBox11.BackColor = System.Drawing.Color.Transparent;
             this.guna2CirclePictureBox11.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2CirclePictureBox11.Image = global::Data_base_spring_2024.Properties.Resources.seo_report;
             this.guna2CirclePictureBox11.ImageRotate = 0F;
-            this.guna2CirclePictureBox11.Location = new System.Drawing.Point(45, 678);
+            this.guna2CirclePictureBox11.Location = new System.Drawing.Point(45, 628);
             this.guna2CirclePictureBox11.Name = "guna2CirclePictureBox11";
             this.guna2CirclePictureBox11.Padding = new System.Windows.Forms.Padding(10);
             this.guna2CirclePictureBox11.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -12399,7 +9800,7 @@
             this.guna2CirclePictureBox8.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2CirclePictureBox8.Image = global::Data_base_spring_2024.Properties.Resources.log_out__1_;
             this.guna2CirclePictureBox8.ImageRotate = 0F;
-            this.guna2CirclePictureBox8.Location = new System.Drawing.Point(41, 751);
+            this.guna2CirclePictureBox8.Location = new System.Drawing.Point(41, 694);
             this.guna2CirclePictureBox8.Name = "guna2CirclePictureBox8";
             this.guna2CirclePictureBox8.Padding = new System.Windows.Forms.Padding(10);
             this.guna2CirclePictureBox8.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -12414,7 +9815,7 @@
             this.guna2CirclePictureBox7.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2CirclePictureBox7.Image = global::Data_base_spring_2024.Properties.Resources.feedback;
             this.guna2CirclePictureBox7.ImageRotate = 0F;
-            this.guna2CirclePictureBox7.Location = new System.Drawing.Point(45, 612);
+            this.guna2CirclePictureBox7.Location = new System.Drawing.Point(45, 562);
             this.guna2CirclePictureBox7.Name = "guna2CirclePictureBox7";
             this.guna2CirclePictureBox7.Padding = new System.Windows.Forms.Padding(10);
             this.guna2CirclePictureBox7.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -12429,7 +9830,7 @@
             this.guna2CirclePictureBox6.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2CirclePictureBox6.Image = global::Data_base_spring_2024.Properties.Resources.calendar_date;
             this.guna2CirclePictureBox6.ImageRotate = 0F;
-            this.guna2CirclePictureBox6.Location = new System.Drawing.Point(45, 536);
+            this.guna2CirclePictureBox6.Location = new System.Drawing.Point(45, 496);
             this.guna2CirclePictureBox6.Name = "guna2CirclePictureBox6";
             this.guna2CirclePictureBox6.Padding = new System.Windows.Forms.Padding(10);
             this.guna2CirclePictureBox6.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -12444,7 +9845,7 @@
             this.guna2CirclePictureBox5.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2CirclePictureBox5.Image = global::Data_base_spring_2024.Properties.Resources.diet;
             this.guna2CirclePictureBox5.ImageRotate = 0F;
-            this.guna2CirclePictureBox5.Location = new System.Drawing.Point(45, 460);
+            this.guna2CirclePictureBox5.Location = new System.Drawing.Point(45, 430);
             this.guna2CirclePictureBox5.Name = "guna2CirclePictureBox5";
             this.guna2CirclePictureBox5.Padding = new System.Windows.Forms.Padding(10);
             this.guna2CirclePictureBox5.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -12459,7 +9860,7 @@
             this.guna2CirclePictureBox4.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2CirclePictureBox4.Image = global::Data_base_spring_2024.Properties.Resources.gym;
             this.guna2CirclePictureBox4.ImageRotate = 0F;
-            this.guna2CirclePictureBox4.Location = new System.Drawing.Point(45, 384);
+            this.guna2CirclePictureBox4.Location = new System.Drawing.Point(45, 364);
             this.guna2CirclePictureBox4.Name = "guna2CirclePictureBox4";
             this.guna2CirclePictureBox4.Padding = new System.Windows.Forms.Padding(10);
             this.guna2CirclePictureBox4.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -12474,7 +9875,7 @@
             this.guna2CirclePictureBox3.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.guna2CirclePictureBox3.Image = global::Data_base_spring_2024.Properties.Resources.audience;
             this.guna2CirclePictureBox3.ImageRotate = 0F;
-            this.guna2CirclePictureBox3.Location = new System.Drawing.Point(45, 308);
+            this.guna2CirclePictureBox3.Location = new System.Drawing.Point(45, 298);
             this.guna2CirclePictureBox3.Name = "guna2CirclePictureBox3";
             this.guna2CirclePictureBox3.Padding = new System.Windows.Forms.Padding(10);
             this.guna2CirclePictureBox3.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -12511,64 +9912,12 @@
             this.guna2CirclePictureBox1.TabIndex = 1;
             this.guna2CirclePictureBox1.TabStop = false;
             // 
-            // guna2PictureBox1
-            // 
-            this.guna2PictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(247)))), ((int)(((byte)(245)))));
-            this.guna2PictureBox1.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2PictureBox1.Image = global::Data_base_spring_2024.Properties.Resources.Dispelling_myths_around_AI_within_cyber_security___Information_Age_removebg_preview;
-            this.guna2PictureBox1.ImageRotate = 0F;
-            this.guna2PictureBox1.Location = new System.Drawing.Point(263, 378);
-            this.guna2PictureBox1.Name = "guna2PictureBox1";
-            this.guna2PictureBox1.Size = new System.Drawing.Size(448, 249);
-            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2PictureBox1.TabIndex = 34;
-            this.guna2PictureBox1.TabStop = false;
-            // 
-            // guna2PictureBox3
-            // 
-            this.guna2PictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(247)))), ((int)(((byte)(245)))));
-            this.guna2PictureBox3.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.guna2PictureBox3.Image = global::Data_base_spring_2024.Properties.Resources.Dispelling_myths_around_AI_within_cyber_security___Information_Age_removebg_preview;
-            this.guna2PictureBox3.ImageRotate = 0F;
-            this.guna2PictureBox3.Location = new System.Drawing.Point(263, 378);
-            this.guna2PictureBox3.Name = "guna2PictureBox3";
-            this.guna2PictureBox3.Size = new System.Drawing.Size(448, 249);
-            this.guna2PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2PictureBox3.TabIndex = 34;
-            this.guna2PictureBox3.TabStop = false;
-            // 
-            // guna2CirclePictureBox9
-            // 
-            this.guna2CirclePictureBox9.Image = global::Data_base_spring_2024.Properties.Resources.arrow_left;
-            this.guna2CirclePictureBox9.ImageRotate = 0F;
-            this.guna2CirclePictureBox9.Location = new System.Drawing.Point(17, 14);
-            this.guna2CirclePictureBox9.Name = "guna2CirclePictureBox9";
-            this.guna2CirclePictureBox9.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox9.Size = new System.Drawing.Size(54, 40);
-            this.guna2CirclePictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2CirclePictureBox9.TabIndex = 9;
-            this.guna2CirclePictureBox9.TabStop = false;
-            this.guna2CirclePictureBox9.Click += new System.EventHandler(this.guna2CirclePictureBox9_Click);
-            // 
-            // guna2CirclePictureBox10
-            // 
-            this.guna2CirclePictureBox10.Image = global::Data_base_spring_2024.Properties.Resources.arrow_left;
-            this.guna2CirclePictureBox10.ImageRotate = 0F;
-            this.guna2CirclePictureBox10.Location = new System.Drawing.Point(26, 27);
-            this.guna2CirclePictureBox10.Name = "guna2CirclePictureBox10";
-            this.guna2CirclePictureBox10.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox10.Size = new System.Drawing.Size(44, 40);
-            this.guna2CirclePictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2CirclePictureBox10.TabIndex = 10;
-            this.guna2CirclePictureBox10.TabStop = false;
-            this.guna2CirclePictureBox10.Click += new System.EventHandler(this.guna2CirclePictureBox10_Click);
-            // 
             // TrainerDashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(9)))), ((int)(((byte)(41)))));
-            this.ClientSize = new System.Drawing.Size(1767, 1055);
+            this.ClientSize = new System.Drawing.Size(1780, 765);
             this.Controls.Add(this.guna2CirclePictureBox11);
             this.Controls.Add(this.guna2Button32);
             this.Controls.Add(this.guna2Button78);
@@ -12593,6 +9942,7 @@
             this.MinimizeBox = false;
             this.Name = "TrainerDashboard";
             this.Text = "Trainer Dashboard";
+            this.Load += new System.EventHandler(this.TrainerDashboard_Load);
             this.guna2TabControl1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
             this.guna2Panel1.ResumeLayout(false);
@@ -12608,6 +9958,7 @@
             this.guna2Panel6.PerformLayout();
             this.guna2Panel5.ResumeLayout(false);
             this.guna2Panel5.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.tabPage7.ResumeLayout(false);
             this.tabPage7.PerformLayout();
             this.guna2Panel10.ResumeLayout(false);
@@ -12623,6 +9974,7 @@
             this.guna2Panel19.PerformLayout();
             this.guna2Panel20.ResumeLayout(false);
             this.guna2Panel20.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).EndInit();
             this.tabPage1.ResumeLayout(false);
             this.guna2Panel2.ResumeLayout(false);
             this.guna2TabControl3.ResumeLayout(false);
@@ -12631,23 +9983,10 @@
             this.flowLayoutPanel3.ResumeLayout(false);
             this.guna2Panel12.ResumeLayout(false);
             this.guna2Panel12.PerformLayout();
-            this.guna2Panel17.ResumeLayout(false);
-            this.guna2Panel17.PerformLayout();
-            this.guna2Panel11.ResumeLayout(false);
-            this.guna2Panel11.PerformLayout();
-            this.guna2Panel16.ResumeLayout(false);
-            this.guna2Panel16.PerformLayout();
-            this.guna2Panel73.ResumeLayout(false);
-            this.guna2Panel73.PerformLayout();
-            this.guna2Panel74.ResumeLayout(false);
-            this.guna2Panel74.PerformLayout();
             this.tabPage9.ResumeLayout(false);
             this.tabPage9.PerformLayout();
             this.flowLayoutPanel1.ResumeLayout(false);
             this.guna2Panel22.ResumeLayout(false);
-            this.guna2Panel14.ResumeLayout(false);
-            this.guna2Panel21.ResumeLayout(false);
-            this.guna2Panel13.ResumeLayout(false);
             this.tabPage10.ResumeLayout(false);
             this.tabPage10.PerformLayout();
             this.flowLayoutPanel2.ResumeLayout(false);
@@ -12672,6 +10011,7 @@
             this.flowLayoutPanel10.ResumeLayout(false);
             this.guna2Panel44.ResumeLayout(false);
             this.guna2Panel44.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox9)).EndInit();
             this.guna2Panel45.ResumeLayout(false);
             this.guna2Panel45.PerformLayout();
             this.guna2Panel46.ResumeLayout(false);
@@ -12682,36 +10022,22 @@
             this.guna2Panel48.PerformLayout();
             this.guna2Panel49.ResumeLayout(false);
             this.guna2Panel49.PerformLayout();
-            this.guna2Panel36.ResumeLayout(false);
-            this.guna2Panel36.PerformLayout();
-            this.flowLayoutPanel7.ResumeLayout(false);
-            this.guna2Panel37.ResumeLayout(false);
-            this.guna2Panel37.PerformLayout();
-            this.guna2Panel38.ResumeLayout(false);
-            this.guna2Panel38.PerformLayout();
-            this.guna2Panel39.ResumeLayout(false);
-            this.guna2Panel39.PerformLayout();
-            this.guna2Panel40.ResumeLayout(false);
-            this.guna2Panel40.PerformLayout();
-            this.guna2Panel41.ResumeLayout(false);
-            this.guna2Panel41.PerformLayout();
-            this.guna2Panel42.ResumeLayout(false);
-            this.guna2Panel42.PerformLayout();
-            this.guna2Panel34.ResumeLayout(false);
-            this.guna2Panel34.PerformLayout();
-            this.flowLayoutPanel9.ResumeLayout(false);
-            this.guna2Panel35.ResumeLayout(false);
-            this.guna2Panel35.PerformLayout();
             this.guna2Panel29.ResumeLayout(false);
             this.guna2Panel29.PerformLayout();
+            this.flowLayoutPanel7.ResumeLayout(false);
             this.guna2Panel30.ResumeLayout(false);
             this.guna2Panel30.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox12)).EndInit();
             this.guna2Panel31.ResumeLayout(false);
             this.guna2Panel31.PerformLayout();
             this.guna2Panel32.ResumeLayout(false);
             this.guna2Panel32.PerformLayout();
             this.guna2Panel33.ResumeLayout(false);
             this.guna2Panel33.PerformLayout();
+            this.guna2Panel34.ResumeLayout(false);
+            this.guna2Panel34.PerformLayout();
+            this.guna2Panel35.ResumeLayout(false);
+            this.guna2Panel35.PerformLayout();
             this.tabPage4.ResumeLayout(false);
             this.tabPage4.PerformLayout();
             this.flowLayoutPanel5.ResumeLayout(false);
@@ -12720,34 +10046,25 @@
             this.flowLayoutPanel6.ResumeLayout(false);
             this.guna2Panel28.ResumeLayout(false);
             this.guna2Panel28.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox10)).EndInit();
             this.guna2Panel27.ResumeLayout(false);
             this.guna2Panel27.PerformLayout();
             this.guna2Panel26.ResumeLayout(false);
             this.guna2Panel26.PerformLayout();
             this.guna2Panel25.ResumeLayout(false);
             this.guna2Panel25.PerformLayout();
-            this.guna2Panel55.ResumeLayout(false);
-            this.guna2Panel55.PerformLayout();
-            this.flowLayoutPanel12.ResumeLayout(false);
-            this.guna2Panel56.ResumeLayout(false);
-            this.guna2Panel56.PerformLayout();
-            this.guna2Panel57.ResumeLayout(false);
-            this.guna2Panel57.PerformLayout();
-            this.guna2Panel58.ResumeLayout(false);
-            this.guna2Panel58.PerformLayout();
-            this.guna2Panel59.ResumeLayout(false);
-            this.guna2Panel59.PerformLayout();
-            this.guna2Panel50.ResumeLayout(false);
-            this.guna2Panel50.PerformLayout();
-            this.flowLayoutPanel11.ResumeLayout(false);
-            this.guna2Panel51.ResumeLayout(false);
-            this.guna2Panel51.PerformLayout();
-            this.guna2Panel52.ResumeLayout(false);
-            this.guna2Panel52.PerformLayout();
-            this.guna2Panel53.ResumeLayout(false);
-            this.guna2Panel53.PerformLayout();
-            this.guna2Panel54.ResumeLayout(false);
-            this.guna2Panel54.PerformLayout();
+            this.guna2Panel36.ResumeLayout(false);
+            this.guna2Panel36.PerformLayout();
+            this.flowLayoutPanel9.ResumeLayout(false);
+            this.guna2Panel37.ResumeLayout(false);
+            this.guna2Panel37.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox13)).EndInit();
+            this.guna2Panel38.ResumeLayout(false);
+            this.guna2Panel38.PerformLayout();
+            this.guna2Panel39.ResumeLayout(false);
+            this.guna2Panel39.PerformLayout();
+            this.guna2Panel40.ResumeLayout(false);
+            this.guna2Panel40.PerformLayout();
             this.tabPage12.ResumeLayout(false);
             this.guna2Panel60.ResumeLayout(false);
             this.guna2TabControl4.ResumeLayout(false);
@@ -12825,10 +10142,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox10)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -12917,7 +10230,6 @@
         private Guna.UI2.WinForms.Guna2Panel guna2Panel7;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel9;
         private System.Windows.Forms.Label label29;
-        private Guna.UI2.WinForms.Guna2ProgressBar guna2ProgressBar3;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel8;
         private System.Windows.Forms.Label label28;
         private Guna.UI2.WinForms.Guna2ProgressBar guna2ProgressBar2;
@@ -12973,11 +10285,6 @@
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox6;
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes18;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel21;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes19;
-        private System.Windows.Forms.Label label49;
-        private System.Windows.Forms.Label label51;
-        private System.Windows.Forms.Label label50;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel2;
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes37;
         private System.Windows.Forms.Label label98;
@@ -13042,35 +10349,6 @@
         private System.Windows.Forms.Label label90;
         private System.Windows.Forms.Label label91;
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes22;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel14;
-        private System.Windows.Forms.Label label86;
-        private System.Windows.Forms.Label label87;
-        private System.Windows.Forms.Label label88;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes21;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel13;
-        private System.Windows.Forms.Label label52;
-        private System.Windows.Forms.Label label53;
-        private System.Windows.Forms.Label label54;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes20;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel17;
-        private System.Windows.Forms.Label label106;
-        private System.Windows.Forms.Label label107;
-        private System.Windows.Forms.Label label108;
-        private System.Windows.Forms.Label label109;
-        private System.Windows.Forms.Label label110;
-        private System.Windows.Forms.Label label111;
-        private System.Windows.Forms.Label label112;
-        private System.Windows.Forms.Label label113;
-        private System.Windows.Forms.Label label114;
-        private System.Windows.Forms.Label label115;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes36;
-        private System.Windows.Forms.Label label116;
-        private System.Windows.Forms.Label label117;
-        private System.Windows.Forms.Label label118;
-        private System.Windows.Forms.Label label119;
-        private System.Windows.Forms.Label label120;
-        private Guna.UI2.WinForms.Guna2Button guna2Button38;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes39;
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes42;
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes44;
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes43;
@@ -13105,55 +10383,7 @@
         private System.Windows.Forms.Label label153;
         private System.Windows.Forms.Label label154;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel8;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel34;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes58;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes59;
-        private System.Windows.Forms.Label label167;
-        private System.Windows.Forms.Label label168;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes60;
-        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel9;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel35;
-        private System.Windows.Forms.Label label169;
-        private System.Windows.Forms.Label label170;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes61;
-        private System.Windows.Forms.Label label177;
-        private System.Windows.Forms.Label label178;
-        private System.Windows.Forms.Label label180;
-        private System.Windows.Forms.Label label179;
         private System.Windows.Forms.Label label181;
-        private System.Windows.Forms.Label label155;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes54;
-        private System.Windows.Forms.Label label156;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes55;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes57;
-        private System.Windows.Forms.Label label157;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes56;
-        private System.Windows.Forms.Label label158;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel29;
-        private System.Windows.Forms.Label label159;
-        private System.Windows.Forms.Label label160;
-        private System.Windows.Forms.Label label161;
-        private System.Windows.Forms.Label label162;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel30;
-        private System.Windows.Forms.Label label163;
-        private System.Windows.Forms.Label label164;
-        private System.Windows.Forms.Label label165;
-        private System.Windows.Forms.Label label166;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel31;
-        private System.Windows.Forms.Label label171;
-        private System.Windows.Forms.Label label172;
-        private System.Windows.Forms.Label label173;
-        private System.Windows.Forms.Label label174;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel32;
-        private System.Windows.Forms.Label label175;
-        private System.Windows.Forms.Label label176;
-        private System.Windows.Forms.Label label182;
-        private System.Windows.Forms.Label label183;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel33;
-        private System.Windows.Forms.Label label184;
-        private System.Windows.Forms.Label label185;
-        private System.Windows.Forms.Label label186;
-        private System.Windows.Forms.Label label187;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel43;
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes70;
         private System.Windows.Forms.Label label220;
@@ -13202,100 +10432,6 @@
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes77;
         private System.Windows.Forms.Label label250;
         private System.Windows.Forms.Label label251;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel36;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes62;
-        private System.Windows.Forms.Label label188;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes63;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes64;
-        private System.Windows.Forms.Label label189;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes65;
-        private System.Windows.Forms.Label label190;
-        private System.Windows.Forms.Label label191;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes66;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes67;
-        private System.Windows.Forms.Label label192;
-        private System.Windows.Forms.Label label193;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes68;
-        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel7;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel37;
-        private System.Windows.Forms.Label label194;
-        private System.Windows.Forms.Label label195;
-        private System.Windows.Forms.Label label196;
-        private System.Windows.Forms.Label label197;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel38;
-        private System.Windows.Forms.Label label198;
-        private System.Windows.Forms.Label label199;
-        private System.Windows.Forms.Label label200;
-        private System.Windows.Forms.Label label201;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel39;
-        private System.Windows.Forms.Label label202;
-        private System.Windows.Forms.Label label203;
-        private System.Windows.Forms.Label label204;
-        private System.Windows.Forms.Label label205;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel40;
-        private System.Windows.Forms.Label label206;
-        private System.Windows.Forms.Label label207;
-        private System.Windows.Forms.Label label208;
-        private System.Windows.Forms.Label label209;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel41;
-        private System.Windows.Forms.Label label210;
-        private System.Windows.Forms.Label label211;
-        private System.Windows.Forms.Label label212;
-        private System.Windows.Forms.Label label213;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel42;
-        private System.Windows.Forms.Label label214;
-        private System.Windows.Forms.Label label215;
-        private System.Windows.Forms.Label label216;
-        private System.Windows.Forms.Label label217;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes69;
-        private System.Windows.Forms.Label label218;
-        private System.Windows.Forms.Label label219;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel55;
-        private System.Windows.Forms.Label label265;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes82;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes83;
-        private System.Windows.Forms.Label label266;
-        private System.Windows.Forms.Label label267;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes84;
-        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel12;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel56;
-        private System.Windows.Forms.Label label268;
-        private System.Windows.Forms.Label label269;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel57;
-        private System.Windows.Forms.Label label270;
-        private System.Windows.Forms.Label label271;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel58;
-        private System.Windows.Forms.Label label272;
-        private System.Windows.Forms.Label label273;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel59;
-        private System.Windows.Forms.Label label274;
-        private System.Windows.Forms.Label label275;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes85;
-        private System.Windows.Forms.Label label276;
-        private System.Windows.Forms.Label label277;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel50;
-        private System.Windows.Forms.Label label252;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes78;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes79;
-        private System.Windows.Forms.Label label253;
-        private System.Windows.Forms.Label label254;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes80;
-        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel11;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel51;
-        private System.Windows.Forms.Label label255;
-        private System.Windows.Forms.Label label256;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel52;
-        private System.Windows.Forms.Label label257;
-        private System.Windows.Forms.Label label258;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel53;
-        private System.Windows.Forms.Label label259;
-        private System.Windows.Forms.Label label260;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel54;
-        private System.Windows.Forms.Label label261;
-        private System.Windows.Forms.Label label262;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes81;
-        private System.Windows.Forms.Label label263;
-        private System.Windows.Forms.Label label264;
         private System.Windows.Forms.TabPage tabPage12;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox6;
         private Guna.UI2.WinForms.Guna2Button guna2Button44;
@@ -13404,86 +10540,7 @@
         private Guna.UI2.WinForms.Guna2Button guna2Button91;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox8;
         private Guna.UI2.WinForms.Guna2Button guna2Button78;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel11;
-        private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.Label label35;
-        private System.Windows.Forms.Label label36;
-        private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.Label label38;
-        private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.Label label40;
-        private System.Windows.Forms.Label label41;
-        private System.Windows.Forms.Label label42;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes14;
-        private System.Windows.Forms.Label label43;
-        private System.Windows.Forms.Label label44;
-        private System.Windows.Forms.Label label45;
-        private System.Windows.Forms.Label label58;
-        private System.Windows.Forms.Label label59;
-        private Guna.UI2.WinForms.Guna2Button guna2Button21;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes15;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel16;
-        private System.Windows.Forms.Label label60;
-        private System.Windows.Forms.Label label71;
-        private System.Windows.Forms.Label label72;
-        private System.Windows.Forms.Label label92;
-        private System.Windows.Forms.Label label93;
-        private System.Windows.Forms.Label label94;
-        private System.Windows.Forms.Label label95;
-        private System.Windows.Forms.Label label96;
-        private System.Windows.Forms.Label label97;
-        private System.Windows.Forms.Label label100;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes24;
-        private System.Windows.Forms.Label label101;
-        private System.Windows.Forms.Label label102;
-        private System.Windows.Forms.Label label103;
-        private System.Windows.Forms.Label label104;
-        private System.Windows.Forms.Label label105;
-        private Guna.UI2.WinForms.Guna2Button guna2Button22;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes25;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel73;
-        private System.Windows.Forms.Label label304;
-        private System.Windows.Forms.Label label305;
-        private System.Windows.Forms.Label label306;
-        private System.Windows.Forms.Label label307;
-        private System.Windows.Forms.Label label308;
-        private System.Windows.Forms.Label label309;
-        private System.Windows.Forms.Label label310;
-        private System.Windows.Forms.Label label311;
-        private System.Windows.Forms.Label label312;
-        private System.Windows.Forms.Label label313;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes93;
-        private System.Windows.Forms.Label label314;
-        private System.Windows.Forms.Label label315;
-        private System.Windows.Forms.Label label316;
-        private System.Windows.Forms.Label label317;
-        private System.Windows.Forms.Label label318;
-        private Guna.UI2.WinForms.Guna2Button guna2Button23;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes94;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel74;
-        private System.Windows.Forms.Label label319;
-        private System.Windows.Forms.Label label320;
-        private System.Windows.Forms.Label label321;
-        private System.Windows.Forms.Label label322;
-        private System.Windows.Forms.Label label323;
-        private System.Windows.Forms.Label label324;
-        private System.Windows.Forms.Label label325;
-        private System.Windows.Forms.Label label326;
-        private System.Windows.Forms.Label label327;
-        private System.Windows.Forms.Label label328;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes95;
-        private System.Windows.Forms.Label label329;
-        private System.Windows.Forms.Label label330;
-        private System.Windows.Forms.Label label331;
-        private System.Windows.Forms.Label label332;
-        private System.Windows.Forms.Label label333;
-        private Guna.UI2.WinForms.Guna2Button guna2Button24;
-        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes96;
         private Guna.UI2.WinForms.Guna2CircleButton guna2CircleButton4;
-        private Guna.UI2.WinForms.Guna2CircleButton guna2CircleButton3;
-        private Guna.UI2.WinForms.Guna2CircleButton guna2CircleButton1;
-        private Guna.UI2.WinForms.Guna2CircleButton guna2CircleButton2;
         private Guna.UI2.WinForms.Guna2CircleButton guna2CircleButton5;
         private Guna.UI2.WinForms.Guna2CircleButton guna2CircleButton6;
         private Guna.UI2.WinForms.Guna2CircleButton guna2CircleButton7;
@@ -13630,5 +10687,79 @@
         private Guna.UI2.WinForms.Guna2Panel guna2Panel90;
         private System.Windows.Forms.Label label404;
         private Guna.UI2.WinForms.Guna2Button guna2Button97;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel29;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes54;
+        private System.Windows.Forms.Label label155;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes55;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes56;
+        private System.Windows.Forms.Label label156;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes57;
+        private System.Windows.Forms.Label label157;
+        private System.Windows.Forms.Label label158;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes58;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes59;
+        private System.Windows.Forms.Label label159;
+        private System.Windows.Forms.Label label160;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes60;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel7;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel30;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox12;
+        private System.Windows.Forms.Label label161;
+        private System.Windows.Forms.Label label162;
+        private System.Windows.Forms.Label label163;
+        private System.Windows.Forms.Label label164;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel31;
+        private System.Windows.Forms.Label label165;
+        private System.Windows.Forms.Label label166;
+        private System.Windows.Forms.Label label167;
+        private System.Windows.Forms.Label label168;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel32;
+        private System.Windows.Forms.Label label169;
+        private System.Windows.Forms.Label label170;
+        private System.Windows.Forms.Label label171;
+        private System.Windows.Forms.Label label172;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel33;
+        private System.Windows.Forms.Label label173;
+        private System.Windows.Forms.Label label174;
+        private System.Windows.Forms.Label label175;
+        private System.Windows.Forms.Label label176;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel34;
+        private System.Windows.Forms.Label label177;
+        private System.Windows.Forms.Label label178;
+        private System.Windows.Forms.Label label179;
+        private System.Windows.Forms.Label label180;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel35;
+        private System.Windows.Forms.Label label182;
+        private System.Windows.Forms.Label label183;
+        private System.Windows.Forms.Label label184;
+        private System.Windows.Forms.Label label185;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes61;
+        private System.Windows.Forms.Label label186;
+        private System.Windows.Forms.Label label187;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel36;
+        private System.Windows.Forms.Label label188;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes62;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes63;
+        private System.Windows.Forms.Label label189;
+        private System.Windows.Forms.Label label190;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes64;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel9;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel37;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox13;
+        private System.Windows.Forms.Label label191;
+        private System.Windows.Forms.Label label192;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel38;
+        private System.Windows.Forms.Label label193;
+        private System.Windows.Forms.Label label194;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel39;
+        private System.Windows.Forms.Label label195;
+        private System.Windows.Forms.Label label196;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel40;
+        private System.Windows.Forms.Label label197;
+        private System.Windows.Forms.Label label198;
+        private Guna.UI2.WinForms.Guna2Shapes guna2Shapes65;
+        private System.Windows.Forms.Label label199;
+        private System.Windows.Forms.Label label200;
+        private System.Windows.Forms.Label label201;
     }
 }

@@ -76,7 +76,7 @@ namespace login
                 {
                     MemberD objM = new MemberD(email);
                     objM.Show();
-                    this.Hide();
+
                 }
                 readerM.Close();
 
@@ -85,11 +85,24 @@ namespace login
                 SqlDataReader readerA = commandA.ExecuteReader();
                 if (readerA.Read())
                 {
-
-                    Admin_dashboard obj = new Admin_dashboard(username);
+                    Admin_dashboard obj = new Admin_dashboard(email);
                     obj.Show();
-                    this.Hide();
+
                 }
+                readerA.Close();
+
+                string queryT = "select * from Trainer where email = '" + email + "'";
+                SqlCommand commandT = new SqlCommand(queryT, connection);
+                SqlDataReader readerT = commandT.ExecuteReader();
+                if (readerT.Read())
+                {
+                    TrainerDashboard obj = new TrainerDashboard(email);
+                    obj.Show();
+
+                }
+                readerT.Close();
+
+
 
             }
             else

@@ -272,5 +272,14 @@
   <ItemGroup>
     <None Include="Resources\seo-report1.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-gear-png-gear-icon-png-white-gear-icon-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

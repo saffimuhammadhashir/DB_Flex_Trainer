@@ -12,21 +12,29 @@ namespace Data_base_spring_2024
 {
     public partial class OwnerReview : Form
     {
-        public OwnerReview()
+        private string userEmail;
+
+        public OwnerReview(string email)
         {
             InitializeComponent();
+            userEmail = email;
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            // Create an instance of Admin_dashboard
-            //Admin_dashboard newform = new Admin_dashboard();
 
-            // Show the new form
-            //newform.Show();
+            Admin_dashboard newform = new Admin_dashboard(userEmail);
 
-            // Hide the current form (Form1)
+
+            newform.Show();
+
+
             this.Hide();
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

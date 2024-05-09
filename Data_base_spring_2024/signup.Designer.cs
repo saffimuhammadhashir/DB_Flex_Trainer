@@ -49,6 +49,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.guna2Shapes1 = new Guna.UI2.WinForms.Guna2Shapes();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label17 = new System.Windows.Forms.Label();
+            this.guna2CustomRadioButton13 = new Guna.UI2.WinForms.Guna2CustomRadioButton();
             this.guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2Button3 = new Guna.UI2.WinForms.Guna2Button();
             this.label15 = new System.Windows.Forms.Label();
@@ -283,6 +285,7 @@
             this.guna2DateTimePicker1.Size = new System.Drawing.Size(508, 36);
             this.guna2DateTimePicker1.TabIndex = 16;
             this.guna2DateTimePicker1.Value = new System.DateTime(2024, 4, 27, 10, 17, 6, 549);
+            this.guna2DateTimePicker1.ValueChanged += new System.EventHandler(this.guna2DateTimePicker1_ValueChanged);
             // 
             // guna2TextBox3
             // 
@@ -377,6 +380,8 @@
             // 
             // guna2Panel1
             // 
+            this.guna2Panel1.Controls.Add(this.label17);
+            this.guna2Panel1.Controls.Add(this.guna2CustomRadioButton13);
             this.guna2Panel1.Controls.Add(this.guna2Panel3);
             this.guna2Panel1.Controls.Add(this.guna2Button2);
             this.guna2Panel1.Controls.Add(this.guna2Shapes7);
@@ -407,6 +412,36 @@
             this.guna2Panel1.TabIndex = 0;
             this.guna2Panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel1_Paint);
             // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.BackColor = System.Drawing.Color.Transparent;
+            this.label17.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(252)))));
+            this.label17.Location = new System.Drawing.Point(496, 471);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(81, 36);
+            this.label17.TabIndex = 46;
+            this.label17.Text = "Admin";
+            // 
+            // guna2CustomRadioButton13
+            // 
+            this.guna2CustomRadioButton13.BackColor = System.Drawing.Color.Transparent;
+            this.guna2CustomRadioButton13.CheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.guna2CustomRadioButton13.CheckedState.BorderThickness = 0;
+            this.guna2CustomRadioButton13.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.guna2CustomRadioButton13.CheckedState.InnerColor = System.Drawing.Color.White;
+            this.guna2CustomRadioButton13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(217)))), ((int)(((byte)(215)))), ((int)(((byte)(215)))));
+            this.guna2CustomRadioButton13.Location = new System.Drawing.Point(600, 479);
+            this.guna2CustomRadioButton13.Name = "guna2CustomRadioButton13";
+            this.guna2CustomRadioButton13.Size = new System.Drawing.Size(41, 28);
+            this.guna2CustomRadioButton13.TabIndex = 45;
+            this.guna2CustomRadioButton13.Text = "guna2CustomRadioButton1";
+            this.guna2CustomRadioButton13.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
+            this.guna2CustomRadioButton13.UncheckedState.BorderThickness = 2;
+            this.guna2CustomRadioButton13.UncheckedState.FillColor = System.Drawing.Color.Transparent;
+            this.guna2CustomRadioButton13.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
+            // 
             // guna2Panel3
             // 
             this.guna2Panel3.BackColor = System.Drawing.Color.Transparent;
@@ -417,7 +452,7 @@
             this.guna2Panel3.Controls.Add(this.guna2Button4);
             this.guna2Panel3.Controls.Add(this.label14);
             this.guna2Panel3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(217)))), ((int)(((byte)(215)))), ((int)(((byte)(215)))));
-            this.guna2Panel3.Location = new System.Drawing.Point(34, 464);
+            this.guna2Panel3.Location = new System.Drawing.Point(44, 578);
             this.guna2Panel3.Name = "guna2Panel3";
             this.guna2Panel3.Size = new System.Drawing.Size(616, 169);
             this.guna2Panel3.TabIndex = 44;
@@ -436,11 +471,12 @@
             this.guna2Button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(82)))), ((int)(((byte)(83)))), ((int)(((byte)(84)))));
             this.guna2Button3.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(98)))), ((int)(((byte)(64)))), ((int)(((byte)(237)))));
             this.guna2Button3.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button3.Location = new System.Drawing.Point(190, 112);
+            this.guna2Button3.Location = new System.Drawing.Point(190, 111);
             this.guna2Button3.Name = "guna2Button3";
             this.guna2Button3.Size = new System.Drawing.Size(229, 48);
             this.guna2Button3.TabIndex = 47;
             this.guna2Button3.Text = "Try Again!";
+            this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
             // 
             // label15
             // 
@@ -471,6 +507,7 @@
             this.guna2Button4.Size = new System.Drawing.Size(229, 48);
             this.guna2Button4.TabIndex = 45;
             this.guna2Button4.Text = "Sign in!";
+            this.guna2Button4.Click += new System.EventHandler(this.guna2Button4_Click);
             // 
             // label14
             // 
@@ -918,6 +955,8 @@
         private Guna.UI2.WinForms.Guna2WinProgressIndicator guna2WinProgressIndicator1;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label label17;
+        private Guna.UI2.WinForms.Guna2CustomRadioButton guna2CustomRadioButton13;
     }
 }
 

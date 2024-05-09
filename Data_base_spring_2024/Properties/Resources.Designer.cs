@@ -165,6 +165,16 @@ namespace Data_base_spring_2024.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap email {
+            get {
+                object obj = ResourceManager.GetObject("email", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap entrepreneur {
             get {
                 object obj = ResourceManager.GetObject("entrepreneur", resourceCulture);
@@ -365,6 +375,16 @@ namespace Data_base_spring_2024.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap password {
+            get {
+                object obj = ResourceManager.GetObject("password", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap plan {
             get {
                 object obj = ResourceManager.GetObject("plan", resourceCulture);
@@ -438,6 +458,16 @@ namespace Data_base_spring_2024.Properties {
         internal static System.Drawing.Bitmap team__1_1 {
             get {
                 object obj = ResourceManager.GetObject("team (1)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap white_gear_png_gear_icon_png_white_gear_icon_30 {
+            get {
+                object obj = ResourceManager.GetObject("white-gear-png-gear-icon-png-white-gear-icon-30", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

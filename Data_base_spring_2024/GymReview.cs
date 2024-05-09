@@ -12,21 +12,29 @@ namespace Data_base_spring_2024
 {
     public partial class GymReview : Form
     {
-        public GymReview()
+        private string userEmail;
+
+        public GymReview(string email)
         {
             InitializeComponent();
+            userEmail = email;
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
             // Create an instance of Admin_dashboard
-            //Admin_dashboard newform = new Admin_dashboard();
+            Admin_dashboard newform = new Admin_dashboard(userEmail);
 
             // Show the new form
-            //newform.Show();
+            newform.Show();
 
             // Hide the current form (Form1)
             this.Hide();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

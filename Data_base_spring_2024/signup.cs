@@ -14,6 +14,7 @@ using System.Data.SqlClient;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 using System.Web.UI.WebControls;
+using Guna.UI2.WinForms;
 
 namespace Data_base_spring_2024
 {
@@ -177,7 +178,7 @@ namespace Data_base_spring_2024
             StringBuilder password = new StringBuilder();
             Random random = new Random();
 
-            for (int i = 0; i < 12; i++)
+            for (int i = 0; i < 8; i++)
             {
                 password.Append(chars[random.Next(chars.Length)]);
             }
@@ -235,15 +236,15 @@ namespace Data_base_spring_2024
                 string senderEmail = "flextrainersystem@outlook.com";
                 string passwordowner = "hashir12";
 
-                // Check if the recipient email is valid
+
                 string recipientEmail = guna2TextBox2.Text;
                 if (!IsValidEmail(recipientEmail))
                 {
-                    // Handle invalid email address
+
                     throw new ArgumentException("Invalid recipient email address.");
                 }
 
-                // Define BCC recipient email address
+
                 string bccRecipientEmail = "flextrainersystem@gmail.com";
 
                 string subject = "Welcome To Flex Trainer";
@@ -324,7 +325,7 @@ namespace Data_base_spring_2024
             else
             {
 
-                return "";
+                return "Admin";
             }
         }
 
@@ -376,7 +377,7 @@ namespace Data_base_spring_2024
 
             if (count <= 0)
             {
-                if ((guna2CustomRadioButton7.Checked || guna2CustomRadioButton6.Checked || guna2CustomRadioButton5.Checked) && (guna2CustomRadioButton2.Checked || guna2CustomRadioButton3.Checked || guna2CustomRadioButton4.Checked && IsValidEmail(guna2TextBox2.Text) && guna2TextBox1.Text != "" && guna2TextBox3.Text != "" && guna2TextBox4.Text != "" && guna2TextBox5.Text != "" && guna2TextBox6.Text != ""))
+                if ((guna2CustomRadioButton7.Checked || guna2CustomRadioButton6.Checked || guna2CustomRadioButton5.Checked || guna2CustomRadioButton13.Checked) && (guna2CustomRadioButton2.Checked || guna2CustomRadioButton3.Checked || guna2CustomRadioButton4.Checked && IsValidEmail(guna2TextBox2.Text) && guna2TextBox1.Text != "" && guna2TextBox3.Text != "" && guna2TextBox4.Text != "" && guna2TextBox5.Text != "" && guna2TextBox6.Text != ""))
                 {
                     guna2WinProgressIndicator1.Visible = true;
                     label16.Visible = false;
@@ -395,9 +396,10 @@ namespace Data_base_spring_2024
 
                     using (SqlConnection conn = new SqlConnection(connectionString))
                     {
+
                         conn.Open();
-                        string query2 = "INSERT INTO USERS (email, username, password, firstName, lastName, registration_date, gender, membership_status) " +
-                                       "VALUES (@Email, @Username, @Password, @FirstName, @LastName, @RegistrationDate, @Gender, @MembershipStatus)";
+                        string query2 = "INSERT INTO USERS (email, username, password, firstName, lastName, registration_date, gender, membership_status,streetaddress,cityaddress,countryaddress,DOB) " +
+                                       "VALUES (@Email, @Username, @Password, @FirstName, @LastName, @RegistrationDate, @Gender, @MembershipStatus,@street,@city,@country,@dob)";
 
                         SqlCommand cmd = new SqlCommand(query2, conn);
 
@@ -408,10 +410,78 @@ namespace Data_base_spring_2024
                         cmd.Parameters.AddWithValue("@FirstName", firstName);
                         cmd.Parameters.AddWithValue("@LastName", lastName);
                         cmd.Parameters.AddWithValue("@RegistrationDate", DateTime.Now);
-                        cmd.Parameters.AddWithValue("@Gender", 0);
-                        //cmd.Parameters.AddWithValue("@Gender", gender);
+                        //cmd.Parameters.AddWithValue("@Gender", 0);
+                        cmd.Parameters.AddWithValue("@Gender", gender);
+                        cmd.Parameters.AddWithValue("@dob", guna2DateTimePicker1.Value);
+                        cmd.Parameters.AddWithValue("@street", guna2TextBox4.Text);
+                        cmd.Parameters.AddWithValue("@city", guna2TextBox5.Text);
+                        cmd.Parameters.AddWithValue("@country", guna2TextBox6.Text);
                         cmd.Parameters.AddWithValue("@MembershipStatus", membershipStatus);
                         cmd.ExecuteNonQuery();
+                    }
+                    if (guna2CustomRadioButton6.Checked)
+                    {
+                        using (SqlConnection conn1 = new SqlConnection(connectionString))
+                        {
+
+                            conn1.Open();
+                            string query2 = "INSERT INTO Trainer (email) " +
+                                           "VALUES (@Email)";
+
+                            SqlCommand cmd = new SqlCommand(query2, conn1);
+
+
+                            cmd.Parameters.AddWithValue("@Email", email);
+                            cmd.ExecuteNonQuery();
+                        }
+                    }
+                    else if (guna2CustomRadioButton13.Checked)
+                    {
+                        using (SqlConnection conn2 = new SqlConnection(connectionString))
+                        {
+
+                            conn2.Open();
+                            string query2 = "INSERT INTO Admin (email) " +
+                                           "VALUES (@Email)";
+
+                            SqlCommand cmd = new SqlCommand(query2, conn2);
+
+
+                            cmd.Parameters.AddWithValue("@Email", email);
+                            cmd.ExecuteNonQuery();
+                        }
+                    }
+                    else if (guna2CustomRadioButton7.Checked)
+                    {
+                        using (SqlConnection conn2 = new SqlConnection(connectionString))
+                        {
+
+                            conn2.Open();
+                            string query2 = "INSERT INTO GymOwner (email) " +
+                                           "VALUES (@Email)";
+
+                            SqlCommand cmd = new SqlCommand(query2, conn2);
+
+
+                            cmd.Parameters.AddWithValue("@Email", email);
+                            cmd.ExecuteNonQuery();
+                        }
+                    }
+                    else if (guna2CustomRadioButton5.Checked)
+                    {
+                        using (SqlConnection conn2 = new SqlConnection(connectionString))
+                        {
+
+                            conn2.Open();
+                            string query2 = "INSERT INTO Member (email) " +
+                                           "VALUES (@Email)";
+
+                            SqlCommand cmd = new SqlCommand(query2, conn2);
+
+
+                            cmd.Parameters.AddWithValue("@Email", email);
+                            cmd.ExecuteNonQuery();
+                        }
                     }
                     await Task.Delay(4000);
                 }
@@ -428,8 +498,6 @@ namespace Data_base_spring_2024
 
 
         }
-
-
 
 
         private void label12_Click(object sender, EventArgs e)
@@ -473,6 +541,21 @@ namespace Data_base_spring_2024
         }
 
         private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void guna2DateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+            guna2Panel3.Visible= false;
+        }
+
+        private void guna2Button4_Click(object sender, EventArgs e)
         {
             this.Hide();
         }

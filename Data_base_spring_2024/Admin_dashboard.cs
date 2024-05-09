@@ -128,7 +128,7 @@ namespace Data_base_spring_2024
         private void guna2Button8_Click(object sender, EventArgs e)
         {
             // Create an instance of Admin_dashboard
-            MemberReview newform = new MemberReview();
+            MemberReview newform = new MemberReview(userEmail);
 
             // Show the new form
             newform.Show();
@@ -140,7 +140,7 @@ namespace Data_base_spring_2024
         private void guna2Button18_Click(object sender, EventArgs e)
         {
             // Create an instance of Admin_dashboard
-            TrainerReview newform = new TrainerReview();
+            TrainerReview newform = new TrainerReview(userEmail);
 
             // Show the new form
             newform.Show();
@@ -152,7 +152,7 @@ namespace Data_base_spring_2024
         private void guna2Button19_Click(object sender, EventArgs e)
         {
             // Create an instance of Admin_dashboard
-            OwnerReview newform = new OwnerReview();
+            OwnerReview newform = new OwnerReview(userEmail);
 
             // Show the new form
             newform.Show();
@@ -164,7 +164,7 @@ namespace Data_base_spring_2024
         private void guna2Button9_Click_1(object sender, EventArgs e)
         {
             // Create an instance of Admin_dashboard
-            GymReview newform = new GymReview();
+            GymReview newform = new GymReview(userEmail);
 
             // Show the new form
             newform.Show();

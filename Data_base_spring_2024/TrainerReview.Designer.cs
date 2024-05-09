@@ -540,6 +540,7 @@
             this.guna2Panel24.Name = "guna2Panel24";
             this.guna2Panel24.Size = new System.Drawing.Size(1082, 641);
             this.guna2Panel24.TabIndex = 1;
+            this.guna2Panel24.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel24_Paint);
             // 
             // guna2Shapes92
             // 
