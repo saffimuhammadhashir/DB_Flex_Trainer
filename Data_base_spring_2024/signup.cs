@@ -378,8 +378,7 @@ namespace Data_base_spring_2024
             if (count <= 0)
             {
                 if ((guna2CustomRadioButton7.Checked || guna2CustomRadioButton6.Checked || guna2CustomRadioButton5.Checked || guna2CustomRadioButton13.Checked) && (guna2CustomRadioButton2.Checked || guna2CustomRadioButton3.Checked || guna2CustomRadioButton4.Checked && IsValidEmail(guna2TextBox2.Text) && guna2TextBox1.Text != "" && guna2TextBox3.Text != "" && guna2TextBox4.Text != "" && guna2TextBox5.Text != "" && guna2TextBox6.Text != ""))
-                {
-                    guna2WinProgressIndicator1.Visible = true;
+                {   guna2WinProgressIndicator1.Visible = true;
                     label16.Visible = false;
 
                     string firstName = guna2TextBox1.Text;
@@ -398,9 +397,8 @@ namespace Data_base_spring_2024
                     {
 
                         conn.Open();
-                        string query2 = "INSERT INTO USERS (email, username, password, firstName, lastName, registration_date, gender, membership_status,streetaddress,cityaddress,countryaddress,DOB) " +
-                                       "VALUES (@Email, @Username, @Password, @FirstName, @LastName, @RegistrationDate, @Gender, @MembershipStatus,@street,@city,@country,@dob)";
-
+                        string query2 = "INSERT INTO USERS (email, username, password, firstName, lastName, registration_date, gender, membership_status,street,city,country,DOB) " +
+                                                              "VALUES (@Email, @Username, @Password, @FirstName, @LastName, @RegistrationDate, @Gender, @MembershipStatus,@street,@city,@country,@dob)";
                         SqlCommand cmd = new SqlCommand(query2, conn);
 
 

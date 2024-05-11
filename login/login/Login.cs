@@ -50,8 +50,8 @@ namespace login
         }
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-
-         string connectionString = "Data Source=ABDULLAHS-PC\\SQLEXPRESS;Initial Catalog=FlexTrainer;Integrated Security=True; MultipleActiveResultSets=true";
+            label10.Visible = false;
+            string connectionString = "Data Source=SAFFI-MUHAMMAD-;Initial Catalog=FlexTrainer;Integrated Security=True;Encrypt=False";
         string email = guna2TextBox1.Text;
             string pass = guna2TextBox2.Text;
             string username = " ";
@@ -63,46 +63,53 @@ namespace login
             SqlDataReader reader = command.ExecuteReader();
             if (reader.Read())
             {
-                
+
+                int active =Convert.ToInt32( reader["is_active"]);
                 username =  reader["username"].ToString();
                 reader.Close();
-
-                string queryM = "select * from member where email = '" + email+"'";
-                SqlCommand commandM = new SqlCommand(queryM, connection);
-                
-                SqlDataReader readerM = commandM.ExecuteReader();
-
-                if (readerM.Read())
+                if (active == 1)
                 {
-                    MemberD objM = new MemberD(email,connectionString);
-                    objM.Show();
+
+                    string queryM = "select * from member where email = '" + email + "'";
+                    SqlCommand commandM = new SqlCommand(queryM, connection);
+
+                    SqlDataReader readerM = commandM.ExecuteReader();
+
+                    if (readerM.Read())
+                    {
+                        MemberD objM = new MemberD(email, connectionString);
+                        objM.Show();
+
+                    }
+                    readerM.Close();
+
+                    string queryA = "select * from Admin where email = '" + email + "'";
+                    SqlCommand commandA = new SqlCommand(queryA, connection);
+                    SqlDataReader readerA = commandA.ExecuteReader();
+                    if (readerA.Read())
+                    {
+                        Admin_dashboard obj = new Admin_dashboard(email);
+                        obj.Show();
+
+                    }
+                    readerA.Close();
+
+                    string queryT = "select * from Trainer where email = '" + email + "'";
+                    SqlCommand commandT = new SqlCommand(queryT, connection);
+                    SqlDataReader readerT = commandT.ExecuteReader();
+                    if (readerT.Read())
+                    {
+                        TrainerDashboard obj = new TrainerDashboard(email);
+                        obj.Show();
+
+                    }
+                    readerT.Close();
 
                 }
-                readerM.Close();
-
-                string queryA = "select * from Admin where email = '" + email + "'";
-                SqlCommand commandA = new SqlCommand(queryA, connection);
-                SqlDataReader readerA = commandA.ExecuteReader();
-                if (readerA.Read())
+                else
                 {
-                    Admin_dashboard obj = new Admin_dashboard(email);
-                    obj.Show();
-
+                    label10.Visible = true;
                 }
-                readerA.Close();
-
-                string queryT = "select * from Trainer where email = '" + email + "'";
-                SqlCommand commandT = new SqlCommand(queryT, connection);
-                SqlDataReader readerT = commandT.ExecuteReader();
-                if (readerT.Read())
-                {
-                    TrainerDashboard obj = new TrainerDashboard(email);
-                    obj.Show();
-
-                }
-                readerT.Close();
-
-
 
             }
             else

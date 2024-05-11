@@ -258,5 +258,10 @@ namespace login
             }
             this.Hide();
         }
+
+        private void label181_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
