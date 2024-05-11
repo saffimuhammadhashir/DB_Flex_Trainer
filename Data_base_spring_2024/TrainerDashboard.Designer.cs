@@ -314,6 +314,8 @@
             this.guna2Shapes76 = new Guna.UI2.WinForms.Guna2Shapes();
             this.flowLayoutPanel10 = new System.Windows.Forms.FlowLayoutPanel();
             this.guna2Panel44 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label76 = new System.Windows.Forms.Label();
+            this.label72 = new System.Windows.Forms.Label();
             this.label226 = new System.Windows.Forms.Label();
             this.label227 = new System.Windows.Forms.Label();
             this.label228 = new System.Windows.Forms.Label();
@@ -453,6 +455,8 @@
             this.label364 = new System.Windows.Forms.Label();
             this.tabPage20 = new System.Windows.Forms.TabPage();
             this.guna2Panel82 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label46 = new System.Windows.Forms.Label();
+            this.label74 = new System.Windows.Forms.Label();
             this.label396 = new System.Windows.Forms.Label();
             this.label395 = new System.Windows.Forms.Label();
             this.label394 = new System.Windows.Forms.Label();
@@ -513,10 +517,6 @@
             this.guna2CirclePictureBox3 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2CirclePictureBox2 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.label72 = new System.Windows.Forms.Label();
-            this.label76 = new System.Windows.Forms.Label();
-            this.label46 = new System.Windows.Forms.Label();
-            this.label74 = new System.Windows.Forms.Label();
             this.guna2TabControl1.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.guna2Panel1.SuspendLayout();
@@ -1564,11 +1564,11 @@
             this.tabPage6.Controls.Add(this.guna2Panel6);
             this.tabPage6.Controls.Add(this.guna2Panel5);
             this.tabPage6.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage6.Location = new System.Drawing.Point(4, 44);
+            this.tabPage6.Location = new System.Drawing.Point(4, 5);
             this.tabPage6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage6.Name = "tabPage6";
             this.tabPage6.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabPage6.Size = new System.Drawing.Size(1135, 681);
+            this.tabPage6.Size = new System.Drawing.Size(1135, 720);
             this.tabPage6.TabIndex = 1;
             this.tabPage6.Tag = "2";
             this.tabPage6.Text = "tabPage6";
@@ -1960,10 +1960,10 @@
             this.tabPage7.Controls.Add(this.guna2Panel8);
             this.tabPage7.Controls.Add(this.guna2Panel7);
             this.tabPage7.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage7.Location = new System.Drawing.Point(4, 44);
+            this.tabPage7.Location = new System.Drawing.Point(4, 5);
             this.tabPage7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(1135, 681);
+            this.tabPage7.Size = new System.Drawing.Size(1135, 720);
             this.tabPage7.TabIndex = 2;
             this.tabPage7.Tag = "3";
             this.tabPage7.Text = "tabPage7";
@@ -2200,10 +2200,10 @@
             this.tabPage11.Controls.Add(this.guna2Panel19);
             this.tabPage11.Controls.Add(this.guna2Panel20);
             this.tabPage11.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage11.Location = new System.Drawing.Point(4, 44);
+            this.tabPage11.Location = new System.Drawing.Point(4, 5);
             this.tabPage11.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage11.Name = "tabPage11";
-            this.tabPage11.Size = new System.Drawing.Size(1135, 681);
+            this.tabPage11.Size = new System.Drawing.Size(1135, 720);
             this.tabPage11.TabIndex = 3;
             this.tabPage11.Text = "tabPage11";
             // 
@@ -3065,7 +3065,6 @@
             this.guna2Button52.Size = new System.Drawing.Size(313, 71);
             this.guna2Button52.TabIndex = 62;
             this.guna2Button52.Text = "Select Client";
-            this.guna2Button52.Visible = false;
             this.guna2Button52.Click += new System.EventHandler(this.guna2Button52_Click);
             // 
             // guna2CircleButton1
@@ -3337,10 +3336,10 @@
             this.tabPage10.Controls.Add(this.guna2Shapes38);
             this.tabPage10.Controls.Add(this.label99);
             this.tabPage10.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage10.Location = new System.Drawing.Point(4, 5);
+            this.tabPage10.Location = new System.Drawing.Point(4, 44);
             this.tabPage10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage10.Name = "tabPage10";
-            this.tabPage10.Size = new System.Drawing.Size(1135, 720);
+            this.tabPage10.Size = new System.Drawing.Size(1135, 681);
             this.tabPage10.TabIndex = 2;
             this.tabPage10.Text = "tabPage10";
             // 
@@ -3402,7 +3401,6 @@
             this.guna2Button24.Size = new System.Drawing.Size(313, 71);
             this.guna2Button24.TabIndex = 62;
             this.guna2Button24.Text = "Select Client";
-            this.guna2Button24.Visible = false;
             // 
             // guna2CircleButton2
             // 
@@ -3952,10 +3950,10 @@
             this.tabPage18.Controls.Add(this.label347);
             this.tabPage18.Controls.Add(this.guna2Shapes102);
             this.tabPage18.Controls.Add(this.label348);
-            this.tabPage18.Location = new System.Drawing.Point(4, 44);
+            this.tabPage18.Location = new System.Drawing.Point(4, 5);
             this.tabPage18.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage18.Name = "tabPage18";
-            this.tabPage18.Size = new System.Drawing.Size(1135, 681);
+            this.tabPage18.Size = new System.Drawing.Size(1135, 720);
             this.tabPage18.TabIndex = 4;
             this.tabPage18.Text = "tabPage18";
             // 
@@ -4887,10 +4885,10 @@
             this.tabPage17.Controls.Add(this.label336);
             this.tabPage17.Controls.Add(this.guna2Shapes97);
             this.tabPage17.Controls.Add(this.label334);
-            this.tabPage17.Location = new System.Drawing.Point(4, 44);
+            this.tabPage17.Location = new System.Drawing.Point(4, 5);
             this.tabPage17.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage17.Name = "tabPage17";
-            this.tabPage17.Size = new System.Drawing.Size(1135, 681);
+            this.tabPage17.Size = new System.Drawing.Size(1135, 720);
             this.tabPage17.TabIndex = 3;
             this.tabPage17.Text = "tabPage17";
             this.tabPage17.Click += new System.EventHandler(this.tabPage17_Click);
@@ -5580,6 +5578,28 @@
             this.guna2Panel44.Size = new System.Drawing.Size(1067, 69);
             this.guna2Panel44.TabIndex = 7;
             // 
+            // label76
+            // 
+            this.label76.BackColor = System.Drawing.Color.Transparent;
+            this.label76.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label76.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label76.Location = new System.Drawing.Point(-5, 0);
+            this.label76.Name = "label76";
+            this.label76.Size = new System.Drawing.Size(67, 27);
+            this.label76.TabIndex = 24;
+            this.label76.Text = "asd";
+            // 
+            // label72
+            // 
+            this.label72.BackColor = System.Drawing.Color.Transparent;
+            this.label72.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label72.Font = new System.Drawing.Font("Poppins", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label72.Location = new System.Drawing.Point(3, 50);
+            this.label72.Name = "label72";
+            this.label72.Size = new System.Drawing.Size(212, 15);
+            this.label72.TabIndex = 23;
+            this.label72.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
             // label226
             // 
             this.label226.BackColor = System.Drawing.Color.Transparent;
@@ -5964,7 +5984,7 @@
             this.tabPage12.Location = new System.Drawing.Point(4, 4);
             this.tabPage12.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage12.Name = "tabPage12";
-            this.tabPage12.Size = new System.Drawing.Size(1271, 1046);
+            this.tabPage12.Size = new System.Drawing.Size(1450, 1046);
             this.tabPage12.TabIndex = 4;
             this.tabPage12.Text = "tabPage12";
             // 
@@ -6440,11 +6460,11 @@
             this.tabPage14.Controls.Add(this.guna2Shapes90);
             this.tabPage14.Controls.Add(this.label285);
             this.tabPage14.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage14.Location = new System.Drawing.Point(4, 44);
+            this.tabPage14.Location = new System.Drawing.Point(4, 5);
             this.tabPage14.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage14.Name = "tabPage14";
             this.tabPage14.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabPage14.Size = new System.Drawing.Size(1192, 705);
+            this.tabPage14.Size = new System.Drawing.Size(1192, 744);
             this.tabPage14.TabIndex = 1;
             this.tabPage14.Text = "tabPage14";
             // 
@@ -6591,11 +6611,11 @@
             this.tabPage15.Controls.Add(this.guna2Shapes89);
             this.tabPage15.Controls.Add(this.label278);
             this.tabPage15.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tabPage15.Location = new System.Drawing.Point(4, 44);
+            this.tabPage15.Location = new System.Drawing.Point(4, 5);
             this.tabPage15.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage15.Name = "tabPage15";
             this.tabPage15.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabPage15.Size = new System.Drawing.Size(1192, 705);
+            this.tabPage15.Size = new System.Drawing.Size(1192, 744);
             this.tabPage15.TabIndex = 2;
             this.tabPage15.Text = "tabPage15";
             this.tabPage15.Click += new System.EventHandler(this.tabPage15_Click);
@@ -6757,7 +6777,7 @@
             this.tabPage16.Location = new System.Drawing.Point(4, 4);
             this.tabPage16.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage16.Name = "tabPage16";
-            this.tabPage16.Size = new System.Drawing.Size(1271, 1046);
+            this.tabPage16.Size = new System.Drawing.Size(1450, 1046);
             this.tabPage16.TabIndex = 5;
             this.tabPage16.Text = "tabPage16";
             // 
@@ -6952,7 +6972,7 @@
             this.tabPage19.Location = new System.Drawing.Point(4, 4);
             this.tabPage19.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage19.Name = "tabPage19";
-            this.tabPage19.Size = new System.Drawing.Size(1271, 1046);
+            this.tabPage19.Size = new System.Drawing.Size(1450, 1046);
             this.tabPage19.TabIndex = 6;
             this.tabPage19.Text = "tabPage19";
             // 
@@ -7452,7 +7472,7 @@
             this.tabPage20.Location = new System.Drawing.Point(4, 4);
             this.tabPage20.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tabPage20.Name = "tabPage20";
-            this.tabPage20.Size = new System.Drawing.Size(1271, 1046);
+            this.tabPage20.Size = new System.Drawing.Size(1450, 1046);
             this.tabPage20.TabIndex = 7;
             this.tabPage20.Text = "tabPage20";
             // 
@@ -7488,6 +7508,30 @@
             this.guna2Panel82.Size = new System.Drawing.Size(1139, 753);
             this.guna2Panel82.TabIndex = 0;
             this.guna2Panel82.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel82_Paint);
+            // 
+            // label46
+            // 
+            this.label46.AutoSize = true;
+            this.label46.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            this.label46.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label46.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(13)))), ((int)(((byte)(13)))));
+            this.label46.Location = new System.Drawing.Point(820, 113);
+            this.label46.Name = "label46";
+            this.label46.Size = new System.Drawing.Size(163, 36);
+            this.label46.TabIndex = 64;
+            this.label46.Text = "carbohydrates";
+            // 
+            // label74
+            // 
+            this.label74.AutoSize = true;
+            this.label74.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            this.label74.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label74.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(77)))), ((int)(((byte)(78)))), ((int)(((byte)(79)))));
+            this.label74.Location = new System.Drawing.Point(628, 113);
+            this.label74.Name = "label74";
+            this.label74.Size = new System.Drawing.Size(155, 36);
+            this.label74.TabIndex = 63;
+            this.label74.Text = "Total Calories:";
             // 
             // label396
             // 
@@ -8419,58 +8463,12 @@
             this.guna2CirclePictureBox1.TabIndex = 1;
             this.guna2CirclePictureBox1.TabStop = false;
             // 
-            // label72
-            // 
-            this.label72.BackColor = System.Drawing.Color.Transparent;
-            this.label72.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label72.Font = new System.Drawing.Font("Poppins", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label72.Location = new System.Drawing.Point(3, 50);
-            this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(212, 15);
-            this.label72.TabIndex = 23;
-            this.label72.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // label76
-            // 
-            this.label76.BackColor = System.Drawing.Color.Transparent;
-            this.label76.Cursor = System.Windows.Forms.Cursors.Default;
-            this.label76.Font = new System.Drawing.Font("Poppins", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label76.Location = new System.Drawing.Point(-5, 0);
-            this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(67, 27);
-            this.label76.TabIndex = 24;
-            this.label76.Text = "asd";
-            // 
-            // label46
-            // 
-            this.label46.AutoSize = true;
-            this.label46.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
-            this.label46.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label46.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(13)))), ((int)(((byte)(13)))));
-            this.label46.Location = new System.Drawing.Point(820, 113);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(163, 36);
-            this.label46.TabIndex = 64;
-            this.label46.Text = "carbohydrates";
-            // 
-            // label74
-            // 
-            this.label74.AutoSize = true;
-            this.label74.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
-            this.label74.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label74.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(77)))), ((int)(((byte)(78)))), ((int)(((byte)(79)))));
-            this.label74.Location = new System.Drawing.Point(628, 113);
-            this.label74.Name = "label74";
-            this.label74.Size = new System.Drawing.Size(155, 36);
-            this.label74.TabIndex = 63;
-            this.label74.Text = "Total Calories:";
-            // 
             // TrainerDashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(9)))), ((int)(((byte)(41)))));
-            this.ClientSize = new System.Drawing.Size(1555, 779);
+            this.ClientSize = new System.Drawing.Size(1546, 779);
             this.Controls.Add(this.guna2CirclePictureBox11);
             this.Controls.Add(this.guna2Button32);
             this.Controls.Add(this.guna2Button78);
