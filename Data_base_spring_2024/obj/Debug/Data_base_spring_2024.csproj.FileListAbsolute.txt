@@ -78,3 +78,5 @@ D:\dbproject\DB_Flex\Data_base_spring_2024\obj\Debug\Data_base_spring_2024.cspro
 D:\dbproject\DB_Flex\Data_base_spring_2024\obj\Debug\Data_base_spring_2024.csproj.CopyComplete
 D:\dbproject\DB_Flex\Data_base_spring_2024\obj\Debug\Data_base_spring_2024.dll
 D:\dbproject\DB_Flex\Data_base_spring_2024\obj\Debug\Data_base_spring_2024.pdb
+D:\dbproject\DB_Flex\Data_base_spring_2024\obj\Debug\Data_base_spring_2024.RegisterTrainer.resources
+D:\dbproject\DB_Flex\Data_base_spring_2024\obj\Debug\Data_base_spring_2024.GymRegistration.resources

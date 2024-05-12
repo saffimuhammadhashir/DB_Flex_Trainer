@@ -65,6 +65,12 @@
     <Compile Include="Admin_dashboard.Designer.cs">
       <DependentUpon>Admin_dashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="GymRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GymRegistration.Designer.cs">
+      <DependentUpon>GymRegistration.cs</DependentUpon>
+    </Compile>
     <Compile Include="GymReview.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +88,12 @@
     </Compile>
     <Compile Include="OwnerReview.Designer.cs">
       <DependentUpon>OwnerReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterTrainer.Designer.cs">
+      <DependentUpon>RegisterTrainer.cs</DependentUpon>
     </Compile>
     <Compile Include="signup.cs">
       <SubType>Form</SubType>
@@ -112,6 +124,9 @@
     <EmbeddedResource Include="Admin_dashboard.resx">
       <DependentUpon>Admin_dashboard.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GymRegistration.resx">
+      <DependentUpon>GymRegistration.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GymReview.resx">
       <DependentUpon>GymReview.cs</DependentUpon>
     </EmbeddedResource>
@@ -120,6 +135,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="OwnerReview.resx">
       <DependentUpon>OwnerReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterTrainer.resx">
+      <DependentUpon>RegisterTrainer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="signup.resx">
       <DependentUpon>signup.cs</DependentUpon>

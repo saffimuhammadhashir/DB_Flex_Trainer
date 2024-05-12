@@ -99,11 +99,24 @@ namespace login
                     SqlDataReader readerT = commandT.ExecuteReader();
                     if (readerT.Read())
                     {
-                        TrainerDashboard obj = new TrainerDashboard(email);
+
+                        RegisterTrainer obj = new RegisterTrainer(email);
                         obj.Show();
 
                     }
                     readerT.Close();
+
+                    string queryG = "select * from GymOwner where email = '" + email + "'";
+                    SqlCommand commandG = new SqlCommand(queryG, connection);
+                    SqlDataReader readerG = commandG.ExecuteReader();
+                    if (readerG.Read())
+                    {
+
+                        GymRegistration obj = new GymRegistration(email);
+                        obj.Show();
+
+                    }
+                    readerG.Close();
 
                 }
                 else
